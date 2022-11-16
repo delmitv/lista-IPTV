@@ -26,6 +26,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="Familiares",Wowly TV
 http://stream.wowlymedia.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="Familiares",Kanade
+https://stream.wowlymedia.com/hls/kanade/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="Familiares",Lim TV
 http://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="Familiares",Lim TV (opcion 2)
