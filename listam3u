@@ -37,7 +37,7 @@ https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1697525611.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV (geobloqueo)
-https://cloud.odysee.live/content/df30cee626e25e9c4a8d24b1712a8db10d688ec9/master.m3u8
+https://cloud.odysee.live/live/df30cee626e25e9c4a8d24b1712a8db10d688ec9.m3u8?cachebust=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
@@ -88,7 +88,7 @@ http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1550837346.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-ID="ANI TV" tvg-logo="https://i.imgur.com/3lJZ1ky.png" group-title="JOVENES Y ADULTOS",Ani TV Brasil
+#EXTINF:-1 tvg-ID="ANI TV" tvg-logo="https://i.imgur.com/5989JuX.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus Asia
 http://210.210.155.35/dr9445/h/h02/02.m3u8
