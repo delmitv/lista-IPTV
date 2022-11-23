@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club SD
 https://livestreams.flote.app:5443/flote/streams/9307771d-3b4d-4fac-b5e7-d9d1dd6ddb29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="JOVENES Y ADULTOS",Animax Spain
-https://piczel.tv/hls/91280/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
 https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
