@@ -2,8 +2,14 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club 
 NO DISPONIBLE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
+http://stream.wowlymedia.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
 https://stream.wowlymedia.com/hls/kanade/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV
+http://live.limplay.ml/limtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV (opcion 2)
+https://videosenlared.fullstreaming.ar:3219/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
 https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
@@ -26,12 +32,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ls5K3WG.png" group-title="JOVENES Y ADULTOS",EnerGeek Animate
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="Familiares",Wowly TV
-http://stream.wowlymedia.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="Familiares",Lim TV
-http://live.limplay.ml/limtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="Familiares",Lim TV (opcion 2)
-https://videosenlared.fullstreaming.ar:3219/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1697525611.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
