@@ -36,6 +36,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1697525611.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+ç#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/is9iOmM.png" group-title="Familiares", Cartoon Network USA Fans
+https://cn.mediacircuit.tk/livecdn/hls/playout.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV (geobloqueo)
 https://cloud.odysee.live/live/df30cee626e25e9c4a8d24b1712a8db10d688ec9.m3u8?cachebust=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
@@ -46,13 +48,15 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="LATINO",Tele Estrella
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="LATINO", Tele Estrella
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO", Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO",Voice Over RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO", Voice Over RTV
 https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="LATINO",Retro Play TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IkbtlmX.png" group-title="LATINO", Canal 74  HD Chile
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w1707842187.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="LATINO", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
@@ -61,7 +65,7 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
-https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV Pluto TV
@@ -207,7 +211,7 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfCjQPH.png" group-title="SPAIN",Bon Dia TV HD (geobloqueo)
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="SPAIN",El Toro TV HD
-https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoaragontv.jpg" group-title="SPAIN",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",Solidaria tv Spain
