@@ -32,7 +32,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1697525611.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-ç#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/is9iOmM.png" group-title="Familiares", Cartoon Network USA Fans
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/is9iOmM.png" group-title="Familiares", Cartoon Network USA Fans
 https://cn.mediacircuit.tk/livecdn/hls/playout.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV (geobloqueo)
 https://cloud.odysee.live/live/df30cee626e25e9c4a8d24b1712a8db10d688ec9.m3u8?cachebust=1
