@@ -7,7 +7,7 @@ http://stream.wowlymedia.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
 https://stream.wowlymedia.com/hls/kanade/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV
-http://live.limplay.ml/limtv.m3u8
+https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV (opcion 2)
 https://videosenlared.fullstreaming.ar:3219/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
