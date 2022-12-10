@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club 
-http://ok.ru/videoembed/4987334041273
+https://6c99-2800-810-4c0-80af-d544-a54-e04-a089.sa.ngrok.io/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
 http://stream.wowlymedia.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
