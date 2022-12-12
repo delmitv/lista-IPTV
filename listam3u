@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club 
-https://6c99-2800-810-4c0-80af-d544-a54-e04-a089.sa.ngrok.io/hls/stream.m3u8
+https://nd106.republicaservers.com:4433/c6616.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
-http://stream.wowlymedia.com/hls/stream/index.m3u8
+NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
-https://stream.wowlymedia.com/hls/kanade/index.m3u8
+NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV (opcion 2)
