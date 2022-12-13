@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club 
 https://nd106.republicaservers.com:4433/c6616.mp4
+#EXTINF:-1 tv-id="" tvg-logo "https://i.imgur.com/RLE4k6Z.jpg" group-title="JOVENES Y ADULTOS", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
 NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
