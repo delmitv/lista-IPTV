@@ -10,13 +10,15 @@ NO DISPONIBLE
 NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares", ACS NETWORK TV
 https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
+#EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
+#EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/CbxJE05.png" group-title="JOVENES Y ADULTOS", Aniplus Argentina
+https://video.hardlimit.com/static/streaming-playlists/hls/0bd17f03-7c7c-4f08-87a1-353a8ce2cb08/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares", Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic Kids TV
 https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd07e63/0.m3u8
