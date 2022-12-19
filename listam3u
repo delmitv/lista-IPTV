@@ -11,7 +11,7 @@ NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares", ACS NETWORK TV
-https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
+https://cloudvideo.servers10.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS", Anime Zone TV
@@ -26,6 +26,8 @@ https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd0
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares", El Magic TV
+https://vd01.streaminghd.net.ar:3283/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
