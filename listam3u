@@ -54,8 +54,6 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="LATINO", Canal Punto 99 Series Retro
 https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="LATINO", The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="LATINO", Tele Estrella
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO", Norte Informativo TV
@@ -63,7 +61,7 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO", Voice Over RTV
 https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IkbtlmX.png" group-title="LATINO", Canal 74  HD Chile
-https://stmv1.zcasthn.com.br/canal74hd/canal74hd/chunklist_w205727373.m3u8
+https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="LATINO", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
@@ -236,6 +234,10 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mItch0M.png" group-title="LATINO",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="LATINO", FMTV HD
+https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c2PComT.png" group-title="LATINO", Global TV HD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png" group-title="LATINO",Neo TV Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td768p9.jpg" group-title="LATINO",TV Pop
@@ -281,7 +283,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino", Nick Clasico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats, Aventuras en Pañales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain", Rugrats, Aventuras en Pañales Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino", Rugrats Crecidos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino", Pluto TV Kids
@@ -354,6 +356,8 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="MUSICA",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV 2 HD
@@ -390,10 +394,6 @@ http://node-34.zeno.fm:80/vfxsw0deyzzuv
 http://node-19.zeno.fm:80/cp658vvd7tzuv
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
 http://streaming01.shockmedia.com.ar:8666/stream
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM RADIO
-http://190.106.134.219:8197/index.html;stream.nsv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="RADIOS",Wowly Radio
-https://s1.raudiostream.com:8008/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
 http://cast.animenexusla.com:8000/animenexus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
@@ -439,4 +439,4 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NAC
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca Vigo HD
 https://streaming.enacast.com/radiomarcavigoHD.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/1173px-Radio_3_RNE_Spain.svg_.png?fit=696%2C608&ssl=1" group-title="RADIOS",Radio 3 rne
-https://rtvelivestream.akamaized.net/segments/rne/rne_r3_main.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
