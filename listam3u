@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HFqHt27.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
-https://stream.olloor.org/toonizaki.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading Latino
-https://stream.olloor.org/loadinglat.m3u8
+https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
@@ -12,8 +10,6 @@ NO DISPONIBLE
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV (opcion 2)
-https://stream.olloor.org/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares", ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
