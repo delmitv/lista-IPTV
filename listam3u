@@ -27,7 +27,7 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares", El Magic TV
-https://vd01.streaminghd.net.ar:3283/stream/play.m3u8
+https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang Clasico
 http://161.97.152.4:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
