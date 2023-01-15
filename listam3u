@@ -171,7 +171,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG" group-title="SPAIN",CANAL 33 MADRID
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
-https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7M7ljKS.png" group-title="SPAIN",Canal Sur Andalucia 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondaazul.jpg" group-title="SPAIN",Canal Malaga
