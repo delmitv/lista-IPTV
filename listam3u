@@ -20,7 +20,7 @@ http://azxtv.com/hls/stream.m3u8
 NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares", Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic Kids TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
 https://stream.olloor.org/live/Z5XavMjxz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
