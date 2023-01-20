@@ -17,7 +17,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS", AnimeStation
-NO DISPONIBLE
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares", Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
