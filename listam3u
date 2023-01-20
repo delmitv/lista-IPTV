@@ -75,7 +75,7 @@ http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
-https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV Pluto TV
