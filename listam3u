@@ -38,10 +38,14 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS", VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
@@ -75,7 +79,7 @@ http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
-https://directes-tv-es.ccma.cat/live-origin/super3-hls/bitrate_3.m3u8
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV Pluto TV
@@ -323,7 +327,7 @@ https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Rai_News_24_Logo.png" group-title="NOTICIAS",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-XjOyXjvriSA/XZdRLKOAg5I/AAAAAAAAAGg/_H4mSaSFzM0in_GfPUoa9uKAzqOPN5fOwCK4BGAYYCw/s1600/SUPERSIX%2BLOMBARDIA-LOGO%2B400-PNG.png" group-title="ITALIA",Super Six Lombardia
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/chunklist_w1945812383.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="ITALIA",Alto Adige TV
