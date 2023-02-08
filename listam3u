@@ -23,7 +23,7 @@ https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares", Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
-https://stream.olloor.org/live/Z5XavMjxz/index.m3u8
+https://stream.tuentv.net:8081/magickids/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
