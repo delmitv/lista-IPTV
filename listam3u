@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZqgRF3u.png" group-title="JOVENES Y ADULTOS",Toonizaki
 https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZqgRF3u.png" group-title="JOVENES Y ADULTOS",Toonizaki OP 2
-https://stream.tuentv.net:8081/toonizaki/index.m3u8
+https://stream.tuentv.net:19360/toonizaki_abr/toonizaki_abr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
@@ -33,7 +33,7 @@ https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LQBRAwP.png" group-title="Familiares",Fox Kids
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DqknWtY.png" group-title="Familiares",Retro Kids
-https://maxicba.ddns.net/hls/stream.m3u8
+https://vivo.solumedia.com:19360/retrokids/retrokids.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang Clasico
 http://161.97.152.4:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
