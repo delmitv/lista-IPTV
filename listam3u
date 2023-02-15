@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZqgRF3u.png" group-title="JOVENES Y ADULTOS",Toonizaki
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vOH2Ayl.png" group-title="JOVENES Y ADULTOS",Toonizaki 2
 https://stream.tuentv.net:19360/toonizaki_abr/toonizaki_abr.m3u8
