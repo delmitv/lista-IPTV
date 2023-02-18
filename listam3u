@@ -4,8 +4,6 @@
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gdV4HMM.png" group-title="JOVENES Y ADULTOS", Wowly TV
-NO DISPONIBLE
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV
@@ -51,7 +49,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://stream-us-east-1.getpublica.com/cl/230217cfnsfduisvfi0odsmmg0/654x480_1698976_1_f.m3u8?i=513_2701
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
 https://live-eu-2.livepush.io/live/emAeNk8mcoqhhYV/index.m3u8?session_id=7611124948089085
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
