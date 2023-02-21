@@ -72,11 +72,11 @@ https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV Pequerrechoas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas
 http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV Cativoas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w2ds9Jy.png" group-title="Familiares",Xabarin TV Cativoas
 http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV Mociñoas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas
 http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
