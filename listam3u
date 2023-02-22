@@ -8,6 +8,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="Familiares",Maxima TV
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares", ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
@@ -79,7 +81,7 @@ http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas
 http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
@@ -113,9 +115,9 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus Asia
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (geobloqueo)
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+https://la1hdgl1src2.akamaized.net/rtve-tdt/la1_all/rtve-tdt/la1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo)
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_1080.m3u8
+https://la2gl1src2.akamaized.net/rtve-tdt/la2_all/rtve-tdt/la2_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvgamerica-324x235.png" group-title="SPAIN",Galicia TV America HD
@@ -301,7 +303,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce15
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empenos a lo bestia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain", Pluto TV Empenos a lo bestia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xm1ct3T.png" group-title="DEPORTES",Teledeporte HD (geobloqueo)
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_1080.m3u8
+https://tdphdgl1src2.akamaized.net/rtve-tdt/tdp_all/rtve-tdt/tdp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KBCsTlk.png" group-title="DEPORTES",Esport3 HD (geobloqueo)
@@ -313,7 +315,7 @@ https://vdo.panelstreaming.live:3540/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (geobloqueo)
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
+https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I40Z92d.png" group-title="NOTICIAS",7nn TV
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkriY3B.png" group-title="NOTICIAS",7nn Galicia
