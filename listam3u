@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
+https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
