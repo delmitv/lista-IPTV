@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
-https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
+https://stream-linkyprojects.linky.com.co/hls/toonizaki01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vOH2Ayl.png" group-title="JOVENES Y ADULTOS",Toonizaki 2
 https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
