@@ -38,14 +38,8 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares", El Magic TV
 https://tuvideoonline.com.ar:3937/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LQBRAwP.png" group-title="Familiares",Fox Kids
-http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DqknWtY.png" group-title="Familiares",Retro Kids
-https://vivo.solumedia.com:19360/retrokids/retrokids.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang Clasico
-http://161.97.152.4:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="Familiares",Mi TV Television Clasica
@@ -53,7 +47,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://stream-us-east-1.getpublica.com/cl/230320cgc9fo49kpr3un0m2kc0/654x480_2715351_2_f.m3u8?i=513_2701
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Familiares",PlanetaTV Kids
@@ -168,8 +162,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoptv.jpg" group-title="SPAIN",PTV Malaga HD
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/canal-coin-100x70.png" group-title="SPAIN",Canal Coin TV
-https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondaalgecirastv.jpg" group-title="SPAIN",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MURCIA-324x235.png" group-title="SPAIN",Popular TV Murcia
@@ -300,8 +292,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empenos a lo bestia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Empenos a lo bestia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0LBqwHd.png" group-title="DEPORTES",Gol Play HD
-https://d1vdk22eeu518c.cloudfront.net/out/v1/8c6f5bf6fe2c435baff059f0b9c412f4/index_4.m3u8?Expires=1679342226&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMXZkazIyZWV1NTE4Yy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvOGM2ZjViZjZmZTJjNDM1YmFmZjA1OWYwYjljNDEyZjQvaW5kZXhfNC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjc5MzQyMjI2fX19XX0_&Signature=fASE3mjgHwLdlVJZsUMqVPHhVq0jzWxGkKu9bNwUdLYtaKyG4e9XXqU4MsMbxenk9OjacBRRBF5isSvi~drYws9~-sBOmlW9zShdcXfkzLdAjenrqB9DsjGRqYXuqqwRoD~fylU-upMBa2S5qsZf5G8zT-M5LZcAzeT7fiX141C1qndFVUlKIXURXlTw20ZcJJSa-iSxv9MM9x-Vr2FqAczBJmCgU3xccqsJBwVLW-mD2CKa13ec75z7B1AiqM~gnAUEM1V9RlVof8ct3cXZArAvEyMUNOBIlWlz-WfT8kA75BSxfi0ooMX-FymyUKtxOwUSN~zaRQbEwu2RoSpCtA__&Key-Pair-Id=APKAIKNFKJT4M3NREZWQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xm1ct3T.png" group-title="DEPORTES",Teledeporte HD (geobloqueo)
 https://tdphdgl1src2.akamaized.net/rtve-tdt/tdp_all/rtve-tdt/tdp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
