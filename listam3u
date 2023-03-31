@@ -79,8 +79,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/manifest/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/5d03c70f-c984-4338-a251-60fb12613113/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Familiares",Senal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares",Paka Paka
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
@@ -114,7 +112,7 @@ http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="SPAIN",Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7
-https://cdnlive.codev8.net/rtpalive/smil:directo/.m3u8?DVR
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
 https://media2.streambrothers.com:19360/8186/8186.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bbD4ttO.png" group-title="SPAIN",Televigo HD
@@ -359,7 +357,7 @@ https://archive.org/serve/adrian-barba-luchare-hasta-el-final-dragon-ball-z-budo
 http://archive.org/download/DetektivConanOpenings10WinterBells/Detektiv%20Conan%20Openings%20-%2001%20-%20Mune%20ga%20Dokidoki.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RC8Ymzw.jpeg" group-title="RADIOS",Delmi Series Hits
 https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G26OlsA.png" group-title="RADIOS", Radio Super Music FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iOksDVo.png" group-title="RADIOS", Radio Super Music FM
 https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS", Animax Radio
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
