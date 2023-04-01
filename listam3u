@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki (Opción 2)
-https://dash.quibi.one/live/toonizaki.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VlGfWW5.png" group-title="JOVENES Y ADULTOS", Kanade TV
@@ -12,6 +10,8 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opción 2)
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS", Anime Zone TV
@@ -304,7 +304,7 @@ https://vdo.panelstreaming.live:3540/stream/play.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (geobloqueo)
 https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I40Z92d.png" group-title="NOTICIAS",7nn TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkriY3B.png" group-title="NOTICIAS",7MN Galicia
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkriY3B.png" group-title="NOTICIAS",7nn Galicia
 https://media2.streambrothers.com:19360/8076/8076.m3u8
