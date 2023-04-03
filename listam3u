@@ -18,12 +18,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS", AnimeStation
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Adz7nAy.png" group-title="JOVENES Y ADULTOS",EnerGeek Animate
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS", VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
@@ -262,8 +256,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Pabales Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Panales Pluto TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
@@ -326,6 +320,10 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w950960847
 https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WN0aaRI.png" group-title="ITALIA",Tsn Lecco TV
 https://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/chunklist_w1483367162.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="MUSICA",EnerGeek
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MUi90Mb.png" group-title="MUSICA",Modoradio TV
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA",EnerGeek Radio TV
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
