@@ -18,12 +18,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS", AnimeStation
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Adz7nAy.png" group-title="JOVENES Y ADULTOS",EnerGeek Animate
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS", VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
@@ -326,6 +320,10 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w950960847
 https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WN0aaRI.png" group-title="ITALIA",Tsn Lecco TV
 https://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/chunklist_w1483367162.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="MUSICA",EnerGeek
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MUi90Mb.png" group-title="MUSICA",Modoradio TV
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA",EnerGeek Radio TV
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
