@@ -43,7 +43,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares", El Magic TV
-https://tuvideoonline.com.ar:3937/stream/play.m3u8
+https://kali.vdopanel.com:3704/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
@@ -369,7 +369,7 @@ http://node-34.zeno.fm:80/vfxsw0deyzzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
 http://node-19.zeno.fm:80/cp658vvd7tzuv
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
-http://streaming01.shockmedia.com.ar:8666/stream
+https://streaming01.shockmedia.com.ar:10470/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
 http://cast.animenexusla.com:8000/animenexus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
