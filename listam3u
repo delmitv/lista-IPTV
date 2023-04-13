@@ -369,7 +369,7 @@ http://node-34.zeno.fm:80/vfxsw0deyzzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
 http://node-19.zeno.fm:80/cp658vvd7tzuv
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
-http://streaming01.shockmedia.com.ar:8666/stream
+https://streaming01.shockmedia.com.ar:10470/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
 http://cast.animenexusla.com:8000/animenexus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
