@@ -1,12 +1,12 @@
-#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiacanales.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS",Bayres TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VlGfWW5.png" group-title="JOVENES Y ADULTOS",Kanade TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VlGfWW5.png" group-title="JOVENES Y ADULTOS", Kanade TV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
@@ -14,13 +14,13 @@ https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W032I0Q.jpg" group-title="JOVENES Y ADULTOS",Vintage Channel
 https://acl-server.linky.com.co/hls/vintage2023.m3u8
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
+#EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS", AnimeStation
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS", VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
@@ -42,7 +42,7 @@ https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares", El Magic TV
+#EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
 https://kali.vdopanel.com:3704/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
@@ -136,10 +136,6 @@ http://89.140.229.4/hls1/cancionero.m3u8
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="SPAIN",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_La_7.svg/200px-Logo_La_7.svg.png" group-title="SPAIN",La 7 de CyLTV HD
-https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="SPAIN",La 8 Leon de CyLTV HD
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="SPAIN",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="SPAIN",La Otra
@@ -238,54 +234,55 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2018/09/IMAGOGRANDE.png" group-title="LATINO",Solidaria tv Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Spain" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Spain
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Clasico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.imgur.com/xyAPCzH.png" tvg-shift="0" group-title="Pluto TV Spain",Detective Conan Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.imgur.com/VzX9t3v.png" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Accion
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV One Piece" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV One Piece
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clasico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage.jpg" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Toons Clasico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Garfield" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Garfield
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Panales Pluto TV
-https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Series Retro
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="Matrimonio con hijos Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain", Matrimonio con hijos Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f58d45696a530007088486/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="La Ninera Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",La Ninera Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://i.imgur.com/xuH7gFp.jpg" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Retro Cartoons
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV TokuSato
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Spain" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Spain
+https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Clasico
+https://i.mjh.nz/PlutoTV/6054acc871ec430007f54c7d-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.imgur.com/xyAPCzH.png" tvg-shift="0" group-title="Pluto TV Spain",Detective Conan Pluto TV
+https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clasico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage.jpg" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Toons Clasico
+https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Garfield" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Garfield
+https://i.mjh.nz/PlutoTV/6054ab20a365c70007e4fd44-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Pabales Pluto TV
+https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
+https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Matrimonio con hijos Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain", Matrimonio con hijos Pluto TV
+https://i.mjh.nz/PlutoTV/60f58d45696a530007088486-alt.m3u8
+hEXTINF:-1 tvg-id="" tvg-name="La Ninera Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",La Ninera Pluto TV
+https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear en Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Top Gear en Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Comedia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series Comedia
+https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vaya Semanita" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Vaya Semanita
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5f28009b150b2500077766b8-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedia Made In Spain" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Comedia Made In Spain
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empenos a lo bestia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Empenos a lo bestia
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xm1ct3T.png" group-title="DEPORTES",Teledeporte HD (geobloqueo)
 https://tdphdgl1src2.akamaized.net/rtve-tdt/tdp_all/rtve-tdt/tdp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
@@ -324,6 +321,8 @@ https://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/chunklist_w1483367162.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MUi90Mb.png" group-title="MUSICA",Modoradio TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCPR
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA",EnerGeek Radio TV
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
@@ -332,7 +331,7 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 https://ssh101.bozztv.com/ssh101/mitvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="MUSICA",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA",The Retro Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
