@@ -11,7 +11,7 @@ https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W032I0Q.jpg" group-title="JOVENES Y ADULTOS",Vintage Channel
 https://acl-server.linky.com.co/hls/vintage2023.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VlGfWW5.png" group-title="JOVENES Y ADULTOS",Kanade TV
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
@@ -21,7 +21,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS",Bayres TV
@@ -31,7 +31,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.imgur.com/5989JuX.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tVEMkve.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus Asia
