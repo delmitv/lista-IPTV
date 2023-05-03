@@ -268,8 +268,12 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 https://i.mjh.nz/PlutoTV/6054acc871ec430007f54c7d-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.imgur.com/xyAPCzH.png" tvg-shift="0" group-title="Pluto TV Spain",Detective Conan Pluto TV
 https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clasico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage.jpg" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Toons Clasico
+#EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Inazuma Eleven Pluto TV
+https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clasico" tvg-logo="https://i.imgur.com/uGaJkCb.png" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Toons Clasico
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+´#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Spain Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Bob Esponja Spain Pluto TV
+https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Garfield" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Garfield
 https://i.mjh.nz/PlutoTV/6054ab20a365c70007e4fd44-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Panales Pluto TV
