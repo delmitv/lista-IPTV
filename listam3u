@@ -248,6 +248,8 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.imgur.com/VzX9t3v.png" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Accion
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Kids
+https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV One Piece" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV One Piece
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
@@ -256,10 +258,14 @@ https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Kids
 https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Bob Esponja Latino Pluto TV
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://i.imgur.com/xuH7gFp.jpg" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Retro Cartoons
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kenan y Kel Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Kenan y Kel Pluto TV
+https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV TokuSato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Spain" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Spain
@@ -286,6 +292,8 @@ https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 https://i.mjh.nz/PlutoTV/60f58d45696a530007088486-alt.m3u8
 hEXTINF:-1 tvg-id="" tvg-name="La Ninera Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",La Ninera Pluto TV
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles de Charlie Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Los Angeles de Charlie Pluto TV
+https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear en Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Top Gear en Pluto TV
 https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Comedia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series Comedia
