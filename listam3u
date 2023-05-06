@@ -356,6 +356,8 @@ https://live.teledomdr.com:3736/live/lenatvlive.m3u8
 https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICA",Tvg Musigal
+http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV 2 HD
