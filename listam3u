@@ -110,8 +110,6 @@ http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Amodino
 http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="SPAIN",Tvg Musigal
-http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
@@ -296,8 +294,6 @@ hEXTINF:-1 tvg-id="" tvg-name="La Ninera Pluto TV" tvg-logo="" tvg-shift="0" gro
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Angeles de Charlie Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Los Angeles de Charlie Pluto TV
 https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Gear en Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Top Gear en Pluto TV
-https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Comedia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series Comedia
 https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear en Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Top Gear en Pluto TV
