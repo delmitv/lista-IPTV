@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fzlwguV.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
+https://acl-server.linky.com.co/hls/toonizaki2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
