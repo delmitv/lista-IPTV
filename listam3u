@@ -67,7 +67,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS
-https://seo.tv.bo/tv/q2KIDS.m3u8
+https://live.seo.tv.bo/live/2SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Familiares",PlanetaTV Kids
@@ -213,11 +213,15 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y4PVLN7.jpg" group-title="LATINO",Canal 4 Extra
 https://sigma.radioplayer.com.ar:19360/98pop981/98pop981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
-https://seo.tv.bo/tv/q1SEO.m3u8
+https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NOVELAS HD" tvg-logo="https://i.imgur.com/iUf7GNf.png" group-title="LATINO",SEO TV 3 NOVELAS HD
-https://seo.tv.bo/tv/q3NVLS.m3u8
+https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 4 PELICULAS HD" tvg-logo="https://i.imgur.com/816xTc2.png" group-title="LATINO",SEO TV 4 PELICULAS HD
-https://seo.tv.bo/tv/q4PE.m3u8
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 6 HD
+https://live.seo.tv.bo/live/6SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV 7 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 7 HD
+https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="LATINO",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
@@ -327,7 +331,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KBCsTlk.png" group-title="DEPORTES",Esport3 HD (geobloqueo)
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 5 DEPORTES HD" tvg-logo="https://i.imgur.com/dIUj28w.png" group-title="DEPORTES",SEO TV 5 DEPORTES HD
-https://seo.tv.bo/tv/q5EVE.m3u8
+https://live.seo.tv.bo/live/5SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="DEPORTES",CRTV Chile
 https://vdo.panelstreaming.live:3540/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES",Esports Max
