@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
-https://xhateaec.com:8800/hls/toonizaki/toonizaki/ca6034b0327e8c6a575d13244801e918/index.m3u8
+https://xhateaec.com:8800/hls/toonizaki/toonizaki/7236bd12eac9c4b671d60a938c406eae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9lPZBkY.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
