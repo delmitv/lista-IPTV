@@ -242,6 +242,8 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="LATINO",FMTV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+ç#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZmGtwL.jpg" group-title="LATINO",Canal Ame 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c2PComT.png" group-title="LATINO",Global TV HD
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png" group-title="LATINO",Neo TV Argentina
