@@ -392,6 +392,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w195497615.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICA",Venus Media TV HD
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICA",San Borja TV HD
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-xabarin-en-directo-100x70.png" group-title="MUSICA",Cancion Somos do clube da galega - Xabarín
 http://ondemand-crtvg-origin.flumotion.com/videos/MD/xabaclips/085.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",LA ALDEA DEL ARCE (SHAMALELE SHAMALA COMPLETA)
