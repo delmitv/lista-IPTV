@@ -201,7 +201,7 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO",Voice Over RTV
-https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IkbtlmX.png" group-title="LATINO",Canal 74  HD Chile
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="LATINO",Retro Play TV
@@ -255,7 +255,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 3 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1347731540.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iz9r7kl.png" group-title="LATINO",Opinionsur TV
-https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+https://stmv2.zcasthn.com.br/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fG5dyw3.png" group-title="LATINO",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
