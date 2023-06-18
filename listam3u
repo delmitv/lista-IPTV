@@ -379,7 +379,7 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="MUSICA",Lena RTV
-https://live.teledomdr.com:3736/live/lenatvlive.m3u8
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="MUSICA",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
