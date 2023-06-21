@@ -261,7 +261,7 @@ https://stmv2.zcasthn.com.br/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fG5dyw3.png" group-title="LATINO",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
-https://stream-05.ix7.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLs6FcuyrU8AcbNWYpgQcn2qgwZ5k-BvUcQPKArQiV1J3)/dm/3/x82ug5r/s/live-3.m3u8
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.atb.com.bo/icons/logo-large.png" group-title="LATINO",ATB HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://66.media.tumblr.com/5d12140d1d99c658767b59f27ba5aeb8/90832fcc1fa475fc-f8/s250x400/9adf78910af5fa8e6a33c3dead483056b2073c36.png" group-title="LATINO",Buin Somos Todos
