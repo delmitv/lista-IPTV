@@ -53,7 +53,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
-https://kali.vdopanel.com:3683/stream/play.m3u8
+https://kali.vdopanel.com:3070/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
