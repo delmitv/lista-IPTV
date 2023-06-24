@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zlwEgcs.png" group-title="JOVENES Y ADULTOS",Toonizaki
 https://xhateaec.com:8800/hls/toonizaki/toonizaki/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9lPZBkY.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
@@ -15,7 +15,7 @@ https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://acl-server.linky.com.co/hls/vintage2023.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
+https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
@@ -58,7 +58,7 @@ https://kali.vdopanel.com:3070/stream/play.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8NsZxiL.png" group-title="Familiares",Canal Los Pitufos TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Familiares",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png"  group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
