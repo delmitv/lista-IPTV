@@ -4,18 +4,20 @@
 https://xhateaec.com:8800/hls/toonizaki/toonizaki/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9lPZBkY.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM HD
 https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opción 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://acl-server.linky.com.co/hls/vintage2023.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
+https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
