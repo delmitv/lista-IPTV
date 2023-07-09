@@ -94,6 +94,8 @@ http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
 https://d1xg4yk1tsabyl.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/3e9w3PX.jpg" group-title="Familiares",neox Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
