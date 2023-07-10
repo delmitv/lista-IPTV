@@ -14,8 +14,6 @@ https://live.limplay.ml/limtv.m3u8
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
-https://acl-server.linky.com.co/hls/vintage2023.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
