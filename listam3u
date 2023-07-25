@@ -384,41 +384,41 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w950960847
 https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WN0aaRI.png" group-title="ITALIA",Tsn Lecco TV
 https://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/chunklist_w1483367162.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="MUSICA",Planetatv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="MUSICAS",Planetatv
 https://tls-cl.cdnz.cl/music/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCPR
+#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICAS",CCPR
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA",EnerGeek Radio TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICAS",EnerGeek Radio TV
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICAS",Kmk RTV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="MUSICA",Lena RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="MUSICAS",Lena RTV
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICA",Tvg Musigal
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICAS",Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w195497615.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICA",Venus Media TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICA",San Borja TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICAS",San Borja TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1XkaBrU.png" group-title="MUSICAS",Rosa FM
 https://tv.streaming-chile.com:1936/rosafm/rosafm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-xabarin-en-directo-100x70.png" group-title="MUSICA",Cancion Somos do clube da galega - Xabarín
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-xabarin-en-directo-100x70.png" group-title="MUSICAS",Cancion Somos do clube da galega - Xabarín
 http://ondemand-crtvg-origin.flumotion.com/videos/MD/xabaclips/085.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",LA ALDEA DEL ARCE (SHAMALELE SHAMALA COMPLETA)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICAS",LA ALDEA DEL ARCE (SHAMALELE SHAMALA COMPLETA)
 https://archive.org/serve/la_aldea_del_arce/DelmiAnime.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/07/b8/6e/07b86ec40ea5ca30f383e492a2ad52ed.png" group-title="MUSICA",Digimon Butter-Fly
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/07/b8/6e/07b86ec40ea5ca30f383e492a2ad52ed.png" group-title="MUSICAS",Digimon Butter-Fly
 https://archive.org/serve/digimon-butter-fly/Digimon%20Butter-Fly.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/4fLQIKfnXSg/maxresdefault.jpg" group-title="MUSICA",Adrian Barba Luchare hasta el final (Dragon Ball Z Budokai 3 OP)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/4fLQIKfnXSg/maxresdefault.jpg" group-title="MUSICAS",Adrian Barba Luchare hasta el final (Dragon Ball Z Budokai 3 OP)
 https://archive.org/serve/adrian-barba-luchare-hasta-el-final-dragon-ball-z-budokai-3-op/Adrian%20Barba%20Luchare%20hasta%20el%20final%20%28Dragon%20Ball%20Z%20Budokai%203%20OP%29.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XHUo5hWnL._SX355_.jpg" group-title="MUSICA",Detective Conan Opening 1 Mune ga Dokidoki
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XHUo5hWnL._SX355_.jpg" group-title="MUSICAS",Detective Conan Opening 1 Mune ga Dokidoki
 http://archive.org/download/DetektivConanOpenings10WinterBells/Detektiv%20Conan%20Openings%20-%2001%20-%20Mune%20ga%20Dokidoki.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RC8Ymzw.jpeg" group-title="RADIOS",Delmi Series Hits
 https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
