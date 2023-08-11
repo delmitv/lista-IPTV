@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
-https://xhateaec.com:8800/hls/MagicTeam/MagicTeam/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w06CBI2.png" group-title="JOVENES Y ADULTOS",TBS Panregional
@@ -169,11 +167,11 @@ https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="SPAIN",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="SPAIN",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="SPAIN",La Otra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondamadrid.jpg" group-title="SPAIN",Onda Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/bitrate_1.m3u8
+https://tvradio-1-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG" group-title="SPAIN",CANAL 33 MADRID
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
