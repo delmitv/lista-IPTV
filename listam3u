@@ -206,8 +206,6 @@ https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",Solidaria tv Spain
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="LATINO",Canal Punto 99 Series Retro
-https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie 
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="LATINO",Tele Estrella
