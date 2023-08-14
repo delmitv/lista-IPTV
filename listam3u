@@ -306,6 +306,8 @@ https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Pluto TV" tvg-logo="https://i.imgur.com/7OhZ4zw.jpg" tvg-shift="0" group-title="Pluto TV Latino",Nick Pluto TV
+https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Kids
@@ -326,6 +328,8 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Inazuma Eleven Pluto TV
 https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh en Pluto TV" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" tvg-shift="0" group-title="Pluto TV Spain",Yu-Gi-Oh en Pluto TV
+https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Panales Pluto TV
 https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clasico" tvg-logo="https://i.imgur.com/uGaJkCb.png" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Toons Clasico
@@ -334,6 +338,8 @@ https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
 https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Poirot y Miss Marple Pluto TV" tvg-logo="https://i.imgur.com/u8d7YsM.jpg" tvg-shift="0" group-title="Pluto TV Spain",Poirot y Miss Marple Pluto TV
+https://i.mjh.nz/PlutoTV/6304f530440dc90007f514d3-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Matrimonio con hijos Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain", Matrimonio con hijos Pluto TV
