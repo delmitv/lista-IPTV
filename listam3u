@@ -33,7 +33,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://cageu.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="JOVENES Y ADULTOS",Wow Channel
@@ -84,7 +84,7 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="Familiares",Retrox TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cghkxbr.png" group-title="Familiares",Retrox TV
 https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://i.imgur.com/y4STmJn.jpg" group-title="Familiares",Diti TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
