@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ftMbCa9.png" group-title="JOVENES Y ADULTOS",XQSI
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8XIMFHG.png" group-title="JOVENES Y ADULTOS",Big Channel
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
@@ -452,6 +452,8 @@ http://node-18.zeno.fm:80/gxymp3mkr2zuv
 http://node-34.zeno.fm:80/vfxsw0deyzzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
 http://node-19.zeno.fm:80/cp658vvd7tzuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JLAqSvn.png" group-title="RADIOS",Conéctate Retro Hits Radio
+https://us9.maindigitalstream.com/ssl/7686i
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
 https://streaming01.shockmedia.com.ar:10470/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
