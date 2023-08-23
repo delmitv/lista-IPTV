@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ChSZRmR.jpg" group-title="JOVENES Y ADULTOS",Magic Sur
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
@@ -63,7 +63,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
-https://kali.vdopanel.com:3448/stream/play.m3u8
+https://kali.vdopanel.com:3754/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
