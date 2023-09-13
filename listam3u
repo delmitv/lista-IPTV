@@ -6,7 +6,7 @@ https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w06CBI2.png" group-title="JOVENES Y ADULTOS",TBS Panregional
 https://streaming.zappix.live:3962/live/tbsfeedpanlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RVUNd8R.jpg" group-title="JOVENES Y ADULTOS",Toonizaki Imternacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6ToU6un.png" group-title="JOVENES Y ADULTOS",Toonizaki 2 (Señal Internacional)
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM HD
 https://streaming.zappix.live:3014/live/compremiumlive.m3u8
