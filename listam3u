@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic Club
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="JOVENES Y ADULTOS",Magic Club
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5mTqDu1.png" group-title="JOVENES Y ADULTOS",Toonizaki 2
 http://190.122.96.187:8888/http/010
