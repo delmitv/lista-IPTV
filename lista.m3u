@@ -70,6 +70,8 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 https://kali.vdopanel.com:3311/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends (opcion 2)
+https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
