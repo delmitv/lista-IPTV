@@ -19,9 +19,9 @@ https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 3)
 https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
-https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
+https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://cageu.bozztv.com/ssh101/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
