@@ -24,6 +24,10 @@ https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://cageu.bozztv.com/ssh101/ssh101/cgtve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMyOfgc.png" group-title="JOVENES Y ADULTOS",Wow Channel
+https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
 https://ia601507.us.archive.org/6/items/teletoonizakiloop/Teletoonizaki%20loop.mp4
 #EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax Live" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax
@@ -40,14 +44,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://cageu.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMyOfgc.png" group-title="JOVENES Y ADULTOS",Wow Channel
-https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
@@ -226,6 +226,8 @@ https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKY5GNn.png" group-title="LATINO",Tele Estrella HD Bolivia
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO",Voice Over RTV
