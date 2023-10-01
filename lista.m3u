@@ -24,7 +24,7 @@ https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://cageu.bozztv.com/ssh101/ssh101/cgtve/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
+#EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
 https://ia601507.us.archive.org/6/items/teletoonizakiloop/Teletoonizaki%20loop.mp4
 #EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax Live" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax
 https://streaming.zappix.live:3062/live/animaxlive.m3u8
