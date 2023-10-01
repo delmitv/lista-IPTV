@@ -29,7 +29,7 @@ https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
-https://ia601507.us.archive.org/6/items/teletoonizakiloop/Teletoonizaki%20loop.mp4
+https://archive.org/download/teletoonizakiloop/Teletoonizaki%20loop.ia.mp4
 #EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax Live" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax
 https://streaming.zappix.live:3062/live/animaxlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
