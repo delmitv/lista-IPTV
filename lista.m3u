@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel
+https://xhateaec.com:8800/hls/RocketChannel/RocketChannel/9acb35979d0b7304e7d08dce2142016e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel (Opción 2)
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dr06eVp.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
 http://190.122.96.187:8888/http/010
@@ -12,11 +14,11 @@ https://streaming.zappix.live:3962/live/tbsfeedpanlive.m3u8
 https://streaming.zappix.live:3014/live/compremiumlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 3)
 https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
