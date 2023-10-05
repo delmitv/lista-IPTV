@@ -7,11 +7,11 @@ https://streaming.zappix.live:3538/live/toonizakilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dr06eVp.jpg" group-title="JOVENES Y ADULTOS",Toonizaki 2
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
-https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
+https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w06CBI2.png" group-title="JOVENES Y ADULTOS",TBS Panregional
-https://streaming.zappix.live:3962/live/tbsfeedpanlive.m3u8
+https://streaming.zappix.live:19360/tbspanregional/tbspanregional.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM HD
-https://streaming.zappix.live:3014/live/compremiumlive.m3u8
+https://streaming.zappix.live:19360/compremium/compremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV
@@ -134,8 +134,6 @@ https://la1hdgl1src2.akamaized.net/rtve-tdt/la1_all/rtve-tdt/la1_720p/chunks.m3u
 https://la2gl1src2.akamaized.net/rtve-tdt/la2_all/rtve-tdt/la2_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xUXua4P.png" group-title="SPAIN",Tve HD solo Europa (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xUXua4P.png" group-title="SPAIN",Tve Star HD solo America (geobloqueo)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tBnl3r1.png" group-title="SPAIN",Cope TV
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
@@ -314,6 +312,8 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1157215396.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="LATINO",Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="LATINO",Star Tve HD solo America (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV (geobloqueo)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV 2 (geobloqueo)
