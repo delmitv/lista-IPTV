@@ -30,8 +30,6 @@ https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
 https://archive.org/download/teletoonizakiloop/Teletoonizaki%20loop.ia.mp4
-#EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax Live" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax
-https://streaming.zappix.live:3062/live/animaxlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
@@ -74,6 +72,8 @@ https://kali.vdopanel.com:3311/stream/play.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends (opcion 2)
 https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Xtrema TV Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GwpJYZV.jpg" group-title="Familiares",Xtrema TV Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
@@ -102,8 +102,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N7HXvDq.png" group-title="Familiares",Classic Channel HD
 https://paneltv.online:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://i.imgur.com/y4STmJn.jpg" group-title="Familiares",Diti TV
-https://inliveserver.com:1936/8386/8386/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="Familiares",Planetatv family
@@ -252,6 +250,10 @@ https://video20.klm99.com:3558/hybrid/play.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="LATINO",GenTV HD
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eItbFTy.jpg" group-title="LATINO",Xtrema TV Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N7XJrnG.jpg" group-title="LATINO",Xtrema TV Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SiGxs6L.png" group-title="LATINO",Free TV HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",Juntos HD
