@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel
-https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
@@ -28,6 +26,8 @@ https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax Live" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
 https://archive.org/download/teletoonizakiloop/Teletoonizaki%20loop.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
@@ -106,6 +106,10 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas
@@ -324,6 +328,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV 2 (geobloqueo)
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
+https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2018/09/IMAGOGRANDE.png" group-title="LATINO",Solidaria tv Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
