@@ -92,14 +92,14 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GF3i7qq.png" group-title="Familiares",Retro TV
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cghkxbr.png" group-title="Familiares",Retrox TV
+https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QdZ5MdO.png" group-title="Familiares",Vision TV HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cghkxbr.png" group-title="Familiares",Retrox TV
-https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N7HXvDq.png" group-title="Familiares",Classic Channel HD
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
@@ -108,9 +108,9 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Retro
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Retro HD
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
@@ -124,7 +124,7 @@ http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
 https://d1xg4yk1tsabyl.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
@@ -290,6 +290,8 @@ https://tv.streaming-chile.com:1936/8030/8030/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="LATINO",FMTV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="LATINO",Chilevisual  Film HD
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZmGtwL.jpg" group-title="LATINO",Canal Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c2PComT.png" group-title="LATINO",Global TV HD
