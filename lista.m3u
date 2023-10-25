@@ -70,8 +70,6 @@ https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
-https://kali.vdopanel.com:3311/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends (opcion 2)
@@ -166,8 +164,6 @@ http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bbD4ttO.png" group-title="SPAIN",Televigo HD
-https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1MA5fb.png" group-title="SPAIN",7MN Galicia
 https://media2.streambrothers.com:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-V99DQEMCD9jnhaeWOzSw_8hfBQ5IDa22H0g=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",TV Ferrol
@@ -214,8 +210,6 @@ http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondaalgecirastv.jpg" group-title="SPAIN",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MURCIA-324x235.png" group-title="SPAIN",Popular TV Murcia
-https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-CANTABRIA-324x235.png" group-title="SPAIN",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MELILLA-324x235.png" group-title="SPAIN",Popular TV Melilla
