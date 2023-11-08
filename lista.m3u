@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel
 https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zFU6js0.png" group-title="JOVENES Y ADULTOS",Michy Miau
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
@@ -72,9 +72,9 @@ https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dOwKaM.png" group-title="Familiares",David el Gnomo y Friends (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya (opcion 2)
 https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Xtrema TV Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
@@ -238,6 +238,10 @@ https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKY5GNn.png" group-title="LATINO",Tele Estrella HD Bolivia
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LSCHJJK.png" group-title="LATINO",Aion TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I4qXG4z.jpg" group-title="LATINO",Frata TV
+https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
