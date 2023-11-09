@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel
 https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY
@@ -22,7 +22,7 @@ https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
 https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu4T37F.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IQ2aw7Z.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMyOfgc.png" group-title="JOVENES Y ADULTOS",Wow Channel
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
@@ -462,6 +462,8 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750
 http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPlxCLg.png" group-title="MUSICAS",Sabrosona TV HD
+https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICAS",San Borja TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1XkaBrU.png" group-title="MUSICAS",Rosa FM
