@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z72VOYs.png" group-title="JOVENES Y ADULTOS", Rocket Channel
+https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
