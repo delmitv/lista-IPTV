@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
+#EXTINF:-1 tvg-id="Night Time" tvg-name="Night Time" tvg-logo="https://i.imgur.com/QO2I7Ci.jpg" group-title="JOVENES Y ADULTOS",Night Time
+https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 https://mesh.zappix.live/mnp/adultswim/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
