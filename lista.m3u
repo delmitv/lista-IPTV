@@ -4,8 +4,6 @@
 https://archive.org/download/teletoonizaki-loop-navidad/Teletoonizaki%20Loop%20Navidad.ia.mp4
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
-#EXTINF:-1 tvg-id="Night Time" tvg-name="Night Time" tvg-logo="https://i.imgur.com/QO2I7Ci.jpg" group-title="JOVENES Y ADULTOS",Night Time
-https://ssh101.bozztv.com/ssh101/toonizakistream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
