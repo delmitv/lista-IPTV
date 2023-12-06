@@ -4,9 +4,9 @@
 https://archive.org/download/teletoonizaki-loop-navidad/Teletoonizaki%20Loop%20Navidad.ia.mp4
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
-#EXTINF:-1 tvg-id="Canal 19 ARG" tvg-name="Canal 19 ARG HD" tvg-logo="https://i.imgur.com/B9eySxj.png" group-title="JOVENES Y ADULTOS",Canal 19 ARG HD
-https://ssh101.bozztv.com/ssh101/canal190001213/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 19 ARG" tvg-name="Canal 19 ARG SD" tvg-logo="https://i.imgur.com/B9eySxj.png" group-title="JOVENES Y ADULTOS",Canal 19 ARG SD
+#EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club HD" tvg-logo="https://i.imgur.com/Q1hmSmE.png" group-title="JOVENES Y ADULTOS",Magic Club HD
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-43/nvc8-p9dn_720p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club SD" tvg-logo="https://i.imgur.com/Q1hmSmE.png" group-title="JOVENES Y ADULTOS",Magic Club SD
 https://xhateaec.com:8800/hls/canal19arg/canal19arg/fa85b5d8f08f4aeb8ad3a4c891569e4f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
@@ -460,6 +460,10 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QHfMyfe.png" group-title="MUSICAS",Cumbia TV
+https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICAS",Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
