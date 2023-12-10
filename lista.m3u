@@ -30,11 +30,8 @@ https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l1Zmp3v.png" group-title="JOVENES Y ADULTOS",Wow Eventos
 https://cdnhd.iblups.com/hls/OLcAZqlwaU.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gWbKvfR.png" group-title="JOVENES Y ADULTOS",Windrush
-https://streaming.zappix.live:19360/windrush/windrush.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
@@ -505,8 +502,6 @@ http://node-34.zeno.fm:80/vfxsw0deyzzuv
 http://node-19.zeno.fm:80/cp658vvd7tzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JLAqSvn.png" group-title="RADIOS",Conéctate Retro Hits Radio
 https://us9.maindigitalstream.com/ssl/7686i
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
-https://streaming01.shockmedia.com.ar:10470/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
 http://cast.animenexusla.com:8000/animenexus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
