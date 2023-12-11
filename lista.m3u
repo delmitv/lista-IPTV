@@ -152,6 +152,8 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
+https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qUt6Ak5.png" group-title="SPAIN",Televigo HD
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1MA5fb.png" group-title="SPAIN",7MN Galicia
