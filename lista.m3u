@@ -236,6 +236,14 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LSCHJJK.png" group-title="LATINO",Aion TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ervQh4Q.png" group-title="LATINO",CVC
+https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WoTzsGF.png" group-title="LATINO",Cana TV
+https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EPPvQFj.png" group-title="LATINO",Crom TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H85ODCO.png" group-title="LATINO",Coco TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I4qXG4z.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
