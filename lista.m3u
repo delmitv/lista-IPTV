@@ -18,6 +18,8 @@ https://streaming.zappix.live:19360/compremium/compremium.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
+https://cdnhd.iblups.com/hls/Ig0oJbSNWM.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
