@@ -422,6 +422,8 @@ https://tdphdgl1src2.akamaized.net/rtve-tdt/tdp_all/rtve-tdt/tdp_720p/chunks.m3u
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ay1tIuc.png" group-title="DEPORTES",LALIGA PLUS
 https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAfVjn6.png" group-title="DEPORTES",LALIGA INSIDE
+https://daiconnect.com/live/hls/tvup/tvfy-ligainside/9d70d83a0a18ce206e54fc432b290bcf/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KBCsTlk.png" group-title="DEPORTES",Esport3 HD (geobloqueo)
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ftKWvUb.png" group-title="DEPORTES",Bein Sports Xtra N HD
