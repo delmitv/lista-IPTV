@@ -11,7 +11,7 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY
-https://streaming.zappix.live:19360/tbspanregional/tbspanregional.m3u8
+https://live.autistici.org/hls/syfy3239498_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM HD
 https://streaming.zappix.live:19360/compremium/compremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
@@ -90,6 +90,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HIqqElM.png" group-title="Familiares",Telecosta Escuintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B36nhl1.png" group-title="Familiares",Estacion Retro
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GF3i7qq.png" group-title="Familiares",Retro TV HD
@@ -167,7 +169,7 @@ https://media2.streambrothers.com:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-V99DQEMCD9jnhaeWOzSw_8hfBQ5IDa22H0g=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",TV Ferrol
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoetb1hd.jpg" group-title="SPAIN",ETB 1 HD
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoetb2hd.jpg" group-title="SPAIN",ETB 2 HD
@@ -344,6 +346,10 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1157215396.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="LATINO",Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/32dC2eZ.png" group-title="LATINO",Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Sz19fg.png" group-title="LATINO",La Mia TV
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="LATINO",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="LATINO",Star Tve HD (geobloqueo)
@@ -466,6 +472,8 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kzuq2zL.png" group-title="MUSICAS",Kandela TV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICAS",Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
