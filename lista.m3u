@@ -254,6 +254,10 @@ https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I4qXG4z.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A10cTrH.png" group-title="LATINO",Teleonce
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/INFKd7Z.png" group-title="LATINO",Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
