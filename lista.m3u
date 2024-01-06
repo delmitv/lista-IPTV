@@ -256,6 +256,8 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I4qXG4z.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A10cTrH.png" group-title="LATINO",Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/INFKd7Z.png" group-title="LATINO",Canal 13 Esquipulas
@@ -268,6 +270,10 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/69DP02h.jpg" group-title="LATINO",Trivision 36 HD
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-2500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eD5e7vs.jpg" group-title="LATINO",Canal 57 HD
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pUZbjEU.jpg" group-title="LATINO",RTV Canal 57 HD
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
@@ -486,6 +492,8 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8A3PYa.png" group-title="MUSICAS",Radio 4 TV You HD
+https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QHfMyfe.png" group-title="MUSICAS",Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
