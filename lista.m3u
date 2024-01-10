@@ -214,6 +214,8 @@ http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondaalgecirastv.jpg" group-title="SPAIN",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tutRxNK.png" group-title="SPAIN",7 Region de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n3VZCab.png" group-title="SPAIN",Popular TV Murcia
 https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsMoRJu.png" group-title="SPAIN",Popular TV Cantabria
