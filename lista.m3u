@@ -301,7 +301,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FLCANFn.jpg" group-title="LATINO",Xtrema TV HD
-https://stmv1.cnarlatam.com/canal1/canal1/playlist.m3u8
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eItbFTy.jpg" group-title="LATINO",Xtrema TV Series
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N7XJrnG.jpg" group-title="LATINO",Xtrema TV Retro Series
@@ -470,6 +470,8 @@ https://live.seo.tv.bo/live/SEO-5.m3u8
 https://vdo.panelstreaming.live:3058/live/crtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hjBpy94.png" group-title="DEPORTES",RTV San Marino Sport HD
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (geobloqueo)
 https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dUGJCP6.png" group-title="NOTICIAS",324 HD (geobloqueo)
@@ -480,14 +482,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Rai_News_24_Logo.png" group-title="NOTICIAS",Rai News 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xybMsIh.png" group-title="NOTICIAS",Rai News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-XjOyXjvriSA/XZdRLKOAg5I/AAAAAAAAAGg/_H4mSaSFzM0in_GfPUoa9uKAzqOPN5fOwCK4BGAYYCw/s1600/SUPERSIX%2BLOMBARDIA-LOGO%2B400-PNG.png" group-title="ITALIA",Super Six Lombardia
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/chunklist_w1945812383.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="ITALIA",Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w950960847.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2kV-d4g35jg/maxresdefault.jpg" group-title="ITALIA",Cafe 24 TV
-https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1JgZlP.png" group-title="ITALIA",RTV San Marino HD
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/ch-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t1G3sXr.png" group-title="ITALIA",Super Six Lombardia
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EVI71wt.png" group-title="ITALIA",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J2ThyOp.jpg" group-title="ITALIA",Cafe 24 TV
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WN0aaRI.png" group-title="ITALIA",Tsn Lecco TV
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="MUSICAS",Planetatv
