@@ -238,6 +238,8 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",Solidaria tv Spain
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="LATINO",Azteca 7 HD
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="LATINO",Tele Estrella
