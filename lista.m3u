@@ -236,7 +236,7 @@ https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoaragontv.jpg" group-title="SPAIN",Aragon TV HD
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",Solidaria tv Spain HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="LATINO",Azteca 7 HD
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
@@ -392,7 +392,7 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
 https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2018/09/IMAGOGRANDE.png" group-title="LATINO",Solidaria tv Argentina
+#EXTINF:-1 tvg-id="" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2018/09/IMAGOGRANDE.png" group-title="LATINO",Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
