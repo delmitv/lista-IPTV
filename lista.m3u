@@ -119,9 +119,9 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV HD
-http://infantil-crtvg.flumotion.com/chunks.m3u8
+http://crtvg-infantil.flumotion.cloud/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
-http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
+http://crtvg-xabarintv-r1.flumotion.cloud/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w2ds9Jy.png" group-title="Familiares",Xabarin TV Cativoas HD
 http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas HD
@@ -149,7 +149,7 @@ https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg 2 HD
-https://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
+http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvgamerica-324x235.png" group-title="SPAIN",Galicia TV America HD
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-momentos-g-en-directo-100x70.png" group-title="SPAIN",Momentos G
