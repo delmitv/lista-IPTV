@@ -146,9 +146,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3
 https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tBnl3r1.png" group-title="SPAIN",Cope TV HD
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Galicia TV Europa HD
 http://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xSUQ69t.png" group-title="SPAIN",Tvg 2 HD
 http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvgamerica-324x235.png" group-title="SPAIN",Galicia TV America HD
 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
@@ -156,13 +156,13 @@ http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
 http://crtvg-momentog.flumotion.cloud/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-100x70.png" group-title="SPAIN",Tvg Cultura365 HD
 http://crtvg-cultural.flumotion.cloud/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 1 HD
 http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 2 HD
 http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 3 HD
 http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Amodino HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Amodino HD
 http://crtvg-amodino.flumotion.cloud/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7 HD
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
@@ -172,7 +172,7 @@ https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1MA5fb.png" group-title="SPAIN",7MN Galicia HD
 https://media2.streambrothers.com:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-V99DQEMCD9jnhaeWOzSw_8hfBQ5IDa22H0g=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPAIN",TV Ferrol HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
@@ -182,7 +182,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bIm35Hj.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="SPAIN",Rakuten TV Comedia HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Olwz1v.png" group-title="SPAIN",Rakuten TV Comedia HD
 http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="SPAIN",Distrito TV HD
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
