@@ -123,18 +123,18 @@ http://crtvg-infantil.flumotion.cloud/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
 http://crtvg-xabarintv-r1.flumotion.cloud/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w2ds9Jy.png" group-title="Familiares",Xabarin TV Cativoas HD
-http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
+http://crtvg-xabarintv-r2.flumotion.cloud/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas HD
-http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
+http://crtvg-xabarintv-r3.flumotion.cloud/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
 https://d1xg4yk1tsabyl.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Familiares",Rakuten TV Familia HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w77ZkBW.png" group-title="Familiares",Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://la1hdgl1src2.akamaized.net/rtve-tdt/la1_all/rtve-tdt/la1_720p/chunks.m3u8
@@ -147,23 +147,23 @@ https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_dvr_1080.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tBnl3r1.png" group-title="SPAIN",Cope TV HD
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
-http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+http://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg 2 HD
 http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvgamerica-324x235.png" group-title="SPAIN",Galicia TV America HD
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-momentos-g-en-directo-100x70.png" group-title="SPAIN",Momentos G
-http://momentog-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-100x70.png" group-title="SPAIN",Cultura365
-http://cultural-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Eventos 1
-http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Eventos 2
-http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Eventos 3
-http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Amodino
-http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
+http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-momentos-g-en-directo-100x70.png" group-title="SPAIN",Tvg Momentos G HD
+http://crtvg-momentog.flumotion.cloud/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-100x70.png" group-title="SPAIN",Tvg Cultura365 HD
+http://crtvg-cultural.flumotion.cloud/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 1 HD
+http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 2 HD
+http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Eventos 3 HD
+http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg Amodino HD
+http://crtvg-amodino.flumotion.cloud/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7 HD
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
