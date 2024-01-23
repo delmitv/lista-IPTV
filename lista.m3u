@@ -198,9 +198,9 @@ http://89.140.229.5/hls1/cancionero.m3u8
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="SPAIN",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="SPAIN",Telemadrid HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqsudoF.png" group-title="SPAIN",TeleMadrid HD
 https://telemadrid-23.secure2.footprint.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="SPAIN",La Otra HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
 https://laotra-1-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondamadrid.jpg" group-title="SPAIN",Onda Madrid HD
 https://tvradio-1-23.secure2.footprint.net/master.m3u8
@@ -210,9 +210,9 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7M7ljKS.png" group-title="SPAIN",Canal Sur Andalucia 2 HD
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondaazul.jpg" group-title="SPAIN",Canal Malaga HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BZFwi6l.png" group-title="SPAIN",Canal Malaga HD
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoptv.jpg" group-title="SPAIN",PTV Malaga HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QwLxEoK.png" group-title="SPAIN",PTV Malaga HD
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RJZenXl.png" group-title="SPAIN",Onda Algeciras TV HD
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
