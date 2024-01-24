@@ -68,6 +68,8 @@ https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/WUsb3d1.png" group-title="Familiares",Big Channel
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya HD (opcion 2)
@@ -186,7 +188,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dzEZJXj.png" group-title="SPAIN",Distrito TV HD
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logointeralmeriatv.jpg" group-title="SPAIN",interalmeria tv HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cqh5BwM.png" group-title="SPAIN",interalmeria tv HD
 http://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPAIN",Cgtn Espanol HD
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -194,17 +196,17 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xsHLl5i.png" group-title="SPAIN",Cancionero TV HD
 http://89.140.229.5/hls1/cancionero.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotvmelilla.jpg" group-title="SPAIN",TV Melilla HD
-https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="SPAIN",Rtvce HD
-https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s35TUJy.png" group-title="SPAIN",TV Melilla HD
+http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u0XZo3b.png" group-title="SPAIN",Rtvce HD
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqsudoF.png" group-title="SPAIN",TeleMadrid HD
 https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
 https://laotra-1-23.secure2.footprint.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoondamadrid.jpg" group-title="SPAIN",Onda Madrid HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7pluAuu.png" group-title="SPAIN",Onda Madrid HD
 https://tvradio-1-23.secure2.footprint.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG" group-title="SPAIN",CANAL 33 MADRID HD
+#EXTINF:-1 tvg-id="" tvg-logo="httphttps://i.imgur.com/LAGFU6n.png" group-title="SPAIN",CANAL 33 MADRID HD
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
@@ -515,7 +517,7 @@ https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="MUSICAS",Tvg Musigal HD
-http://crtvg-musigal.flumotion.cloud/playlist.m3u8
+http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
