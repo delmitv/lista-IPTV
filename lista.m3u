@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki HD" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
-https://live.autistici.org/hls/toonizaki_src.m3u8
+https://nyc1.angelthump.com/hls/MjAyNC0wMS0yN1QwMjo0NDozOS4zNzRadG9vbml6YWtp_toonizaki/index.m3u8
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -44,8 +44,6 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
-http://animezonetv.net/hls/animeloving/1706386160837.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
