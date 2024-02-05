@@ -264,6 +264,10 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I4qXG4z.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/489LIwX.png" group-title="LATINO",Dimelo TV
+https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j8Nacil.jpg" group-title="LATINO",Nativa TV
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
