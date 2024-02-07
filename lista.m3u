@@ -280,6 +280,8 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 https://ssh101.bozztv.com/ssh101/meganettv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CJfrgtv.png" group-title="LATINO",Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w76Z4r7.png" group-title="LATINO",Tele Posadas Eventos
+https://ssh101.bozztv.com/ssh101/teleposadas3030/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
