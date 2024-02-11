@@ -149,9 +149,13 @@ http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
-https://d1xg4yk1tsabyl.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD (geobloqueo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eeHLDMR.png" group-title="Familiares",Boing Spain HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T9uJuIi.png" group-title="Familiares",Boing Italia HD
+http://89.117.222.30:8000/play/a02k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w77ZkBW.png" group-title="Familiares",Rakuten TV en Familia HD
@@ -528,6 +532,10 @@ http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xybMsIh.png" group-title="NOTICIAS",Rai News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgAxWxc.png" group-title="ITALIA",Italia 1 HD
+http://89.117.222.30:8000/play/a02g
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0CdSczF.jpg" group-title="ITALIA",Italia 2 HD
+http://89.117.222.30:8000/play/a02o
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1JgZlP.png" group-title="ITALIA",RTV San Marino HD
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GSsMRxE.png" group-title="ITALIA",Rai Sudtirol HD
