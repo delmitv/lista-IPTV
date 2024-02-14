@@ -76,9 +76,9 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/WUsb3d1.png" group-title="Familiares",Big Channel
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lk276DP.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAMkLS5.png" group-title="Familiares",Heidi y Maya HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lk276DP.png" group-title="Familiares",Planeta Junior TV HD (opcion 2)
 https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ye7yqXR.png" group-title="Familiares",Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
@@ -168,6 +168,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:21_HD.smil/manif
 https://la1hdgl1src2.akamaized.net/rtve-tdt/la1_all/rtve-tdt/la1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo)
 https://la2gl1src2.akamaized.net/rtve-tdt/la2_all/rtve-tdt/la2_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo) (opcion 2)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="SPAIN",Tve Internacional Europa HD(geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LbdQ4Dv.png" group-title="SPAIN",Somos Cine HD
@@ -227,11 +229,11 @@ http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u0XZo3b.png" group-title="SPAIN",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqsudoF.png" group-title="SPAIN",TeleMadrid HD
-https://telemadrid-23.secure2.footprint.net/master.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
-https://laotra-1-23.secure2.footprint.net/master.m3u8
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7pluAuu.png" group-title="SPAIN",Onda Madrid HD
-https://tvradio-1-23.secure2.footprint.net/master.m3u8
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="httphttps://i.imgur.com/LAGFU6n.png" group-title="SPAIN",CANAL 33 MADRID HD
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
