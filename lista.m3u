@@ -86,10 +86,6 @@ https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b7MWttt.jpg" group-title="Familiares",Toon Goggles en Spanish
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Xtrema TV Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GwpJYZV.jpg" group-title="Familiares",Xtrema TV Retro Cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Familiares",Pitufo TV
@@ -98,8 +94,6 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV (opcion 2)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS HD" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS HD
-https://live.seo.tv.bo/live/SEO-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png"  group-title="Familiares",Mi TV Television Clasica
@@ -278,6 +272,10 @@ https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKY5GNn.png" group-title="LATINO",Tele Estrella HD Bolivia
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yxSALfi.png" group-title="LATINO",Telesiglo HD
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n1MCXTA.png" group-title="LATINO",Teleposadas
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teleposadas12/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LSCHJJK.png" group-title="LATINO",Aion TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ervQh4Q.png" group-title="LATINO",CVC
@@ -354,12 +352,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FLCANFn.jpg" group-title="LATINO",Xtrema TV HD
-https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eItbFTy.jpg" group-title="LATINO",Xtrema TV Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N7XJrnG.jpg" group-title="LATINO",Xtrema TV Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SiGxs6L.png" group-title="LATINO",Free TV HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",Juntos HD
@@ -373,19 +365,7 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2ceJnWz.png" group-title="LATINO",Horrorfy HD
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
-https://live.seo.tv.bo/live/SEO-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NOVELAS HD" tvg-logo="https://i.imgur.com/iUf7GNf.png" group-title="LATINO",SEO TV 3 NOVELAS HD
-https://live.seo.tv.bo/live/SEO-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 4 PELICULAS HD" tvg-logo="https://i.imgur.com/816xTc2.png" group-title="LATINO",SEO TV 4 PELICULAS HD
-https://live.seo.tv.bo/live/SEO-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6 NOVELAS 2 HD" tvg-logo="https://i.imgur.com/k2Ao62m.png" group-title="LATINO",SEO TV 6 MOVELAS 2 HD
-https://live.seo.tv.bo/live/SEO-6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 7 YUNGAS HD" tvg-logo="https://i.imgur.com/EzJHkWV.png" group-title="LATINO",SEO TV 7 YUNGAS HD
-https://live.seo.tv.bo/live/SEO-7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 8 TROPICO HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 8 TROPICO HD
-https://live.seo.tv.bo/live/SEO-8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 9 SERIES HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 9 SERIES HD
-https://live.seo.tv.bo/live/SEO-9.m3u8
+https://seo.tv.bo/tv/SEO1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
 https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
