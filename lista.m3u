@@ -87,7 +87,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ye7yqXR.png" group-title="Familiares",Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/73F7Ibn.jpg" group-title="Familiares",Zona de Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1---&did=b708f00283bf761c39466647f085784d&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=1&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252fzona-de-accion&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520West%2520Europe&timestamp=1708276425&id=34626&ip=83.35.224.43&override_expiration=1500&deliveryProfileId=23762&sign=Bi7PlSiNLkOqCJNgfIceTvZgdhVZxzXxM2sAyXNy9ro%3D
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/73F7Ibn.jpg" group-title="Familiares",Zona de Accion (opcion 2)
+https://stream.ads.ottera.tv/cl/240218cn93limr8v2a9ti3bihg/1280x720_2300000_0_f.m3u8?i=475_4312
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b7MWttt.jpg" group-title="Familiares",Toon Goggles en Spanish
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
@@ -310,16 +312,18 @@ https://ssh101.bozztv.com/ssh101/meganettv/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w76Z4r7.png" group-title="LATINO",Tele Posadas Eventos
 https://ssh101.bozztv.com/ssh101/teleposadas3030/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1rS8uI.jpg" group-title="LATINO",Canal 5 Solola
-https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1rS8uI.jpg" group-title="LATINO",Canal 5 Solola
+https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ghZPc0E.png" group-title="LATINO",El Nueve
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/canalusuarioinfo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A10cTrH.png" group-title="LATINO",Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/INFKd7Z.png" group-title="LATINO",Canal 13 Esquipulas
