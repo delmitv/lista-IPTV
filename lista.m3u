@@ -206,7 +206,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://media2.streambrothers.com:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",NeoX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",Neox HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
