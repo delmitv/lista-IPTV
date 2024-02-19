@@ -87,7 +87,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ye7yqXR.png" group-title="Familiares",Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/73F7Ibn.jpg" group-title="Familiares",Zona de Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1---&did=b708f00283bf761c39466647f085784d&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=1&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252fzona-de-accion&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520West%2520Europe&timestamp=1708276425&id=34626&ip=83.35.224.43&override_expiration=1500&deliveryProfileId=23762&sign=Bi7PlSiNLkOqCJNgfIceTvZgdhVZxzXxM2sAyXNy9ro%3D
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/73F7Ibn.jpg" group-title="Familiares",Zona de Accion (opcion 2)
 https://stream.ads.ottera.tv/cl/240218cn93limr8v2a9ti3bihg/1280x720_2300000_0_f.m3u8?i=475_4312
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b7MWttt.jpg" group-title="Familiares",Toon Goggles en Spanish
