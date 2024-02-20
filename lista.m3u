@@ -127,7 +127,9 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="Familiares",Planetatv family
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD (opcion 2)
+https://ssh101.bozztv.com/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Retro HD
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids HD
