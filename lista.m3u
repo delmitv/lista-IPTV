@@ -10,14 +10,10 @@ http://177.128.113.8:5568/play/a088
 https://ia802900.us.archive.org/31/items/mortadelo-y-filemon.-el-armario-del-tiempo-1971-en-teletoonizaki/Mortadelo%20y%20Filemon.%20El%20Armario%20del%20tiempo%20%20%281971%29%20en%20Teletoonizaki.mp4
 #EXTINF:-1 tvg-id="BD Network" tvg-name="BD Network" tvg-logo="https://i.imgur.com/2wBBZrC.png" group-title="JOVENES Y ADULTOS",BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="JOVENES Y ADULTOS",COMGO
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
-https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://live.autistici.org/hls/syfy3239498_src.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TdY6Sn.png" group-title="JOVENES Y ADULTOS",COMPREMIUM HD
-https://streaming.zappix.live:19360/compremium/compremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional HD
+https://us-east-1-streaming.zappix.live/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV
