@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki Channel HD" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="JOVENES Y ADULTOS",Toonizaki Channel HD
 https://us-east-1-streaming.zappix.live/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
+#EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki Channel HD" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="JOVENES Y ADULTOS",Toonizaki Channel HD alternativo
+https://live.autistici.org/hls/toonizaki_src.m3u8
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
