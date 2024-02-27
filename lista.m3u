@@ -200,6 +200,8 @@ https://media2.streambrothers.com:19360/8076/8076.m3u8
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",Neox HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD
+https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SKmGhno.png" group-title="SPAIN",ETB 1 HD
@@ -215,7 +217,7 @@ http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dzEZJXj.png" group-title="SPAIN",Distrito TV HD
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cqh5BwM.png" group-title="SPAIN",interalmeria tv HD
-http://interalmeria.tv/directo/live.m3u8
+https://tv.interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xsHLl5i.png" group-title="SPAIN",Cancionero TV HD
 http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s35TUJy.png" group-title="SPAIN",TV Melilla HD
@@ -229,7 +231,7 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7pluAuu.png" group-title="SPAIN",Onda Madrid HD
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="httphttps://i.imgur.com/LAGFU6n.png" group-title="SPAIN",CANAL 33 MADRID HD
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7M7ljKS.png" group-title="SPAIN",Canal Sur Andalucia 2 HD
@@ -478,11 +480,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a32
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Los Asesinatos De Midsomer Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Los Asesinatos De Midsomer Pluto TV
+#EXTINF:-1 tvg-id="" tvg-name="Los Asesinatos De Midsomer Pluto TV" tvg-logo="https://i.imgur.com/e5zE9a9.jpg" tvg-shift="0" group-title="Pluto TV Spain",Los Asesinatos De Midsomer Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="El Detective Endeavour Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",El Detective Endeavour Pluto TV
+#EXTINF:-1 tvg-id="" tvg-name="El Detective Endeavour Pluto TV" tvg-logo="https://i.imgur.com/Ua3w6gf.jpg" tvg-shift="0" group-title="Pluto TV Spain",El Detective Endeavour Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series" tvg-logo="https://i.imgur.com/NtlF43K.jpg" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Comedia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Series Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
