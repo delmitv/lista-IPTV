@@ -177,9 +177,9 @@ http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1IIZzMf.png" group-title="SPAIN",Galicia TV America HD
 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NIGfN9Q.png" group-title="SPAIN",Tvg Momentos G HD
-http://crtvg-momentog.flumotion.cloud/chunks.m3u8
+http://momentog-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zOy7bCx.png" group-title="SPAIN",Tvg Cultura365 HD
-http://crtvg-cultural.flumotion.cloud/chunklist.m3u8
+http://cultural-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 1 HD
 http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 2 HD
@@ -567,7 +567,7 @@ https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="MUSICAS",Tvg Musigal HD
-http://crtvg-musigal.flumotion.cloud/crtvg/musigal/chunks.m3u8
+http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
