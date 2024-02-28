@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki Channel HD" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="JOVENES Y ADULTOS",Toonizaki Channel HD
-https://us-east-1-streaming.zappix.live/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
-#EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki Channel HD" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="JOVENES Y ADULTOS",Toonizaki Channel HD alternativo
+#EXTINF:-1 tvg-id="Arg" tvg-name="Haruka Channel HD" tvg-logo="https://i.imgur.com/lTleqOM.png" group-title="JOVENES Y ADULTOS",Haruka Channel HD
+https://stream.kirachan.tech/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="Haruka Channel HD" tvg-logo="https://i.imgur.com/lTleqOM.png" group-title="JOVENES Y ADULTOS",Haruka Channel HD alternativo
 https://ssh101.bozztv.com/ssh101/starlordwalkman/playlist.m3u8
-#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
+#EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://45.232.148.97:8000/play/a0gs/index.m3u8
-#EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
+#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
 https://ia802900.us.archive.org/31/items/mortadelo-y-filemon.-el-armario-del-tiempo-1971-en-teletoonizaki/Mortadelo%20y%20Filemon.%20El%20Armario%20del%20tiempo%20%20%281971%29%20en%20Teletoonizaki.mp4
-#EXTINF:-1 tvg-id="BD Network" tvg-name="BD Network" tvg-logo="https://i.imgur.com/2wBBZrC.png" group-title="JOVENES Y ADULTOS",BD Network
-https://us-east-1-streaming.zappix.live/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.imgur.com/2wBBZrC.png" group-title="JOVENES Y ADULTOS",BD Network
+https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://us-east-1-streaming.zappix.live/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional SD
@@ -141,7 +141,7 @@ http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD (geobloqueo)
