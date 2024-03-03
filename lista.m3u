@@ -14,6 +14,12 @@ https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional SD
 https://live.autistici.org/hls/syfy3239498_src.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hVf9ynb.jpg" group-title="JOVENES Y ADULTOS",Much Music HD
+https://stream.kirachan.tech/memfs/8650cce0-7b20-4af6-a3e4-06bc959acd9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XSKahEc.jpg" group-title="JOVENES Y ADULTOS",i-SAT HD
+https://stream.kirachan.tech/memfs/66d4fce2-3240-4ee9-afdd-1203820396b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MLQj69H.jpg" group-title="JOVENES Y ADULTOS",Glitz HD
+https://stream.kirachan.tech/memfs/b584d98a-5021-4e6f-8569-54cdbf77c37e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="JOVENES Y ADULTOS",Maxima TV
