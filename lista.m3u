@@ -212,6 +212,8 @@ https://directo.tvferrol.es/tv.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD
 https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD (opcion 2)
+http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SKmGhno.png" group-title="SPAIN",ETB 1 HD
