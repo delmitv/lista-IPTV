@@ -153,14 +153,22 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD (geobloqueo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6uiyIF.png" group-title="Familiares",Boing Spain HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6uiyIF.png" group-title="Familiares",Boing Spain HD (opcion 2)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T9uJuIi.png" group-title="Familiares",Boing Italia HD
 http://89.117.222.30:8000/play/a02k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgzfapJ.png" group-title="Familiares",ETB 3 HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgzfapJ.png" group-title="Familiares",ETB 3 HD (opcion 2)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w77ZkBW.png" group-title="Familiares",Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5aUzSjS.png" group-title="Familiares",Disney Channel Spain HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5aUzSjS.png" group-title="Familiares",Disney Channel Spain HD (opcion 2)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://la1hdgl1src2.akamaized.net/rtve-tdt/la1_all/rtve-tdt/la1_720p/chunks.m3u8
@@ -209,7 +217,7 @@ https://media2.streambrothers.com:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",Neox HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+https://atres-live.atresmedia.com/feeca5eaaad998dc280f554657b3f0ff2fd8b8f5_ES_1709844080_1709872820/h264leg/live/neox/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD
 https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD (opcion 2)
@@ -220,7 +228,9 @@ https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U7Uoh82.png" group-title="SPAIN",ETB 2 HD
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgzfapJ.png" group-title="SPAIN",ETB 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aCEKnnk.png" group-title="SPAIN",ETB 4 HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aCEKnnk.png" group-title="SPAIN",ETB 4 HD (opcion 2)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bIm35Hj.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
