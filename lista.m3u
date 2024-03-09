@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD
-https://stream.kirachan.tech/memfs/474a7122-466d-4bd3-9059-4cb2f23bb764.m3u8
-#EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD (Opcion 2)
 https://stream.kirachan.tech/memfs/474a7122-466d-4bd3-9059-4cb2f23bb764_output_0.m3u8?session=SRLXRFETKav4cSV2oWVFwW
+#EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD (Opcion 2)
+https://ssh101.bozztv.com/ssh101/starlordwalkman/playlist.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -218,8 +218,8 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qUt6Ak5.png" group-title="SPAIN",Televigo HD
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1MA5fb.png" group-title="SPAIN",7MN Galicia HD
-https://media2.streambrothers.com:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jf36LYV.png" group-title="SPAIN",7 Global TV HD
+https://stmvideo1.livecastv.com/7mntv/7mntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",Neox HD
@@ -527,6 +527,8 @@ https://tdphdgl1src2.akamaized.net/rtve-tdt/tdp_all/rtve-tdt/tdp_720p/chunks.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xm1ct3T.png" group-title="DEPORTES",Teledeporte HD (opcion 2)
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EQ5uhVU.png" group-title="DEPORTES",Gol Play HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EQ5uhVU.png" group-title="DEPORTES",Gol Play HD (opcion 2)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
