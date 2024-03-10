@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD
-https://stream.kirachan.tech/memfs/474a7122-466d-4bd3-9059-4cb2f23bb764_output_0.m3u8?session=SRLXRFETKav4cSV2oWVFwW
+https://rpn3.bozztv.com/ssh101/ssh101/starlordwalkman/playlist.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD (Opcion 2)
 https://ssh101.bozztv.com/ssh101/starlordwalkman/playlist.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
