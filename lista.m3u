@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD
-https://rpn3.bozztv.com/ssh101/ssh101/starlordwalkman/playlist.m3u8
-#EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.imgur.com/doZuOeh.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD (Opcion 2)
-https://ssh101.bozztv.com/ssh101/starlordwalkman/playlist.m3u8
+https://rocketv.netlify.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -31,7 +29,7 @@ https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
-https://xhateaec.com:8800/hls/luisms123/luisms123/78dd321a73fccbeb82269b00f5578315/index.m3u8
+https://xhateaec.com/livestreams/49.W2QnwqzgZajs1MJs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W3HGOHn.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMyOfgc.png" group-title="JOVENES Y ADULTOS",Wow Channel
