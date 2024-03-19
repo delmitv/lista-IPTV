@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.ibb.co/RDjL7QK/logo-Rocket-Channel.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD
 https://rocketv.netlify.app/hls/live.m3u8
-#EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
+#EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
 https://ia802900.us.archive.org/31/items/mortadelo-y-filemon.-el-armario-del-tiempo-1971-en-teletoonizaki/Mortadelo%20y%20Filemon.%20El%20Armario%20del%20tiempo%20%20%281971%29%20en%20Teletoonizaki.mp4
