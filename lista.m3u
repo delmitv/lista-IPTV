@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Arg" tvg-name="Rocket Channel HD" tvg-logo="https://i.ibb.co/RDjL7QK/logo-Rocket-Channel.png" group-title="JOVENES Y ADULTOS",Rocket Channel HD
+#EXTINF:-1 tvg-id="Arg" tvg-name="Luchy TV HD" tvg-logo="https://i.ibb.co/vYwfd1v/Logo-Luchy-TV.png" group-title="JOVENES Y ADULTOS",Luchy TV HD
 https://rocketv.netlify.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.8.90:16123/play/ch75
@@ -279,7 +279,7 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ohryue7.png" group-title="SPAIN",Popular TV Melilla HD
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fhhXJc1.png" group-title="SPAIN",A Punt TV HD
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sSPrziS.png" group-title="SPAIN",Alacanti TV HD
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9VuZNGR.png" group-title="SPAIN",Elche 7 TV HD
