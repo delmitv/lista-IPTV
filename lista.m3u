@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Arg" tvg-name="Luchy TV HD" tvg-logo="https://i.ibb.co/vYwfd1v/Logo-Luchy-TV.png" group-title="JOVENES Y ADULTOS",Luchy TV HD
-https://rocketv.netlify.app/hls/live.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="Zona 31 HD" tvg-logo="https://i.ibb.co/1KBpLcw/Logo-Zona-31.png" group-title="JOVENES Y ADULTOS",Zona 31 HD
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -230,11 +230,15 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://stmvideo1.livecastv.com/7mntv/7mntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lDbUuHA.png" group-title="SPAIN",Neox HD
-https://atres-live.atresmedia.com/feeca5eaaad998dc280f554657b3f0ff2fd8b8f5_ES_1709844080_1709872820/h264leg/live/neox/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
+http://77.228.160.100:61800/play/a00c
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD  (opcion 2)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
 https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K11WgIo.png" group-title="SPAIN",Atreseries Internacional HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD (opcion 2)
 http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
