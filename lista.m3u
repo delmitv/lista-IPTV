@@ -336,12 +336,10 @@ https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKY5GNn.png" group-title="LATINO",Tele Estrella HD Bolivia
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Pe8IhW.png" group-title="LATINO",Canal del Usuario
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/canalusuarioinfo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yxSALfi.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n1MCXTA.png" group-title="LATINO",Teleposadas
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/teleposadas12/playlist.m3u8
+https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LSCHJJK.png" group-title="LATINO",Aion TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ervQh4Q.png" group-title="LATINO",CVC
@@ -368,8 +366,8 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 https://ssh101.bozztv.com/ssh101/meganettv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CJfrgtv.png" group-title="LATINO",Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w76Z4r7.png" group-title="LATINO",Tele Posadas Eventos
-https://ssh101.bozztv.com/ssh101/teleposadas3030/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sW0HV6B/Logo-Telediario-TV.png" group-title="LATINO",Telediario TV
+http://190.123.83.134:8080/hls/tdtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1rS8uI.jpg" group-title="LATINO",Canal 5 Solola
