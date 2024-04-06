@@ -97,8 +97,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/rickytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cyjkHkF/Logo-Richy-TV.png" group-title="Familiares",Ricky TV (opcion 2)
 https://ssh101.bozztv.com/ssh101/rickytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lk276DP.png" group-title="Familiares",Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lk276DP.png" group-title="Familiares",Planeta Junior TV HD (opcion 2)
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lk276DP.png" group-title="Familiares",Planeta Junior TV HD (opcion 2)
 https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ye7yqXR.png" group-title="Familiares",Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
