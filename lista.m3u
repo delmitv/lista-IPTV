@@ -245,7 +245,9 @@ https://stmvideo1.livecastv.com/7mntv/7mntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LQNkwO.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
-http://77.228.160.100:61800/play/a00c
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD (opcion 2)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD  (opcion 2)
