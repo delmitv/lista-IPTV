@@ -144,13 +144,13 @@ https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hYXXZwt/logo-Xabarin-TV.png" group-title="Familiares",Xabarin TV HD
 http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpHgX5X/logo-Xabarin-TV-PEQUERRECH-S.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
 http://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w2ds9Jy.png" group-title="Familiares",Xabarin TV Cativoas HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sWpDnK1/logo-Xabarin-TV-CATIV-S.png" group-title="Familiares",Xabarin TV Cativoas HD
 http://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n6q3yHY/logo-Xabarin-TV-MOCI-S.png" group-title="Familiares",Xabarin TV Mocinoas HD
 http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
@@ -160,29 +160,27 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan Latinoamerica HD
 http://190.211.250.102:8000/play/a01j
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ub8TkId.png" group-title="Familiares",Kidz HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",Kidz HD (geobloqueo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6uiyIF.png" group-title="Familiares",Boing Spain HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6uiyIF.png" group-title="Familiares",Boing Spain HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD (opcion 2)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T9uJuIi.png" group-title="Familiares",Boing Italia HD
-http://89.117.222.30:8000/play/a02k
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCtKJYb/logo-SX3.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgzfapJ.png" group-title="Familiares",ETB 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares",ETB 3 HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgzfapJ.png" group-title="Familiares",ETB 3 HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares",ETB 3 HD (opcion 2)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w77ZkBW.png" group-title="Familiares",Rakuten TV en Familia HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2M0xFtd/logo-Rakuten-TV-en-Familia.png" group-title="Familiares",Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network LA
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5aUzSjS.png" group-title="Familiares",Disney Channel Spain HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5aUzSjS.png" group-title="Familiares",Disney Channel Spain HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD (opcion 2)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
