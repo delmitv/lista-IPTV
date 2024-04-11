@@ -214,27 +214,27 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3
 https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star Tve HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tBnl3r1.png" group-title="SPAIN",Cope TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="SPAIN",Cope TV HD
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Galicia TV Europa HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Tvg HD
 http://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xSUQ69t.png" group-title="SPAIN",Tvg 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zRg2Czc/logo-Tvg2-HD.png" group-title="SPAIN",Tvg 2 HD
 http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1IIZzMf.png" group-title="SPAIN",Galicia TV America HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GtJqhnV/logo-Tvg-Am-rica.png" group-title="SPAIN",Galicia TV America HD
 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NIGfN9Q.png" group-title="SPAIN",Tvg Momentos G HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Xxtz2t0/logo-Tvg-Momentos-G.png" group-title="SPAIN",Tvg Momentos G HD
 http://momentog-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zOy7bCx.png" group-title="SPAIN",Tvg Cultura365 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8BdX8HF/logo-Tvg-Cultura365.png" group-title="SPAIN",Tvg Cultura365 HD
 http://cultural-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Tvg Eventos 1 HD
 http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Tvg Eventos 2 HD
 http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Eventos 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Tvg Eventos 3 HD
 http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="SPAIN",Tvg Amodino HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Tvg Amodino HD
 http://crtvg-amodino.flumotion.cloud/crtvg/amodino_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPVm2GM.png" group-title="SPAIN",Tpa7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pj7vfWN/logo-Tpa-7.png" group-title="SPAIN",Tpa7 HD
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeFMBhB.png" group-title="SPAIN",Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
@@ -636,7 +636,7 @@ https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UMLlXNy.png" group-title="MUSICAS",Tvg Musigal HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="MUSICAS",Tvg Musigal HD
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
@@ -722,11 +722,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Ser Radio Vigo
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocope.jpg" group-title="RADIOS",Cope
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope
 https://flucast-m04-06.flumotion.com/cope/net1.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocope.jpg" group-title="RADIOS",Cope Alicante
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Alicante
 https://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocope.jpg" group-title="RADIOS",Cope Vigo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Vigo
 https://wecast05-h-cloud.flumotion.com/copesedes/vigo.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
