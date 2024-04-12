@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
 https://stitcher.buzzster.co.uk/toonizaki/index.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki SD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki SD
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -378,6 +380,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A10cTrH.png" group-title="LATINO",Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3RdgBtL/Logo-Canal-13-R-o-Cuarto-HD.png" group-title="LATINO",Canal 13 Río Cuarto HD
+http://190.123.83.130:8080/hls/c13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/INFKd7Z.png" group-title="LATINO",Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gMG5MqI.png" group-title="LATINO",14 TV Catorce TV
