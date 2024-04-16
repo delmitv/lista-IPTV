@@ -140,6 +140,10 @@ https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
 https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGwYF7D/logo-Diti-TV.jpg" group-title="Familiares",Diti TV HD
+https://rpn3.bozztv.com/ssh101/ssh101/dititv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGwYF7D/logo-Diti-TV.jpg" group-title="Familiares",Diti TV HD (opcion 2)
+https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="Familiares",Vision TV HD
@@ -288,13 +292,13 @@ http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9bqNXJZ/logo-Interalmeria-TV.png" group-title="SPAIN",interalmeria tv HD
 https://tv.interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xsHLl5i.png" group-title="SPAIN",Cancionero TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Tkp9TDV/logo-Cancionero-TV.png" group-title="SPAIN",Cancionero TV HD
 http://89.140.229.5/hls1/cancionero.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s35TUJy.png" group-title="SPAIN",TV Melilla HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZ78d8n/logo-TV-Melilla.png" group-title="SPAIN",TV Melilla HD
 http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u0XZo3b.png" group-title="SPAIN",Rtvce HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6R2c47k/Logo-Radio-Television-Ceuta.png" group-title="SPAIN",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqsudoF.png" group-title="SPAIN",TeleMadrid HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LQcTgTj/logo-Tele-Madrid.png" group-title="SPAIN",TeleMadrid HD
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
