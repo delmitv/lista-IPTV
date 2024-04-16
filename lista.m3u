@@ -300,11 +300,11 @@ http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LQcTgTj/logo-Tele-Madrid.png" group-title="SPAIN",TeleMadrid HD
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k4drWnC/logo-La-Otra.png" group-title="SPAIN",La Otra HD
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7pluAuu.png" group-title="SPAIN",Onda Madrid HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2y1VYfn/logo-Onda-Madrid.png" group-title="SPAIN",Onda Madrid HD
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="httphttps://i.imgur.com/LAGFU6n.png" group-title="SPAIN",CANAL 33 MADRID HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYsJF3j/logo-Canal-33-Madrid.png" group-title="SPAIN",CANAL 33 MADRID HD
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aOgYb1c.png" group-title="SPAIN",Canal Sur Andalucia HD
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
