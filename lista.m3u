@@ -163,13 +163,13 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hYXXZwt/logo-Xabarin-TV.png" group-title="Familiares",Xabarin TV HD
-http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2500000.m3u8
+http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpHgX5X/logo-Xabarin-TV-PEQUERRECH-S.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
-http://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2500000.m3u8
+http://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sWpDnK1/logo-Xabarin-TV-CATIV-S.png" group-title="Familiares",Xabarin TV Cativoas HD
-http://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/chunklist_b2500000.m3u8
+http://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n6q3yHY/logo-Xabarin-TV-MOCI-S.png" group-title="Familiares",Xabarin TV Mocinoas HD
-http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2500000.m3u8
+http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan HD (geobloqueo)
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan HD (opcion 2)
@@ -726,8 +726,6 @@ http://node-30.zeno.fm:80/9a9g0er36p8uv
 http://node-28.zeno.fm:80/q2bv3s9w9zhvv
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.crtvg.es/files/full/RP640.png.jpg" group-title="RADIOS",Radio Picarina
 http://picarina-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaradio.com/assets/image/radio/180/1055.png" group-title="RADIOS",Via Radio Vigo
-https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_classic.png" group-title="RADIOS",Los 40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Cadena Ser
