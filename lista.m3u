@@ -334,9 +334,9 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bJDzJX2/logo-Bon-Dia-TV.png" group-title="SPAIN",Bon Dia TV HD (geobloqueo)
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DiFL2sX.png" group-title="SPAIN",El Toro TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n7v3MxR/Logo-El-Toro-TV.png" group-title="SPAIN",El Toro TV HD
 https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CaJThaX.png" group-title="SPAIN",Aragon TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rF8qBBg/logo-Arag-n-TV-HD.png" group-title="SPAIN",Aragon TV HD
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oDeH5uz.jpg" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
