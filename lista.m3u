@@ -342,9 +342,9 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/drhpDnT.png" group-title="LATINO",Canal 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 HD
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="LATINO",Azteca 7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sQyzqXY/logo-Planetatv.png" group-title="LATINO",Planetatv movie
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
