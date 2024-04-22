@@ -340,7 +340,7 @@ https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rF8qBBg/logo-Arag-n-TV-HD.png" group-title="SPAIN",Aragon TV HD
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oDeH5uz.jpg" group-title="SPAIN",Solidaria TV Spain HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/drhpDnT.png" group-title="LATINO",Canal 5 HD
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -352,6 +352,8 @@ https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKY5GNn.png" group-title="LATINO",Tele Estrella HD Bolivia
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WRshKe1.png" group-title="LATINO",Las Estrellas HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yxSALfi.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n1MCXTA.png" group-title="LATINO",Teleposadas
@@ -498,15 +500,13 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="LATINO",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WRshKe1.png" group-title="LATINO",Las Estrellas HD
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV (geobloqueo)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV 2 (geobloqueo)
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
 https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oDeH5uz.jpg" group-title="LATINO",Solidaria TV Argentina
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="LATINO",Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
