@@ -277,21 +277,21 @@ http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Multicine HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Clasicos HD (geobloqueo)
-
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Comedia HD (geobloqueo)
-
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Mentes Inquietas HD (geobloqueo)
-
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN",Atresplayer Aqui no hay quien viva HD (geobloqueo)
-
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wwBzFyc/Logo-F-sica-o-qu-mica.jpg" group-title="SPAIN",Atresplayer Fisica o quimica HD (geobloqueo)
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QcnBPLY/Logo-El-club-de-la-comedia.jpg" group-title="SPAIN",Atresplayer El club de la comedia HD (geobloqueo)
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/807bsqn/Logo-El-Hormiguero.jpg" group-title="SPAIN",Atresplayer El Hormiguero HD (geobloqueo)
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FWhGPyy/Logo-Equipo-de-investigaci-n.jpg" group-title="SPAIN",Atresplayer Equipo de Investigacion HD (geobloqueo)
-
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/34xhSqp/Logo-El-club-de-la-comedia.png" group-title="SPAIN",Atresplayer El club de la comedia HD (geobloqueo)
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dSnjww/Logo-El-Hormiguero.png" group-title="SPAIN",Atresplayer El Hormiguero HD (geobloqueo)
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fSXg3jg/Logo-Equipo-de-investigaci-n.png" group-title="SPAIN",Atresplayer Equipo de Investigacion HD (geobloqueo)
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
@@ -373,6 +373,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
+https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD (opcion 2)
 https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nkhRHRJ/logo-Aion-TV.png" group-title="LATINO",Aion TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
