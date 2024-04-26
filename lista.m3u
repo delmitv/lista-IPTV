@@ -16,10 +16,6 @@ https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 https://live.autistici.org/hls/syfy3239498_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ygjNVx8/Logo-I-Sat.png" group-title="JOVENES Y ADULTOS",I-SAT Argentino HD
-https://stream.kirachan.tech/memfs/ca839078-08d5-42fc-b1a8-f3e221f5df35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ygjNVx8/Logo-I-Sat.png" group-title="JOVENES Y ADULTOS",I-SAT Panregional SD
-https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C8Hvmk8/Logo-Glitz.png" group-title="JOVENES Y ADULTOS",Glitz HD
 https://stream.kirachan.tech/memfs/9d77d905-8596-4236-a44f-2c6b077ebeb1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NydpCWg/logo-Lim-TV-2.png" group-title="JOVENES Y ADULTOS",Lim TV
@@ -499,7 +495,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.atb.com.bo/icons/logo-large.png" group-title="LATINO",ATB HD
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
+https://live-b.cf.dmcdn.net/sec2(VLwPomyrCxdiKrW-6yVGb7z7knDxWFnnu4tLucB-Zob2AMNk-dwMLYRzeqBagHXJWnc3tqj9xoX6lHE8Y4qAbwG6zuqGND7W3UGcnMdCECc)/dm/3/x84eirw/s/live-0.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="" tvg-logo="https://66.media.tumblr.com/5d12140d1d99c658767b59f27ba5aeb8/90832fcc1fa475fc-f8/s250x400/9adf78910af5fa8e6a33c3dead483056b2073c36.png" group-title="LATINO",Buin Somos Todos
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv-324x160.png" group-title="LATINO",Antares TV
