@@ -92,8 +92,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/rickytv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/rickytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD (opcion 2)
-https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 v#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
 https://rpn3.bozztv.com/ssh101/ssh101/testvideo40/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD (opcion 2)
@@ -120,6 +118,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kHTsz3S/Logo-Greekz.png" group-title="Familiares",Greekz
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="Familiares",Teleclasica
