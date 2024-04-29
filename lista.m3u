@@ -172,7 +172,7 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan Latinoamerica HD
 http://190.211.250.102:8000/play/a01j
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",Kidz HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",Atresplayer Kidz HD (geobloqueo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
@@ -265,7 +265,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/mani
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
 http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
-http://pe.shortgod.com/awester/tv1.php?id=945
+http://181.78.211.237:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Multicine HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Clasicos HD (geobloqueo)
