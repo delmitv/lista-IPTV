@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
+#EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
+https://live.autistici.org/hls/toonizaki_src.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki SD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki SD
 https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
