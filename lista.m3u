@@ -346,8 +346,8 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&uid=ahp0Va5z7CPLWfqa4yXp8wFlH5Ggdr6L&sid=tdwIC8zJhgciJeEmH26oUYoRGMQaohpT&pid=RuIw02dOHr3SGTTpylIk1haSsQ9iL4HA&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1715799240727&ot=iaGAsUsxIQk12IOVLBMgrQ&proto=https&pz=us
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD (opcion 2)
 http://45.228.234.167:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sQyzqXY/logo-Planetatv.png" group-title="LATINO",Planetatv movie
-https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4M8QHHx/Logo-Info7.png" group-title="LATINO",Info7
+https://live.info7.mx/info7/stream/_hi1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",Tele Estrella HD Bolivia
@@ -361,7 +361,7 @@ https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD (opcion 2)
 https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8
+https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINO",Sony Canal Novelas
