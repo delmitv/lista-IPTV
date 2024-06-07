@@ -47,7 +47,7 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
-https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.160.15.130:2909/play/007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="JOVENES Y ADULTOS",TV Costa
