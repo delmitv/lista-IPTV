@@ -102,6 +102,8 @@ https://rpn3.bozztv.com/ssh101/ssh101/testvideo50/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
 https://ssh101.bozztv.com/ssh101/funtvretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tZcZbgy/Logo-Super-Channel.jpg" group-title="Familiares",Super Channel
 https://ssh101.bozztv.com/ssh101/superchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KG9kTP/Logo-Zona-de-Accion.png" group-title="Familiares",Zona de Accion
@@ -140,6 +142,8 @@ https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
 https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
 https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzyZWvx/Logo-Tick-TV.png" group-title="Familiares",Tick TV HD
+https://ssh101.bozztv.com/ssh101/ticktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="Familiares",Vision TV HD
@@ -362,6 +366,8 @@ https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XzV37y1/Logo-Terror-TV.png" group-title="LATINO",Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G04k3Z4/Logo-Memorias-Film.png" group-title="LATINO",Memorias Film HD
 https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
