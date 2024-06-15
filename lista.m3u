@@ -12,7 +12,7 @@ https://ia802900.us.archive.org/31/items/mortadelo-y-filemon.-el-armario-del-tie
 https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NydpCWg/logo-Lim-TV-2.png" group-title="JOVENES Y ADULTOS",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
@@ -58,13 +58,13 @@ https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQxt2Qw/Logo-Pandamax.png" group-title="JOVENES Y ADULTOS",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png" group-title="JOVENES Y ADULTOS",Telenorte
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
+#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
@@ -217,7 +217,7 @@ http://77.228.160.100:61800/play/a00k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",La Sexta HD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",La Sexta HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine HD
@@ -261,7 +261,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/man
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
 http://38.41.8.1:8000/play/a00x
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
-http://177.234.230.226:8010/play/a041/index.m3u8
+http://177.234.230.226:8010/play/a041/index.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Multicine HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Clasicos HD (geobloqueo)
@@ -272,7 +272,7 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN",Atresplayer Aqui no hay quien viva HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HHjsTP7/Logo-F-sica-o-qu-mica.png" group-title="SPAIN",Atresplayer Fisica o quimica HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wwBzFyc/Logo-F-sica-o-qu-mica.jpg" group-title="SPAIN",Atresplayer Fisica o quimica HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/34xhSqp/Logo-El-club-de-la-comedia.png" group-title="SPAIN",Atresplayer El club de la comedia HD (geobloqueo)
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
@@ -289,7 +289,7 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2yxYKHx/logo-Rakuten-TV-Comedia.png" group-title="SPAIN",Rakuten TV Comedia HD
@@ -384,7 +384,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e6
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qg5VBtB/logo-Cvc.png" group-title="LATINO",CVC
 https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6XDFZH3/logo-Cana-TV.png" group-title="LATINO",Cana TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6XDFZH3/logo-Cana-TV.png" group-title="LATINO",Cana TV
 https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9919tSb/logo-Crom-TV.png" group-title="LATINO",Crom TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
@@ -408,16 +408,16 @@ https://ssh101.bozztv.com/ssh101/meganettv/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sW0HV6B/Logo-Telediario-TV.png" group-title="LATINO",Telediario TV
 http://190.123.83.134:8080/hls/tdtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1rS8uI.jpg" group-title="LATINO",Canal 5 Solola
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A10cTrH.png" group-title="LATINO",Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3RdgBtL/Logo-Canal-13-R-o-Cuarto-HD.png" group-title="LATINO",Canal 13 Río Cuarto HD
@@ -528,7 +528,7 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
 https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="LATINO",Solidaria TV Argentina
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="LATINO",Solidaria tv Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -660,7 +660,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="MUSICAS",Lena RTV
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8A3PYa.png" group-title="MUSICAS",Radio 4 TV You HD
 https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
@@ -673,7 +673,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y6mEAMn.png" group-title="MUSICAS",Karavana TV HD
 http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f8T3F8Z/Logo-Memorias-TV.png" group-title="MUSICAS",Memorias TV HD
@@ -704,13 +704,13 @@ https://archive.org/serve/adrian-barba-luchare-hasta-el-final-dragon-ball-z-budo
 http://archive.org/download/DetektivConanOpenings10WinterBells/Detektiv%20Conan%20Openings%20-%2001%20-%20Mune%20ga%20Dokidoki.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LNXs2bG/Logo-Delmi-Series-Hits.png" group-title="RADIOS",Delmi Series Hits
 https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KK0gr0p/logo-Radio-Super-Music-FM.png" group-title="RADIOS", Radio Super Music FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KK0gr0p/logo-Radio-Super-Music-FM.png" group-title="RADIOS",Radio Super Music FM
 https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS", Animax Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS",Animax Radio
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVrw9Cx.png" group-title="RADIOS", La Invasiva Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVrw9Cx.png" group-title="RADIOS",La Invasiva Radio
 http://node-33.zeno.fm:80/24gu34zmg1duv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HoHhYmz.png" group-title="RADIOS", RadioFreeAktivo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HoHhYmz.png" group-title="RADIOS",RadioFreeAktivo
 https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KqkH0Qg.jpg" group-title="RADIOS",Comdisco FM
 https://stream-155.zeno.fm/h0rq175rwchvv
@@ -748,6 +748,8 @@ http://node-30.zeno.fm:80/9a9g0er36p8uv
 http://node-28.zeno.fm:80/q2bv3s9w9zhvv
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.crtvg.es/files/full/RP640.png.jpg" group-title="RADIOS",Radio Picarina
 http://picarina-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaradio.com/assets/image/radio/180/1055.png" group-title="RADIOS",Via Radio Vigo
+https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_classic.png" group-title="RADIOS",Los 40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Cadena Ser
@@ -759,7 +761,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope
 http://flucast23-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Alicante
-http://wecast-b02-04.flumotion.com/copesedes/alicante.mp3
+http://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Vigo
 http://wecast05-h-cloud.flumotion.com/copesedes/vigo.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca
