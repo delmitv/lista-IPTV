@@ -366,6 +366,8 @@ https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M2wqPgQ/Logo-Plus-Cine.png" group-title="LATINO",Plus Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XzV37y1/Logo-Terror-TV.png" group-title="LATINO",Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G04k3Z4/Logo-Memorias-Film.png" group-title="LATINO",Memorias Film HD
