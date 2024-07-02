@@ -402,9 +402,9 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J7md9RQ/logo-Frata-TV.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/489LIwX.png" group-title="LATINO",Dimelo TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYn5GT4/Logo-Dimelo-TV.png" group-title="LATINO",Dimelo TV
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j8Nacil.jpg" group-title="LATINO",Nativa TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYWkcGK/Logo-Nativa-TV.jpg" group-title="LATINO",Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3iPzZg2.png" group-title="LATINO",Lenca TV
 https://www.lencatelevision.com/hls/0/stream.m3u8
