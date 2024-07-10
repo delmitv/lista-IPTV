@@ -62,6 +62,8 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JnqPS8J/Logo-Animax-3.png" group-title="JOVENES Y ADULTOS",Animax HD Brasil
+https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
