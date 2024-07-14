@@ -539,7 +539,7 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV 2 (geobloqueo)
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
-https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="LATINO",Solidaria tv Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
