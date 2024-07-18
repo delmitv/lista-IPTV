@@ -14,7 +14,7 @@ https://live.autistici.org/hls/bdnetwork_mid.m3u8
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NydpCWg/logo-Lim-TV-2.png" group-title="JOVENES Y ADULTOS",Lim TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV
 https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
