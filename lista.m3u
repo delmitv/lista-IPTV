@@ -414,8 +414,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F9NBVdr.jpg" group-title="LATINO",Flou cine
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bFM9F0J.png" group-title="LATINO",Meganet TV
-https://ssh101.bozztv.com/ssh101/meganettv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bFM9F0J.png" group-title="LATINO",Meganethits
+https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CJfrgtv.png" group-title="LATINO",Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sW0HV6B/Logo-Telediario-TV.png" group-title="LATINO",Telediario TV
@@ -534,10 +534,6 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="LATINO",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV (geobloqueo)
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="LATINO",Carolina TV 2 (geobloqueo)
-https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pbkCtKk.png" group-title="LATINO",Canal Mas
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="LATINO",Solidaria tv Argentina
@@ -678,18 +674,12 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8A3PYa.png" group-title="MUSICAS",Radio 4 TV You HD
 https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QHfMyfe.png" group-title="MUSICAS",Cumbia TV
-https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DnaipHD.png" group-title="MUSICAS",Urban TV
-https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retroplustv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y6mEAMn.png" group-title="MUSICAS",Karavana TV HD
-http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f8T3F8Z/Logo-Memorias-TV.png" group-title="MUSICAS",Memorias TV HD
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPtTW8x/Logo-Memorias-Classic.png" group-title="MUSICAS",Memorias Classic HD
@@ -703,9 +693,13 @@ https://jireh-1-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPlxCLg.png" group-title="MUSICAS",Sabrosona TV HD
 https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICAS",San Borja TV HD
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1XkaBrU.png" group-title="MUSICAS",Rosa FM
-https://vdo.streaming-chile.com:3287/live/rosafmlive.m3u8
+https://tv.streaming-chile.com:8081/rosafm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="MUSICAS",Carolina TV (geobloqueo)
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="MUSICAS",Carolina TV 2
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/carolinatv2/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-xabarin-en-directo-100x70.png" group-title="MUSICAS",Cancion Somos do clube da galega - Xabarín
 http://ondemand-crtvg-origin.flumotion.com/videos/MD/xabaclips/085.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICAS",LA ALDEA DEL ARCE (SHAMALELE SHAMALA COMPLETA)
