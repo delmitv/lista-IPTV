@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
 https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD (Opcion 2)
+https://live.autistici.org/hls/toonizaki2_src.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -33,7 +35,7 @@ https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",Wow Eventos
 https://cdnhd.iblups.com/hls/OLcAZqlwaU.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
-https://comunidadtv.site:3119/live/aniplustvlive.m3u8
+https://comunidadtv.site:3119/stream/play.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation publico
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
