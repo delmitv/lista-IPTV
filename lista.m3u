@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
-#EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD (Opcion 2)
-https://live.autistici.org/hls/toonizaki2_src.m3u8
+#EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Anime
+https://mitv.zplay.cl/ZAnime/index.m3u8
+#EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Retro
+https://mitv.zplay.cl/ZRetro/index.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://45.172.16.186:8000/play/a0rx
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
@@ -52,8 +54,6 @@ http://animezonetv.net/hls/stream.m3u8
 http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal ZTV Anime" tvg-id="" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Canal ZTV Anime
-https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://38.7.223.20:8000/play/a02s
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="JOVENES Y ADULTOS",TV Costa
