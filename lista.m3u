@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full
+#EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full HD
 https://mitv.zplay.cl/Ztv/index.m3u8
-#EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Anime
+#EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Anime HD
 https://mitv.zplay.cl/ZAnime/index.m3u8
-#EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Retro
+#EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Retro HD
 https://mitv.zplay.cl/ZRetro/index.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://190.61.42.218:9000/play/a00u
@@ -54,6 +54,8 @@ http://animezonetv.net/hls/stream.m3u8
 http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Toonami" tvg-id="" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami
 https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai TV" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Anime Onegai TV HD
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
