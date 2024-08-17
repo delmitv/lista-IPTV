@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full HD
-https://mitv.zplay.cl/Ztv/index.m3u8
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Anime HD
 https://mitv.zplay.cl/ZAnime/index.m3u8
 #EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Retro HD
-https://mitv.zplay.cl/ZRetro/index.m3u8
+https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://190.61.42.218:9000/play/a00u
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
