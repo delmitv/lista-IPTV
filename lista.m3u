@@ -7,7 +7,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F6Nbb0G/Logo-Z-Retro.png" group-title="JOVENES Y ADULTOS",Z Retro HD
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Night Time" tvg-id="Night Time" tvg-logo="https://i.ibb.co/BsKNkjB/logo-Night-Time.png" group-title="JOVENES Y ADULTOS",Night Time HD
-https://streaming-cl.sh1ny.space/memfs/d7398610-5740-4ddc-89b2-6023a5f7ab29_output_0.m3u8
+https://mitv.zplay.cl/NightTime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://190.61.42.218:9000/play/a00u
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/BBRSNJL/Logo-Teletoonizaki-HD.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
