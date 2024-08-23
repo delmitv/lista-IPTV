@@ -10,7 +10,7 @@ https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 https://streaming-cl.sh1ny.space/memfs/d7398610-5740-4ddc-89b2-6023a5f7ab29_output_0.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://190.61.42.218:9000/play/a00u
-#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
+#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/BBRSNJL/Logo-Teletoonizaki-HD.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
 https://live.autistici.org/hls/bdnetwork_mid.m3u8
