@@ -704,12 +704,12 @@ https://ssh101-fl.bozztv.com/ssh101/retroplustv/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retroplustv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f8T3F8Z/Logo-Memorias-TV.png" group-title="MUSICAS",Memorias TV HD
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPtTW8x/Logo-Memorias-Classic.png" group-title="MUSICAS",Memorias Classic HD
-https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F5q85b4/Logo-Memorias-Salsa.png" group-title="MUSICAS",Memorias Salsa HD
-https://stmv6.voxtvhd.com.br/memoriassalsa/memoriassalsa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rh18pMP/Logoi-La-Top-107-7-y-La-Top-102-9.png" group-title="MUSICAS",La Top 107.7 HD
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rh18pMP/Logoi-La-Top-107-7-y-La-Top-102-9.png" group-title="MUSICAS",La Top 102.9 HD
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8Dq75Vw/Logo-Vosy-TV.jpg" group-title="MUSICAS",VosyTV HD
+https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DpAvtOd.png" group-title="MUSICAS",La Nuestra HD
