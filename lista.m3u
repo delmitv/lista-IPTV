@@ -708,8 +708,18 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rh18pMP/Logoi-La-Top-107-7-y-La-Top-102-9.png" group-title="MUSICAS",La Top 102.9 HD
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8Dq75Vw/Logo-Vosy-TV.jpg" group-title="MUSICAS",VosyTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8Dq75Vw/Logo-Vosy-TV.jpg" group-title="MUSICAS",Vos y TV HD
 https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FnszRg3/Logo-Moon-TV.png" group-title="MUSICAS",Tropical Moon TV HD
+https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9VrTZvq/Logo-Media-TV.png" group-title="MUSICAS",Media TV HD
+https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/37WVQN0/logo-Urban-TV.png" group-title="MUSICAS",Urban TV HD
+https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pxCsST4/logo-Somos-Cultura.png" group-title="MUSICAS",Somos Cultura HD
+https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P53HmcX/Logo-Cumbia-TV.png" group-title="MUSICAS",Cumbia TV HD
+https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DpAvtOd.png" group-title="MUSICAS",La Nuestra HD
