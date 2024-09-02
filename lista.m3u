@@ -167,7 +167,7 @@ https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png" group-title="Familiares",Retro TV HD
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+https://cloudvideo.servers10.com:8081/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFKnckg/Logo-Memorias-Series.png" group-title="Familiares",Memorias Series HD
 https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
@@ -416,6 +416,8 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINO",Sony Canal Escape Perfecto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="LATINO",Retro Plus TV 3 HD
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nkhRHRJ/logo-Aion-TV.png" group-title="LATINO",Aion TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qg5VBtB/logo-Cvc.png" group-title="LATINO",CVC
@@ -431,7 +433,7 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J7md9RQ/logo-Frata-TV.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYn5GT4/Logo-Dimelo-TV.png" group-title="LATINO",Dimelo TV
-https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYWkcGK/Logo-Nativa-TV.jpg" group-title="LATINO",Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3iPzZg2.png" group-title="LATINO",Lenca TV
@@ -698,9 +700,9 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8A3PYa.png" group-title="MUSICAS",Radio 4 TV You HD
 https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z18pQGY/Logo-Retro-Plus-TV-1.png" group-title="MUSICAS",Retro Plus TV 1 HD
 https://ssh101-fl.bozztv.com/ssh101/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJZsZR8/Logo-Retro-Plus-TV-2.png" group-title="MUSICAS",Retro Plus TV 2 HD
 https://ssh101-fl.bozztv.com/ssh101/retroplustv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -720,6 +722,8 @@ https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/4
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P53HmcX/Logo-Cumbia-TV.png" group-title="MUSICAS",Cumbia TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8dtvbmw/Logo-A-Todo-Ritmo.png" group-title="MUSICAS",A Todo Fitmo HD
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2175/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2175&stime=1725306016&etime=1725392416&token=00e23e92c44564df66ea9&p=livecdn&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DpAvtOd.png" group-title="MUSICAS",La Nuestra HD
