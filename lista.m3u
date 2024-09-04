@@ -72,8 +72,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.160.12.253:8000/play/007
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="JOVENES Y ADULTOS",TV Costa
-https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Anime Taltal TV HD
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KGjxfv/Logo-Canal-Hex.png" group-title="JOVENES Y ADULTOS",Canal Hex HD
@@ -101,7 +99,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Familiares",Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fF03ZRC/Logo-Magic-Kids.png" group-title="Familiares",Magic
@@ -122,8 +120,8 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab
 https://ssh101.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jZzQryL/Logo-TVToons.png" group-title="Familiares",TvToons
-https://ssh101.bozztv.com/ssh101/tvtoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tZcZbgy/Logo-Super-Channel.jpg" group-title="Familiares",Super Channel
@@ -509,7 +507,9 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2ceJnWz.png" group-title="LATINO",Horrorfy HD
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
-https://seo.tv.bo/tv/SEO1.m3u8
+https://seo.tv.bo/tv/SEO-TV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
 https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
