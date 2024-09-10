@@ -31,11 +31,11 @@ https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
-https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/py4K0MR/logo-Wow-Channel.png" group-title="JOVENES Y ADULTOS",Wow Channel
-https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/wowchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",Wow Eventos
 https://cdnhd.iblups.com/hls/OLcAZqlwaU.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
@@ -73,7 +73,7 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.160.12.253:8000/play/007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Anime Taltal TV HD
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KGjxfv/Logo-Canal-Hex.png" group-title="JOVENES Y ADULTOS",Canal Hex HD
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
@@ -101,23 +101,23 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
-https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fF03ZRC/Logo-Magic-Kids.png" group-title="Familiares",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bN8f137/Logo-El-Magic-TV.png" group-title="Familiares",El Magic TV
 https://kali1.everestcast.com:3600/stream/play.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
-https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
-https://ssh101.bozztv.com/ssh101/testvideo40/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/testvideo40/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
 https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab56fb0e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
-https://ssh101.bozztv.com/ssh101/testvideo50/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
@@ -155,13 +155,13 @@ https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="Familiares",Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png" group-title="Familiares",TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zr565ht/Logo-Telecosta.png" group-title="Familiares",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1TjfCsY/Logo-Big-Cine.png" group-title="Familiares",Big Cine
-https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/canalonline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png" group-title="Familiares",Retro TV HD
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
@@ -169,9 +169,9 @@ https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFKnckg/Logo-Memorias-Series.png" group-title="Familiares",Memorias Series HD
 https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
-https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzyZWvx/Logo-Tick-TV.png" group-title="Familiares",Tick TV HD
-https://ssh101.bozztv.com/ssh101/ticktv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/ticktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="Familiares",Vision TV HD
