@@ -167,8 +167,8 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="Familiares",Canal Cinco HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFKnckg/Logo-Memorias-Series.png" group-title="Familiares",Retro Canal 2 HD
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vqrZTQf/Logo-Retro-Canal-2.jpg" group-title="Familiares",Retro Canal 2 HD
 https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
 https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
