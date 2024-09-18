@@ -106,8 +106,8 @@ https://ssh101-fl.bozztv.com/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bN8f137/Logo-El-Magic-TV.png" group-title="Familiares",El Magic TV
-https://kali1.everestcast.com:3600/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN CITY
+https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
@@ -188,10 +188,10 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="Familiares",Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Retro HD
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Kids HD
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Familiares",Opinion Sur Ninos HD
+https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Familiares",Opinion Sur Series HD
+https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hYXXZwt/logo-Xabarin-TV.png" group-title="Familiares",Xabarin TV HD
 http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpHgX5X/logo-Xabarin-TV-PEQUERRECH-S.png" group-title="Familiares",Xabarin TV Pequerrechoas HD
@@ -534,8 +534,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td768p9.jpg" group-title="LATINO",TV Pop
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iz9r7kl.png" group-title="LATINO",Opinionsur TV
-https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="LATINO",Opinion Sur Cine HD
+https://ssh101-fl.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fG5dyw3.png" group-title="LATINO",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
@@ -648,6 +648,8 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rc2D2fx/Logo-Nande-portetepe-TV.png" group-title="DEPORTES",Nande portepe TV HD
 https://ssh101-fl.bozztv.com/ssh101/emisionenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQhFgz3/Logo-Garcilaso-TV.png" group-title="DEPORTES",Garcilaso TV HD
+https://ssh101-fl.bozztv.com/ssh101/garcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="DEPORTES",CRTV Chile
 https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES",Esports Max
