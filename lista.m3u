@@ -24,10 +24,6 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="JOVENES Y ADULTOS",Canal LMS
-https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
-https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
@@ -76,6 +72,8 @@ http://45.160.12.253:8000/play/007
 https://ssh101-fl.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KGjxfv/Logo-Canal-Hex.png" group-title="JOVENES Y ADULTOS",Canal Hex HD
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3zzc3d6/Logo-STC.png" group-title="JOVENES Y ADULTOS",STC HD
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
@@ -110,6 +108,10 @@ https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS
+https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS (Opcion 2)
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
@@ -166,10 +168,6 @@ https://ssh101-fl.bozztv.com/ssh101/canalonline/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="Familiares",Canal Cinco HD
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vqrZTQf/Logo-Retro-Canal-2.jpg" group-title="Familiares",Retro Canal 2 HD
-https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
 https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzyZWvx/Logo-Tick-TV.png" group-title="Familiares",Tick TV HD
@@ -396,6 +394,10 @@ https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="LATINO",Canal Cinco HD
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vqrZTQf/Logo-Retro-Canal-2.jpg" group-title="LATINO",Retro Canal 2 HD
+https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M2wqPgQ/Logo-Plus-Cine.png" group-title="LATINO",Plus Cine
