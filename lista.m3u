@@ -143,7 +143,7 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV 2
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11984
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV 4K
 https://ssh101-fl.bozztv.com/ssh101/gogoplay4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV HD
@@ -279,9 +279,9 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gmkXHYG/logo-Anove-TV.png" group-title="SPAIN",Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
-https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV4Xszg/Logo-7-Global-TV.png" group-title="SPAIN",7 Global TV HD
-https://stmvideo1.livecastv.com/7mntv/7mntv/playlist.m3u8
+https://stmvideo3.livecastv.com/tv7m/tv7m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
@@ -315,7 +315,7 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fSXg3jg/Logo-Equipo-de-investigaci-n.png" group-title="SPAIN",Atresplayer Equipo de Investigacion HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j61KksB/logo-Etb-2.png" group-title="SPAIN",ETB 2 HD
@@ -359,7 +359,7 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jc2jLVK/logo-La-7-Region-de-Murcia.png" group-title="SPAIN",La 7 Region de Murcia HD
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y0Wwgfj/logo-Popular-TV-Murcia.png" group-title="SPAIN",Popular TV Murcia HD
-https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2jwnjpH/logo-Popular-TV-Cantabria.png" group-title="SPAIN",Popular TV Cantabria HD
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6XyKf1G/logo-Popular-TV-Melilla.png" group-title="SPAIN",Popular TV Melilla HD
