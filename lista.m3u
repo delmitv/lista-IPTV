@@ -70,8 +70,8 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 http://204.199.137.51:38/play/a00j
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Anime Taltal TV HD
 https://ssh101-fl.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KGjxfv/Logo-Canal-Hex.png" group-title="JOVENES Y ADULTOS",Canal Hex HD
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3zzc3d6/Logo-STC.png" group-title="JOVENES Y ADULTOS",STC HD
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
