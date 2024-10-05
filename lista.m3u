@@ -1,13 +1,11 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full HD
+#EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Reflejo HD
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Magic Club TV" tvg-id="MagicClubTV" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS",Magic Club TV HD
-https://mitv.zplay.cl/MagicClubTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Teletoonizaki HD" tvg-id="TeletoonizakiHD" tvg-logo="https://i.ibb.co/BBRSNJL/Logo-Teletoonizaki-HD.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
@@ -277,7 +275,7 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gmkXHYG/logo-Anove-TV.png" group-title="SPAIN",Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12687
+https://stream-us-east-1.getpublica.com/cl/241005cs0ot6biv8p2ulnsr260/1280x720_1500000_0_f.m3u8?i=1187_12687
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV4Xszg/Logo-7-Global-TV.png" group-title="SPAIN",7 Global TV HD
 https://stmvideo3.livecastv.com/tv7m/tv7m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
@@ -382,6 +380,8 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tJJQmmR/Logo-Costa-Rica-Channel.png" group-title="LATINO",Costa Rica Channel HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CzDFDy1/Logo-Canal-10-Costa-Rica.png" group-title="LATINO",Canal 10 Costa Rica HD
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD en Info7
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
@@ -392,6 +392,10 @@ https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="LATINO",Canal Cinco HD
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mSdLDn3/Logo-Palmar-TV.png" group-title="LATINO",Palmar TV HD
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3F935Mn/Logo-Nitida-TV.png" group-title="LATINO",Nitida TV HD
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vqrZTQf/Logo-Retro-Canal-2.jpg" group-title="LATINO",Retro Canal 2 HD
 https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
