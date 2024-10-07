@@ -70,8 +70,6 @@ http://204.199.137.51:38/play/a00j
 https://ssh101-fl.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3zzc3d6/Logo-STC.png" group-title="JOVENES Y ADULTOS",STC HD
-https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
@@ -120,6 +118,8 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab
 https://ssh101-fl.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HdcYm3N/Logo-DM-Kids-TV.png" group-title="Familiares",DM Kids TV HD
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
@@ -270,12 +270,10 @@ http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
 http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 3 HD
 http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pj7vfWN/logo-Tpa-7.png" group-title="SPAIN",Tpa7 HD
-https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gmkXHYG/logo-Anove-TV.png" group-title="SPAIN",Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
-https://stream-us-east-1.getpublica.com/cl/241005cs0ot6biv8p2ulnsr260/1280x720_1500000_0_f.m3u8?i=1187_12687
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV4Xszg/Logo-7-Global-TV.png" group-title="SPAIN",7 Global TV HD
 https://stmvideo3.livecastv.com/tv7m/tv7m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
@@ -454,6 +452,8 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3zzc3d6/Logo-STC.png" group-title="LATINO",STC HD
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="LATINO",Canal 7 Somos Jujuy HD
