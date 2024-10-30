@@ -439,7 +439,7 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J7md9RQ/logo-Frata-TV.jpg" group-title="LATINO",Frata TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYn5GT4/Logo-Dimelo-TV.png" group-title="LATINO",Dimelo TV
-https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
+https://ssh101-fl.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYWkcGK/Logo-Nativa-TV.jpg" group-title="LATINO",Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3iPzZg2.png" group-title="LATINO",Lenca TV
@@ -544,6 +544,16 @@ https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="LATINO",Opinion Sur Cine HD
 https://ssh101-fl.bozztv.com/ssh101/opinionsur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LhnDC2s/Logo-Villa-TV.png" group-title="LATINO",Villa TV HD
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fqRCrWj/Logo-La-Ruta-TV.png" group-title="LATINO",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9q7xGxd/Logo-Valle-Nuevo-TV.png" group-title="LATINO",Valle Nuevo TV HD
+https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZB4zZDS/Logo-HM-TV.png" group-title="LATINO",HM TV HD
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tP6vZWZ/Logo-Cotui-TV.png" group-title="LATINO",Cotui TV 4K
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fG5dyw3.png" group-title="LATINO",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
@@ -714,6 +724,8 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8A3PYa.png" group-title="MUSICAS",Radio 4 TV You HD
 https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GTtBB3Y/Logo-Manaclar-TV.png" group-title="MUSICAS",Manaclar TV HD
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z18pQGY/Logo-Retro-Plus-TV-1.png" group-title="MUSICAS",Retro Plus TV 1 HD
 https://ssh101-fl.bozztv.com/ssh101/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJZsZR8/Logo-Retro-Plus-TV-2.png" group-title="MUSICAS",Retro Plus TV 2 HD
