@@ -759,7 +759,7 @@ https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YTXwL8p.png" group-title="MUSICAS",San Borja TV HD
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1XkaBrU.png" group-title="MUSICAS",Rosa FM
-https://tv.streaming-chile.com:8081/rosafm/index.m3u8
+https://tv.streaming-chile.com:1936/rosafm/rosafm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="MUSICAS",Carolina TV (geobloqueo)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eRMoybs.png" group-title="MUSICAS",Carolina TV 2
