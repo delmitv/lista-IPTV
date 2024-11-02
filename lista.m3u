@@ -126,6 +126,8 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab
 https://ssh101-fl.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean HD
+https://amg00627-amg00627c25-samsung-es-3933.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanes-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HdcYm3N/Logo-DM-Kids-TV.png" group-title="Familiares",DM Kids TV HD
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
@@ -672,6 +674,8 @@ https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kBfzS6f/Logo-TV-Azteca-Deportes.jpg" group-title="DEPORTES",TV Azceta Deportes HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6bMjWG7/Logo-Claro-Sports.png" group-title="DEPORTES",Claro Sports HD Argentina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rc2D2fx/Logo-Nande-portetepe-TV.png" group-title="DEPORTES",Nande portepe TV HD
 https://ssh101-fl.bozztv.com/ssh101/emisionenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQhFgz3/Logo-Garcilaso-TV.png" group-title="DEPORTES",Garcilaso TV HD
