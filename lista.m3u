@@ -474,6 +474,10 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMPG0Gp.png" group-title="LATINO",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvT95S6/Logo-Isidro-TV.png" group-title="LATINO",San Isidro TV HD
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3kV1Vg6/Logo-TVS-TV.png" group-title="LATINO",TVS TV HD
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3zzc3d6/Logo-STC.png" group-title="LATINO",STC HD
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6kXMM3s.png" group-title="LATINO",Canal 7 Neuquen
