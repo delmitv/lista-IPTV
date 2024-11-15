@@ -17,7 +17,7 @@ https://live.autistici.org/hls/bdnetwork_mid.m3u8
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://190.90.252.200:16001/play/a08u
 #EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim Mexico
-http://mundoena.ddnsking.com:80/play/lYmufDL5XTT477ZDZcZSQivNmDxaPkG-rL3XXq8vCNOG14JPe9TKD5VvpzYnBoV2/m3u8
+http://138.118.105.190:8000/play/a0g1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
