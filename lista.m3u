@@ -4,13 +4,13 @@
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="JOVENES Y ADULTOS",Toonizaki HD (Chile)
+#EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="JOVENES Y ADULTOS",Toonizaki HD
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Teletoonizaki HD" tvg-id="TeletoonizakiHD" tvg-logo="https://i.ibb.co/BBRSNJL/Logo-Teletoonizaki-HD.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD (Argentina)
+#EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/r0rq0N9/Logo-Kanpai-Channel.jpg" group-title="JOVENES Y ADULTOS",Kanpai Channel HD
 https://mitv.zplay.cl/ToonamiChannelLA/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
 https://live.autistici.org/hls/bdnetwork_mid.m3u8
