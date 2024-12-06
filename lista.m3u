@@ -440,6 +440,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e6
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YZKVdvY/Logo-Pelidom.png" group-title="LATINO",Pelidom HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13266
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ks4vTWc/Logo-Latina-Internacional-TV.png" group-title="LATINO",Latina Internacional TV HD
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKNjwCV/logo-Alcarrizos-TV.png" group-title="LATINO",Alcarrizos TV HD
@@ -762,6 +764,8 @@ https://vdo.voxhdnet.com:3159/stream/play.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rh18pMP/Logoi-La-Top-107-7-y-La-Top-102-9.png" group-title="MUSICAS",La Top 102.9 HD
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8dtvbmw/Logo-A-Todo-Ritmo.png" group-title="MUSICAS",A Todo Ritmo HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13252
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f8T3F8Z/Logo-Memorias-TV.png" group-title="MUSICAS",Memorias TV HD
 https://viewhn.com/live_memoriastv/T3YEeYuNC8uoQZWp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/khVMHLB/Logo-Telemusica.jpg" group-title="MUSICAS",Telemusica HD
