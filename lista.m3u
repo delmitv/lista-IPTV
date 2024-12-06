@@ -577,7 +577,7 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fqRCrWj/Logo-La-Ruta-TV.png" group-title="LATINO",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9q7xGxd/Logo-Valle-Nuevo-TV.png" group-title="LATINO",Valle Nuevo TV HD
-https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
+https://media.streambrothers.com:19360/8262/8262.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZB4zZDS/Logo-HM-TV.png" group-title="LATINO",HM TV HD
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tP6vZWZ/Logo-Cotui-TV.png" group-title="LATINO",Cotui TV 4K
