@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-name="ZTV By zplay.cl" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV By zplay.cl HD
-https://mitv.zplay.cl/T3l3/video.m3u8?token=D4lm1R0m-tFJES
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="JOVENES Y ADULTOS",Toonizaki HD
@@ -182,8 +182,6 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD
 https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W2kd8dJ/Logo-Alfa-TV.png" group-title="Familiares",Alfa TV HD
-https://v2.tustreaming.cl/alfatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="Familiares",Vision TV HD
@@ -479,6 +477,8 @@ https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sW0HV6B/Logo-Telediario-TV.png" group-title="LATINO",Telediario TV
 http://190.123.83.134:8080/hls/tdtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WW2GHX8/Logo-Kairos-TV-Canal-16-4.jpg" group-title="LATINO",Kairos TV canal 16 4
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1rS8uI.jpg" group-title="LATINO",Canal 5 Solola
@@ -773,6 +773,8 @@ https://viewhn.com/live_memoriastv/T3YEeYuNC8uoQZWp/playlist.m3u8
 https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8Dq75Vw/Logo-Vosy-TV.jpg" group-title="MUSICAS",Vos y TV HD
 https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W2kd8dJ/Logo-Alfa-TV.png" group-title="MUSICAS",Alfa TV HD
+https://v2.tustreaming.cl/alfatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FnszRg3/Logo-Moon-TV.png" group-title="MUSICAS",Tropical Moon TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9VrTZvq/Logo-Media-TV.png" group-title="MUSICAS",Media TV HD
