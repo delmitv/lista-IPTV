@@ -248,10 +248,8 @@ http://45.175.139.194:8000/play/22
 http://181.78.14.26:8000/play/a045
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png" group-title="Familiares",Bitme HD
 http://190.60.33.245:4002/play/a0kd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD (opcion 2)
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/playlist.m3u8
+  #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel LA HD
+http://179.63.6.12:9000/play/a04r
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (opcion 2)
@@ -344,6 +342,10 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/play
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2yxYKHx/logo-Rakuten-TV-Comedia.png" group-title="SPAIN",Rakuten TV Comedia HD
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svmK1mk/logo-Squirrell.png" group-title="SPAIN",Squirrel HD
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svmK1mk/logo-Squirrell.png" group-title="SPAIN",Squirrel HD (opcion 2)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/99xVwy9/logo-Distrito-TV.png" group-title="SPAIN",Distrito TV HD
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9bqNXJZ/logo-Interalmeria-TV.png" group-title="SPAIN",interalmeria tv HD
@@ -656,8 +658,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f00072602
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Inazuma Eleven Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Sakura Cazadora de Cartas Pluto TV" tvg-logo="https://i.ibb.co/1dbspcj/Logo-Sakura-Cazadora-de-Cartas.png" tvg-shift="0" group-title="Pluto TV Spain",Sakura Cazadora de Cartas Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65819cb3a620e300080f63bd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh en Pluto TV" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" tvg-shift="0" group-title="Pluto TV Spain",Yu-Gi-Oh en Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Heidi y Marco en Pluto TV" tvg-logo="https://i.ibb.co/gT498Gw/logo-Heidi-y-Marco.jpg" tvg-shift="0" group-title="Pluto TV Spain",Heidi y Marco en Pluto TV
@@ -718,7 +718,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (opcion 2)
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dQzQ11d/Logo-Canal-Sur-Noticias.png" group-title="SPAIN",Canal Sur Mas Noticias 24H HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dQzQ11d/Logo-Canal-Sur-Noticias.png" group-title="NOTICIAS",Canal Sur Mas Noticias 24H HD
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dUGJCP6.png" group-title="NOTICIAS",324 HD (geobloqueo)
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
