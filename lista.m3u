@@ -140,8 +140,12 @@ https://ssh101-fl.bozztv.com/ssh101/testvideo40/playlist.m3u8
 https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab56fb0e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
 https://ssh101-fl.bozztv.com/ssh101/testvideo50/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNTV ESTE
+https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Wepa TV
+https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 v#EXTINF:-1 tvg-logo="https://i.ibb.co/1MSPyvb/Logo-Seamos-Ni-os.jpg" group-title="Familiares",Seamos Ninos en TV Tica 
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean HD
@@ -860,6 +864,8 @@ http://node-34.zeno.fm:80/vfxsw0deyzzuv
 http://node-19.zeno.fm:80/cp658vvd7tzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JLAqSvn.png" group-title="RADIOS",Conéctate Retro Hits Radio
 https://us9.maindigitalstream.com/ssl/7686i
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GcFtbTW/Logo-Magico-Radio.png" group-title="RADIOS",Magica Radio
+https://radio.plandos.com/8086/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z3pM2UK.png" group-title="RADIOS",Anime Nexus
 http://cast.animenexusla.com:8000/animenexus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
