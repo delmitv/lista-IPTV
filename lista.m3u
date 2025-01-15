@@ -470,6 +470,8 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINO",Imagen  Universal TV HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tHT29qQ/Logo-Asmar-TV.png" group-title="LATINO",Asmar TV HD
+https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtbrYhq/Logo-Simavision.png" group-title="LATINO",Sima Vision TV HD
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="LATINO",Retro Plus TV 3 HD
