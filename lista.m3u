@@ -12,8 +12,8 @@ https://mitv.zplay.cl/T3l3/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Loading Argentina" tvg-id="LoadingArgentina" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading Argentina HD
-https://mitv.zplay.cl/ToonamiChannelLA/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/Qr1ZgCj/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD
+https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
 https://live.autistici.org/hls/bdnetwork_mid.m3u8
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
@@ -216,6 +216,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://ssh101-fl.bozztv.com/ssh101/zoytvkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="Familiares",Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mPY5Yb/Logo-Chinola-TV.jpg" group-title="Familiares",Chinola TV HD
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Familiares",Opinion Sur Ninos HD
 https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Familiares",Opinion Sur Series HD
@@ -432,6 +434,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 Mexico HD
 http://181.78.105.146:2000/play/a038
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD en Info7
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
@@ -474,6 +478,14 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtbrYhq/Logo-Simavision.png" group-title="LATINO",Sima Vision TV HD
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5GtGtcv/Logo-Evoluci-n-TV.png" group-title="LATINO",Evolucion TV HD
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kxZDX0H/Logo-Mi-Turno-TV.png" group-title="LATINO",Mi Turno TV HD
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w0wqZZz/Logo-GM7-Digital.png" group-title="LATINO",GM7  Digital HD
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gm05H2T/Logo-Canal-100.jpg" group-title="LATINO",Canal 100 HD
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="LATINO",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
