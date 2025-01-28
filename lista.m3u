@@ -286,18 +286,10 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (opcion 2)
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",Antena 3 HD
-http://77.228.160.100:61800/play/a00a
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",Antena 3 Internacional HD
-http://200.59.188.3:8000/play/a0f3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",Cuatro HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",Cuatro HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+http://79.117.39.146:8000/play/a0af
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7X1cHt/Logo-Telecinco-HD.png" group-title="SPAIN",Telecinco HD
-http://77.228.160.100:61800/play/a00k
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",La Sexta HD
-http://45.153.96.44:8000/play/a01d
+http://79.117.39.146:8000/play/a0ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine HD
@@ -333,13 +325,13 @@ https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
 http://79.117.39.146:8000/play/a0a9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
-http://45.153.96.44:8000/play/a00z
+http://79.117.39.146:8000/play/a0b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
-http://45.173.201.51:4000/play/a01k
+http://38.187.11.154:8000/play/a08n
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/23Hjszc/Logo-Cine-y-Series-TV.png" group-title="SPAIN",Cine y Series HD
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
-http://181.119.86.68:8000/play/b010
+http://45.173.201.51:4000/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Multicine HD (geobloqueo)
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Clasicos HD (geobloqueo)
