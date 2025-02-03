@@ -104,6 +104,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Indonesia
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Indonesia (Opcion 2)
+https://cdn09jtedge.indihometv.com/joss/130/animax/chunklist_w585803922_b1044100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Corea Del Sur
 https://tinyurl.com/ycye8tx8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Corea Del Sur (Opcion 2)
