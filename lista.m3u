@@ -330,6 +330,8 @@ https://media2.streambrothers.com:19360/8070/8070.m3u8
 https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9mNLFkfb/Logo-Cadena-Top10-TV.jpg" group-title="SPAIN",Cadena Top10 TV HD
+https://xhateaec.com:8800/hls/Cadenatop10/Cadenatop10/2473c2a3a47346a17b31826849534f3b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
 http://185.189.225.150:85/neox/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
