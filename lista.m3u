@@ -22,7 +22,7 @@ http://181.78.105.146:6060/play/a01n
 http://138.118.105.190:8000/play/a0g1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
 https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="JOVENES Y ADULTOS",Much Music HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="JOVENES Y ADULTOS",COMMUSIC HD
 https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
