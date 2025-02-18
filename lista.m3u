@@ -90,6 +90,8 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYZdwm1T/Logo-Junior-TV.png" group-title="JOVENES Y ADULTOS",Junior TV HD
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JnqPS8J/Logo-Animax-3.png" group-title="JOVENES Y ADULTOS",Animax HD Brasil
 https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
@@ -104,12 +106,14 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Indonesia
 https://cdn09jtedge.indihometv.com/joss/130/animax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Corea Del Sur
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_024&auth=e9963ef1-e25f558f-49451fd9-38ec4fb9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYgYHXVD/Logo-BBC-Doctor-Who.png" group-title="JOVENES Y ADULTOS",BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="JOVENES Y ADULTOS",BBC Drama HD
+chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/np8ynQr/Logo-BBC-Top-Gear.png" group-title="JOVENES Y ADULTOS",BBC Top Gear HD
+https://daiconnect.com/live/hls/tvup/tvfy-topgear/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV HD
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
