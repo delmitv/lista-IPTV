@@ -12,8 +12,10 @@ https://mitv.zplay.cl/T3l3/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/6FLFG28/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD
+#EXTINF:-1 tvg-name="magic Spin" tvg-id="MagicSpin" tvg-logo="https://i.ibb.co/c8ZRrND/Logo-Magic-Club.png" group-title="JOVENES Y ADULTOS",Magic Spin HD
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name="Magic Spin" tvg-id="MagicSpin" tvg-logo="https://i.ibb.co/c8ZRrND/Logo-Magic-Club.png" group-title="JOVENES Y ADULTOS",Magic Spin HD (Opcion 2)
+https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
 #EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
 https://live.autistici.org/hls/bdnetwork_mid.m3u8
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
