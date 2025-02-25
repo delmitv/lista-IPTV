@@ -158,8 +158,6 @@ https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Wepa TV
 https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
-v#EXTINF:-1 tvg-logo="https://i.ibb.co/1MSPyvb/Logo-Seamos-Ni-os.jpg" group-title="Familiares",Seamos Ninos en TV Tica 
-https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="Familiares",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean Animado HD (geobloqueo)
@@ -466,6 +464,8 @@ https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tvw3Z8G/Logo-TVTICA.png" group-title="LATINO",TVTica HD
+https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="LATINO",Canal Cinco HD
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/my5YtMt/Logo-TV-Mas-2.png" group-title="LATINO",TV Mas 2 HD
