@@ -22,10 +22,6 @@ https://live.autistici.org/hls/bdnetwork_mid.m3u8
 http://181.78.105.146:6060/play/a01n
 #EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim Mexico
 http://138.118.105.190:8000/play/a0g1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
-https://mitv2.zplay.cl/COMCHANNEL/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="JOVENES Y ADULTOS",COMMUSIC HD
-https://mitv2.zplay.cl/COMUSIC/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV
@@ -814,6 +810,14 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/T8zjvQ7/Logo-Columbo.png" group-title="ITALIA",Columbo
 https://ssh101.bozztv.com/ssh101/columbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL Panregional HD
+https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC Panregional HD
+https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL HD
+https://mitv2.zplay.cl/COMCHANNEL/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
+https://mitv2.zplay.cl/COMUSIC/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-name="Boombox Radio" tvg-logo="https://i.ibb.co/dc2Gn1K/Logo-Boombox-Radio.jpg" group-title="MUSICAS",Boombox Radio HD
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICAS",Kmk RTV
