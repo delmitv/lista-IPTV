@@ -578,6 +578,8 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HWTCNx8.png" group-title="LATINO",15 TV Primavera
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HWTCNx8.png" group-title="LATINO",Canal 18 TV HD
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C1Ha08S.png" group-title="LATINO",Megavision Canal 19
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/baZgkgk.png" group-title="LATINO",Canal 25
