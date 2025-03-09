@@ -486,6 +486,16 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/t7F5yRP/Logo-Mega-Cine-TV.png" group-title="LATINO",Mega Cine TV HD
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xtvWwt6C/Logo-BOREAL-TV-HD.png" group-title="LATINO",BOREAL TV HD
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4GL6n4P/Logo-Mi-Canal-HD.png" group-title="LATINO",Mi Canal HD
+https://gw-tvicom.yuvod.net/micanalhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINO",TV del Este HD
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N2YXvcHV/Logo-Ideal-TV.png" group-title="LATINO",Ideal TV HD
+https://cloud5.idealtv.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINO",TV del Este HD
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
@@ -550,6 +560,8 @@ https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sW0HV6B/Logo-Telediario-TV.png" group-title="LATINO",Telediario TV
 http://190.123.83.134:8080/hls/tdtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gLvBxdFM/Logo-guila-TV.png" group-title="LATINO",Águila TV HD
+https://vdo2.streamgato.us:3699/live/aguilatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WW2GHX8/Logo-Kairos-TV-Canal-16-4.jpg" group-title="LATINO",Kairos TV canal 16 4
 https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
@@ -866,6 +878,8 @@ https://sistemastr.tropicalmoonmedia.com/vivalivepublic/BjseGwS28B/23.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P53HmcX/Logo-Cumbia-TV.png" group-title="MUSICAS",Cumbia TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzSvRJ6X/Logo-Corazon-TV.png" group-title="MUSICAS",Corazon TV HD
+https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DpAvtOd.png" group-title="MUSICAS",La Nuestra HD
