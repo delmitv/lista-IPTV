@@ -494,8 +494,8 @@ https://gw-tvicom.yuvod.net/micanalhd/playlist.m3u8
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N2YXvcHV/Logo-Ideal-TV.png" group-title="LATINO",Ideal TV HD
 https://cloud5.idealtv.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINO",TV del Este HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1f3GvNBM/Logo-PERU-ENTERTAINMENT-PLAY.png" group-title="LATINO",PERU ENTERTAINMENT PLAY HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12966
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
@@ -880,6 +880,8 @@ https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzSvRJ6X/Logo-Corazon-TV.png" group-title="MUSICAS",Corazon TV HD
 https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mdY8v0f/Logo-Celebrity-HITZ-TV.png" group-title="MUSICAS",Celebrity HITZ TV HD
+https://video2.getstreamhosting.com:19360/8152/8152.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="MUSICAS",Venus Media TV HD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DpAvtOd.png" group-title="MUSICAS",La Nuestra HD
