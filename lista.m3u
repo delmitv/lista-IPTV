@@ -325,7 +325,7 @@ http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 3 HD
 http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gmkXHYG/logo-Anove-TV.png" group-title="SPAIN",Anove TV HD
-https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12687
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD (opcion 2)
@@ -453,11 +453,11 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CzDFDy1/Logo-Canal-10-Costa-Rica.png" group-title="LATINO",Canal 10 Costa Rica HD
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 Mexico HD
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+http://38.49.128.38:8000/play/a0n6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD en Info7
-https://live.info7.mx/info7/stream/_hi1/index.m3u8
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HLq4v5V0/logo-Azteca-Internacional.png" group-title="LATINO",Azteca Internacional HD
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
 https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",Tele Estrella HD Bolivia
