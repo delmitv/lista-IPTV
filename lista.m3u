@@ -455,7 +455,7 @@ https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 Mexico HD
 http://38.49.128.38:8000/play/a0n6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
-http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://38.49.128.38:8000/play/a0fm
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HLq4v5V0/logo-Azteca-Internacional.png" group-title="LATINO",Azteca Internacional HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
