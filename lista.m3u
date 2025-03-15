@@ -180,7 +180,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PsLfq2R/Logo-Toon-Goggles-en-Spanish.png" group-title="Familiares",Toon Goggles en Spanish
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids
+#EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI KIDS HD
+https://mitv.zplay.cl/AKids/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids HD
 https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
