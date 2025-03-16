@@ -12,6 +12,8 @@ https://mitv.zplay.cl/T3l3/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
+https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD (Opcion 2)
@@ -158,6 +160,12 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/09e72be9ecb1766b81d20c61a3
 https://ssh101-fl.bozztv.com/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJPQpDCv/Logo-CH-TV.jpg" group-title="Familiares",CH TV HD
 https://ssh101-fl.bozztv.com/ssh101/testvideo100/playlist.m3u8
+#EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/pj15CyYT/Logo-AVI-Kids.png" group-title="Familiares",AVI KIDS HD
+https://mitv.zplay.cl/AKids/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids HD
+https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="Familiares",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean Animado HD (geobloqueo)
@@ -170,8 +178,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cLbZwwK/Logo-Toonz-Kids.png" group-title="Familiares",Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KG9kTP/Logo-Zona-de-Accion.png" group-title="Familiares",Zona de Accion
@@ -180,10 +186,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PsLfq2R/Logo-Toon-Goggles-en-Spanish.png" group-title="Familiares",Toon Goggles en Spanish
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI KIDS HD
-https://mitv.zplay.cl/AKids/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids HD
-https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
