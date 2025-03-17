@@ -265,7 +265,7 @@ http://185.189.225.150:85/boing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm3Tyy8/Logo-boing-Italia.png" group-title="Familiares",Boing Italia HD
 http://46.232.186.35:35001/play/a02l
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFWgmMk/Logo-Boing-Plus.png" group-title="Familiares",Boing Plus HD
-http://84.22.55.2:8000/play/s16
+http://46.232.186.35:35001/play/a01b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hK4dVbQ/Logo-Rai-Gulp-HD.png" group-title="Familiares",Rai Gulp  HD
 http://45.59.149.54:8044/play/s1906
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kygbKSw/Logo-Rai-Yoyo-HD.png" group-title="Familiares",Rai Yoyo  HD
@@ -345,7 +345,7 @@ http://185.189.225.150:85/neox/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
 http://79.117.39.146:8000/play/a0b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
-http://181.64.186.47:8000/play/a02i
+http://45.230.38.117:8000/play/a0cg
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/23Hjszc/Logo-Cine-y-Series-TV.png" group-title="SPAIN",Cine y Series HD
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
@@ -811,9 +811,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xybMsIh.png" group-title="NOTICIAS",Rai News 24
 https://streamcdnp1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgAxWxc.png" group-title="ITALIA",Italia 1 HD
-http://45.59.149.54:8052/play/s1878
+http://46.232.186.35:35001/play/a048
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0CdSczF.jpg" group-title="ITALIA",Italia 2 HD
-http://45.59.149.54:8052/play/s1869
+http://46.232.186.35:35001/play/a045
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1JgZlP.png" group-title="ITALIA",RTV San Marino HD
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GSsMRxE.png" group-title="ITALIA",Rai Sudtirol HD
