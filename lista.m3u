@@ -14,10 +14,8 @@ https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD
+#EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z HD (Opcion 2)
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
 #EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
 https://live.autistici.org/hls/bdnetwork_mid.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="JOVENES Y ADULTOS",FUNTV
