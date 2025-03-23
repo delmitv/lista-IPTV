@@ -261,7 +261,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/mani
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD (opcion 2)
 http://185.189.225.150:85/boing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm3Tyy8/Logo-boing-Italia.png" group-title="Familiares",Boing Italia HD
-http://46.232.186.35:35001/play/a02l
+https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFWgmMk/Logo-Boing-Plus.png" group-title="Familiares",Boing Plus HD
 http://46.232.186.35:35001/play/a01b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hK4dVbQ/Logo-Rai-Gulp-HD.png" group-title="Familiares",Rai Gulp  HD
