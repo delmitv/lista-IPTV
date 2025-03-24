@@ -257,8 +257,6 @@ http://170.239.188.252:8000/play/a0ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",Atresplayer Kidz HD (geobloqueo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD (opcion 2)
 http://185.189.225.150:85/boing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm3Tyy8/Logo-boing-Italia.png" group-title="Familiares",Boing Italia HD
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
@@ -270,10 +268,6 @@ http://45.59.149.54:8044/play/s1906
 http://45.59.149.54:8049/play/s1675
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCtKJYb/logo-SX3.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares",ETB 3 HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares",ETB 3 HD (opcion 2)
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rv44TqV/Logo-Rantaro-el-Ninja-Boy.jpg" group-title="Familiares",Rantaro el Ninja Boy en Rakuten TV HD
 https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mqP0fSd/Logo-En-Familia.jpg" group-title="Familiares",En Familia HD
@@ -523,7 +517,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YZKVdvY/Logo-Pelidom.png" group-title="LATINO",Pelidom HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13266
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1742846292&etime=1742932692&token=0e86c89ecc54a56fdd880
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ks4vTWc/Logo-Latina-Internacional-TV.png" group-title="LATINO",Latina Internacional TV HD
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKNjwCV/logo-Alcarrizos-TV.png" group-title="LATINO",Alcarrizos TV HD
