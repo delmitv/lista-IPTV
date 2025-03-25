@@ -275,7 +275,7 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network HD
 http://181.119.86.1:8000/play/a01q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
-http://8.243.64.35:8002/play/a08u
+http://190.2.213.106:8000/play/a00c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Spain HD
 http://185.189.225.150:85/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Latinoamerica HD
@@ -516,8 +516,8 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YZKVdvY/Logo-Pelidom.png" group-title="LATINO",Pelidom HD
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1742846292&etime=1742932692&token=0e86c89ecc54a56fdd880
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M56H0mXy/Logo-Xtremo-Channel.png" group-title="LATINO",Xtremo Channel HD
+https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ks4vTWc/Logo-Latina-Internacional-TV.png" group-title="LATINO",Latina Internacional TV HD
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKNjwCV/logo-Alcarrizos-TV.png" group-title="LATINO",Alcarrizos TV HD
