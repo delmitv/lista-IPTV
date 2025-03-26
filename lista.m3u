@@ -51,7 +51,7 @@ https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348
 #EXTINF:-1 tvg-id="" tvg-name="DFTV Movie" tvg-logo="https://i.ibb.co/CpZJWgkw/Logo-DFTV-Movie.jpg" group-title="JOVENES Y ADULTOS",DFTV Movie HD
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD publico
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
 https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
@@ -66,6 +66,10 @@ http://85.239.54.197:81/live/loco.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
+#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1 tvg-name="Toonami" tvg-id="" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami
 https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai" tvg-name="Canal Anime Onegai" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai HD
@@ -85,17 +89,17 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal 1 TV HD
-https://ssh101-fl.bozztv.com/ssh101/taltal/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal TV 2 HD
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal TV 3 HD
-https://ssh101-fl.bozztv.com/ssh101/animacion/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD (Opcion 2)
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" group-title="JOVENES Y ADULTOS",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JnqPS8J/Logo-Animax-3.png" group-title="JOVENES Y ADULTOS",Animax HD Brasil
@@ -139,7 +143,7 @@ https://ssh101-fl.bozztv.com/ssh101/cartoonclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN CITY
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
-https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="Familiares",Canal Familia HD
 https://ssh101-fl.bozztv.com/ssh101/canalfamiliahd6/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS
