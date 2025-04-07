@@ -153,7 +153,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
+https://stream.gia.tv/giatvplayout7/giatv-208727/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
 https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/09e72be9ecb1766b81d20c61a38de32d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
@@ -474,6 +474,8 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rRRYY19B/Logo-Studio-67.png" group-title="LATINO",Studio 67
+https://cdnhd.iblups.com/hls/KvRuaPUaXQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/t7F5yRP/Logo-Mega-Cine-TV.png" group-title="LATINO",Mega Cine TV HD
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xtvWwt6C/Logo-BOREAL-TV-HD.png" group-title="LATINO",BOREAL TV HD
@@ -860,6 +862,10 @@ https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8
 https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W2kd8dJ/Logo-Alfa-TV.png" group-title="MUSICAS",Alfa TV HD
 https://v2.tustreaming.cl/alfatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dwR2k9fw/Logo-FM-95-5-Radio-Rep-blica.png" group-title="MUSICAS",FM 95 5 Radio República HD
+  https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkddPWwM/Logo-Radio-Estudio-100-3.jpg" group-title="MUSICAS",Radio Estudio 100 3 HD
+https://vivo.solumedia.com:19360/radioestudio/radioestudio.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FnszRg3/Logo-Moon-TV.png" group-title="MUSICAS",Tropical Moon TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9VrTZvq/Logo-Media-TV.png" group-title="MUSICAS",Media TV HD
