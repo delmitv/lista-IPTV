@@ -857,15 +857,19 @@ https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkddPWwM/Logo-Radio-Estudio-100-3.jpg" group-title="MUSICAS",Radio Estudio 100 3 HD
 https://vivo.solumedia.com:19360/radioestudio/radioestudio.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTWfgDhK/Logo-La-Bocha.png" group-title="MUSICAS",La Bocha HD
-https://inliveserver.com:1936/12040/12040/index.m3u8
+https://inliveserver.com:1936/12040/12040/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jHZtjCH/Logo-Las-Rosas-Online.jpg" group-title="MUSICAS",Las Rosas Online HD
 https://videostream.shockmedia.com.ar:19360/lasrosasonline/lasrosasonline.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrZrMH5f/Logo-100-3-FM-Radio-Ciudad.png" group-title="MUSICAS",100 3 FM Radio Ciudad HD
 https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HLZ8yhgd/Logo-El-Observador.png" group-title="MUSICAS",El Observador HD
-https://cs1.xcast.com.br/7868/7868/index.m3u8
+https://cs1.xcast.com.br/7868/7868/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Cs7J0VvF/Logo-Radio-Up-95-5.png" group-title="MUSICAS",Radio Up 95 5 HD
 https://streamyes.alsolnet.com/radioup955/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jnRxPxB/Logo-95-7-mhz-Concepto-de-Radio.png" group-title="MUSICAS",95 7 mhz Concepto de Radio HD
+https://live.enhdtv.com:8081/concepto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5XhBMSQv/logo-Radio-Vox.png" group-title="MUSICAS",Radio Vox HD
+https://inliveserver.com:1936/17004/17004/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FnszRg3/Logo-Moon-TV.png" group-title="MUSICAS",Tropical Moon TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9VrTZvq/Logo-Media-TV.png" group-title="MUSICAS",Media TV HD
