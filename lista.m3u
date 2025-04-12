@@ -501,7 +501,7 @@ https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gm05H2T/Logo-Canal-100.jpg" group-title="LATINO",Canal 100 HD
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="LATINO",Retro Plus TV 3 HD
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M56H0mXy/Logo-Xtremo-Channel.png" group-title="LATINO",Xtremo Channel HD
@@ -621,7 +621,7 @@ https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
-https://stream.trixserver.com:3088/live/uv096live.m3u8
+https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CFvUgVh.png" group-title="LATINO",Popular TV Chile
@@ -640,10 +640,8 @@ https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ERuZBdt.jpg" group-title="LATINO",Canal Diez
 https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td768p9.jpg" group-title="LATINO",TV Pop
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="LATINO",Opinion Sur Cine HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsur/playlist.m3u8
+https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LhnDC2s/Logo-Villa-TV.png" group-title="LATINO",Villa TV HD
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fqRCrWj/Logo-La-Ruta-TV.png" group-title="LATINO",La Ruta TV
