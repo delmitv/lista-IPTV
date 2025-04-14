@@ -16,8 +16,6 @@ https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
-https://live.autistici.org/hls/bdnetwork_mid.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="JOVENES Y ADULTOS",FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png" group-title="JOVENES Y ADULTOS",AniFun
@@ -28,10 +26,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
 http://181.119.86.1:8000/play/a019
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
-https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
@@ -70,8 +64,6 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
-#EXTINF:-1 tvg-name="Toonami" tvg-id="" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/toonamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai" tvg-name="Canal Anime Onegai" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai HD
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
@@ -154,6 +146,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
 https://stream.gia.tv/giatvplayout7/giatv-208727/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxqP3Tsp/Logo-Plenitud-Juvenil.jpg" group-title="Familiares",Plenitud Juvenil HD
+https://stream.gia.tv/giatvplayout7/giatv-209259/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
 https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/09e72be9ecb1766b81d20c61a38de32d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
