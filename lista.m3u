@@ -16,7 +16,7 @@ https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Z" tvg-id="NinjaZ" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Z
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SXGNJKkH/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanime
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SXGNJKkH/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania
 https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="JOVENES Y ADULTOS",FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
