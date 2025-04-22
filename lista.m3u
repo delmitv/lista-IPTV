@@ -150,6 +150,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalfamiliahd6/playlist.m3u
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Familiares",Retrotoons
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMR0LFdr/Logo-Cachipum-TV.jpg" group-title="Familiares",Cachipum TV
+https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
@@ -813,7 +815,7 @@ https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC Panregional HD
 https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
-https://mitv2.zplay.cl/COMUSIC/video.m3u8?token=D4lm1R0m-tFJES
+https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boombox Radio" tvg-logo="https://i.ibb.co/dc2Gn1K/Logo-Boombox-Radio.jpg" group-title="MUSICAS",Boombox Radio HD
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICAS",Kmk RTV
