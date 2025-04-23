@@ -18,8 +18,6 @@ https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania
 https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL Panregional HD
-https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="JOVENES Y ADULTOS",FUNTV
@@ -225,7 +223,7 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DQLxkzf/Logo-Autonoma-TV.png" group-title="Familiares",Autonoma TV HD
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xhKfwSx/logo-Classic-Channel.png" group-title="Familiares",Classic Channel HD
-https://paneltv.online:1936/8046/8046/playlist.m3u8
+https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XXF9bp1/logo-tiguerito-tv.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="Familiares",Moni TV HD
@@ -810,10 +808,6 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/T8zjvQ7/Logo-Columbo.png" group-title="ITALIA",Columbo
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/columbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL Panregional HD
-https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC Panregional HD
-https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
 https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boombox Radio" tvg-logo="https://i.ibb.co/dc2Gn1K/Logo-Boombox-Radio.jpg" group-title="MUSICAS",Boombox Radio HD
