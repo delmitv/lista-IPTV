@@ -624,8 +624,8 @@ https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CFvUgVh.png" group-title="LATINO",Popular TV Chile
-https://tv.streaming-chile.com:1936/8030/8030/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CFvUgVh.png" group-title="LATINO",La Popular TV Chile
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mItch0M.png" group-title="LATINO",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="LATINO",FMTV HD
