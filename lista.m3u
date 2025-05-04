@@ -62,8 +62,8 @@ http://85.239.54.197:81/live/loco.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="animextv" tvg-id="animextv" tvg-logo="" group-title="JOVENES Y ADULTOS",AnimeXTV
-http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#EXTINF:-1 tvg-name="Zyoontv" tvg-id="Zyoontv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoontv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
@@ -100,8 +100,6 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&pas
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" group-title="JOVENES Y ADULTOS",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JnqPS8J/Logo-Animax-3.png" group-title="JOVENES Y ADULTOS",Animax HD Brasil
-https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
@@ -251,7 +249,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan Latinoamerica HD
 http://170.239.188.252:8000/play/a0ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",Atresplayer Kidz HD (geobloqueo)
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+https://fast-channels.atresmedia.com/037ba2f5d1fbe56837795fb93953019a6b951ea8/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",Boing Spain HD
 http://185.189.225.150:85/boing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm3Tyy8/Logo-boing-Italia.png" group-title="Familiares",Boing Italia HD
