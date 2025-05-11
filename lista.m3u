@@ -14,6 +14,8 @@ https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name=" Canal Ninja" tvg-id="Canal Ninja" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Canal Ninja HD
+https://mitv.zplay.cl/NINJAZ637ZjBHOdKlRxI2/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania
 https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
