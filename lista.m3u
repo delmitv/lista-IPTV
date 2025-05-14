@@ -14,7 +14,7 @@ https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name=" Canal Ninja" tvg-id="Canal Ninja" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Canal Ninja HD
+#EXTINF:-1 tvg-name=" Canal Ninja" tvg-id="Canal Ninja" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Channel HD
 https://mitv.zplay.cl/NINJAZ637ZjBHOdKlRxI2/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania
 https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
@@ -649,7 +649,7 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/Once.png/revision/latest?cb=20190422183143" group-title="LATINO",Canal Once Nacional
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="LATINO",Senal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-sc1604/sc1604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/32dC2eZ.png" group-title="LATINO",Cascara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Sz19fg.png" group-title="LATINO",La Mia TV
