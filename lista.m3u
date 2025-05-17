@@ -157,6 +157,8 @@ https://stream.gia.tv/giatvplayout7/giatv-209259/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
 https://micanal.ovh/livestreams/117.JADPAFEXC5UK.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD (Opcion 2)
 https://stream.gia.tv/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJPQpDCv/Logo-CH-TV.jpg" group-title="Familiares",CH TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
