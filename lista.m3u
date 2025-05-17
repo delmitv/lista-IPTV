@@ -21,7 +21,7 @@ https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="JOVENES Y ADULTOS",FUNTV
-https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png" group-title="JOVENES Y ADULTOS",AniFun
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRwQbVK0/Logo-WEPA-TV.png" group-title="JOVENES Y ADULTOS",Wepa TV
@@ -35,13 +35,11 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
-https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/py4K0MR/logo-Wow-Channel.png" group-title="JOVENES Y ADULTOS",Wow Channel
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD (Opcion 2)
-https://giatv.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",Wow Eventos
 https://cdnhd.iblups.com/hls/OLcAZqlwaU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DFTV Animacion" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="JOVENES Y ADULTOS",DfTV Animacion HD
@@ -65,7 +63,7 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoon Tv
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
@@ -135,11 +133,11 @@ https://kali.vdopanel.com:3519/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2c5jsdq/Logo-Magic-Kids-OK.png" group-title="Familiares",Magic Kids OK
 https://wifispeed.trapemn.tv:1936/magickids/magickids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4Tyn69H/Logo-Cartoon-Clasico.png" group-title="Familiares",Cartoon Clasico LAT
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN CITY
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="Familiares",Canal Familia HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalfamiliahd6/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS
@@ -197,11 +195,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay Max
 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV SD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TVE
+https://stream.gia.tv/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="Familiares",Teleclasica
