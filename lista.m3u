@@ -804,6 +804,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 https://stream.gia.tv/giatv/giatv-retroplus02/retroplus02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d40hcNLf/Logo-Top-New-Radio-TV.png" group-title="MUSICAS",Top New Radio TV
 https://5ff3d9babae13.streamlock.net/dxwdsmgesp/dxwdsmgesp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkfMLQ1H/Logo-Ritmo-Top-Latino-TV.png" group-title="MUSICAS",Ritmo Top Latino  TV
+https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JshSSBt/Logo-Radio-TV-809.png" group-title="MUSICAS",Radio TV 809 HD
