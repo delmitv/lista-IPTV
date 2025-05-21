@@ -25,7 +25,7 @@ https://live20.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png" group-title="JOVENES Y ADULTOS",AniFun
 https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRwQbVK0/Logo-WEPA-TV.png" group-title="JOVENES Y ADULTOS",Wepa TV
-https://ssh101.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
+https://live20.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 #EXTINF:-1 tvg-name="Senpai TV" tvg-id="SenpaiTV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="JOVENES Y ADULTOS",Senpai TV
@@ -43,7 +43,7 @@ https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348
 #EXTINF:-1 tvg-id="" tvg-name="DFTV Movie" tvg-logo="https://i.ibb.co/CpZJWgkw/Logo-DFTV-Movie.jpg" group-title="JOVENES Y ADULTOS",DFTV Movie HD
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD publico
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://live20.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
 https://comunidadtv.site:3119/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
@@ -87,11 +87,11 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal 1 TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/taltal/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal TV 2 HD
 https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Taltal TV 3 HD
-https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD (Opcion 2)
@@ -797,9 +797,9 @@ https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GTtBB3Y/Logo-Manaclar-TV.png" group-title="MUSICAS",Manaclar TV HD
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z18pQGY/Logo-Retro-Plus-TV-1.png" group-title="MUSICAS",Retro Plus TV 1 HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJZsZR8/Logo-Retro-Plus-TV-2.png" group-title="MUSICAS",Retro Plus TV 2 HD
-https://stream.gia.tv/giatv/giatv-retroplus02/retroplus02/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-retroplus02/retroplus02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d40hcNLf/Logo-Top-New-Radio-TV.png" group-title="MUSICAS",Top New Radio TV
 https://5ff3d9babae13.streamlock.net/dxwdsmgesp/dxwdsmgesp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkfMLQ1H/Logo-Ritmo-Top-Latino-TV.png" group-title="MUSICAS",Ritmo Top Latino  TV
