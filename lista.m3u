@@ -102,6 +102,8 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&pas
 https://live20.bozztv.com/giatv/giatv-VariedTV/VariedTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" group-title="JOVENES Y ADULTOS",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD Brasil
+https://stream.wifiexpert.cl/kanade/kanadebr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
