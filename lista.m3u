@@ -35,7 +35,7 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
-https://live20.bozztv.com/giatv-cgtveplus/cgtveplus/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DFTV Animacion" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="JOVENES Y ADULTOS",DfTV Animacion HD
