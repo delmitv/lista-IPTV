@@ -130,6 +130,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD (Opcion 2)
+https://live20.bozztv.com/giatv/giatv-Premium/Premium/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fF03ZRC/Logo-Magic-Kids.png" group-title="Familiares",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
@@ -442,7 +444,7 @@ https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/my5YtMt/Logo-TV-Mas-2.png" group-title="LATINO",TV Mas 2 HD
 https://marine2.miplay.cl/tateti/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C3jpH5pD/Logo-Oxi-TV.jpg" group-title="LATINO",Oxi TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C3jpH5pD/Logo-Oxi-TV.jpg" group-title="LATINO",Oxi TV HD
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mSdLDn3/Logo-Palmar-TV.png" group-title="LATINO",Palmar TV HD
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
