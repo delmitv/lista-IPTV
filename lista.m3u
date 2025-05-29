@@ -590,8 +590,8 @@ https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FhkTl6z.jpg" group-title="LATINO",Telesistema HD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="LATINO",GenTV HD
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png" group-title="LATINO",GenTV HD
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="LATINO",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
