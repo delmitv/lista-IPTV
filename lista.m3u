@@ -259,7 +259,7 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xhKfwSx/logo-Classic-Channel.png" group-title="Familiares",Classic Channel HD
 https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XXF9bp1/logo-tiguerito-tv.png" group-title="Familiares",Tigueritos TV
-https://cdn.mycloudstream.io/hls/live/broadcast/mzhbcpi0/index.m3u8?DVR
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="Familiares",Moni TV HD
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="Familiares",Moni TV HD (opcion 2)
@@ -354,18 +354,14 @@ http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12687
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV4Xszg/Logo-7-Global-TV.png" group-title="SPAIN",7 Global TV HD
-https://media2.streambrothers.com:19360/8070/8070.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WcCHV8g/Logo-Tele-Mino.png" group-title="SPAIN",TeleMino HD
 https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
 https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9mNLFkfb/Logo-Cadena-Top10-TV.jpg" group-title="SPAIN",Cadena Top10 TV HD
-https://xhateaec.com:8800/hls/Cadenatop10/Cadenatop10/2473c2a3a47346a17b31826849534f3b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD
 http://185.189.225.150:85/neox/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
-http://45.230.38.117:8000/play/a0cg
+http://38.7.204.230:8011/play/a2mo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/23Hjszc/Logo-Cine-y-Series-TV.png" group-title="SPAIN",Cine y Series HD
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
