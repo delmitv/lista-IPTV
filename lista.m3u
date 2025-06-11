@@ -16,13 +16,11 @@ https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Channel" tvg-id="Ninja Channel" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Channel HD
 https://mitv.zplay.cl/NINJAZ637ZjBHOdKlRxI2/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania HD
-https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania HD en SPAIN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/43mbHDQ/Logo-Teleanimemania-Espa-a-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania HD en LATINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Dr3Rq3/Logo-Teleanimemania-Latino-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Latino HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a2/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/39bCg8n7/Logo-Teleanimemania-Galego-1.png" group-title="JOVENES Y ADULTOS",Teleanimemania HD en GALEGO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GfX1vMgd/Logo-Teleanimemania-Galego-4.png" group-title="JOVENES Y ADULTOS",Teleanimemania Galego HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a3/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
