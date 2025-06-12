@@ -384,8 +384,6 @@ https://tv.interalmeria.tv/directo/live.m3u8
 http://37.130.151.51/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZ78d8n/logo-TV-Melilla.png" group-title="SPAIN",TV Melilla HD
 http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6R2c47k/Logo-Radio-Television-Ceuta.png" group-title="SPAIN",Rtvce HD
-https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LQcTgTj/logo-Tele-Madrid.png" group-title="SPAIN",TeleMadrid HD
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k4drWnC/logo-La-Otra.png" group-title="SPAIN",La Otra HD
@@ -403,11 +401,9 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1qWsgBf/logo-Canal-M-laga.png" group-title="SPAIN",Canal Malaga HD
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LnbtsW5/logo-PTV-Malaga.png" group-title="SPAIN",PTV Malaga HD
-https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
+https://streamer.zapitv.com/PTV-malaga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JdC61x9/logo-Onda-Algeciras-TV.png" group-title="SPAIN",Onda Algeciras TV HD
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jc2jLVK/logo-La-7-Region-de-Murcia.png" group-title="SPAIN",La 7 Region de Murcia HD
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y0Wwgfj/logo-Popular-TV-Murcia.png" group-title="SPAIN",Popular TV Murcia HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2jwnjpH/logo-Popular-TV-Cantabria.png" group-title="SPAIN",Popular TV Cantabria HD
@@ -449,7 +445,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
 https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",Tele Estrella HD Bolivia
-https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tvw3Z8G/Logo-TVTICA.png" group-title="LATINO",TVTica HD
