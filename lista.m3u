@@ -36,10 +36,6 @@ https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DFTV Animacion" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="JOVENES Y ADULTOS",DfTV Animacion HD
-https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DFTV Movie" tvg-logo="https://i.ibb.co/CpZJWgkw/Logo-DFTV-Movie.jpg" group-title="JOVENES Y ADULTOS",DFTV Movie HD
-https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD publico
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
@@ -904,6 +900,8 @@ http://node-18.zeno.fm:80/gxymp3mkr2zuv
 http://node-34.zeno.fm:80/vfxsw0deyzzuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
 http://node-19.zeno.fm:80/cp658vvd7tzuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ynsK0gWZ/Logo-Radio-Plenitud-Chill-n.jpg" group-title="RADIOS",Radio Plenitud Chillan
+https://stream-176.zeno.fm/2pji6cdaouluv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JLAqSvn.png" group-title="RADIOS",Conéctate Retro Hits Radio
 https://us9.maindigitalstream.com/ssl/7686i
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GcFtbTW/Logo-Magico-Radio.png" group-title="RADIOS",Magica Radio
