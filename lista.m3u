@@ -301,7 +301,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (opcion 2)
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (opcion 2)
@@ -741,7 +741,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (geobloqueo)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NOTICIAS",24h HD (opcion 2)
-https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dQzQ11d/Logo-Canal-Sur-Noticias.png" group-title="NOTICIAS",Canal Sur Mas Noticias 24H HD
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dUGJCP6.png" group-title="NOTICIAS",324 HD (geobloqueo)
