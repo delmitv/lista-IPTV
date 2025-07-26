@@ -8,7 +8,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Ninja Channel" tvg-id="Ninja Channel" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Channel HD
+#EXTINF:-1 tvg-name="Night Time" tvg-id="NightTime" tvg-logo="https://i.ibb.co/BsKNkjB/logo-Night-Time.png" group-title="JOVENES Y ADULTOS",Night Time HD
 https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/43mbHDQ/Logo-Teleanimemania-Espa-a-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
@@ -422,8 +422,6 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tJJQmmR/Logo-Costa-Rica-Channel.png" group-title="LATINO",Costa Rica Channel HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CzDFDy1/Logo-Canal-10-Costa-Rica.png" group-title="LATINO",Canal 10 Costa Rica HD
-https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 Mexico HD
 http://38.49.128.38:8000/play/a0n6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
@@ -440,8 +438,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="LATINO",Canal Cinco HD
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/my5YtMt/Logo-TV-Mas-2.png" group-title="LATINO",TV Mas 2 HD
-https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/my5YtMt/Logo-TV-Mas-2.png" group-title="LATINO",TV Mas HD
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/chunks.m3u8?dpssid=b287994231168852d53102c7&sid=ba5t1l1xb285538061468852d537f388&ndvc=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C3jpH5pD/Logo-Oxi-TV.jpg" group-title="LATINO",Oxi TV HD
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mSdLDn3/Logo-Palmar-TV.png" group-title="LATINO",Palmar TV HD
