@@ -438,8 +438,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wQsTqYV/logo-Canal-Cinco-HD-del-Pueblo.jpg" group-title="LATINO",Canal Cinco HD
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/my5YtMt/Logo-TV-Mas-2.png" group-title="LATINO",TV Mas HD
-https://jireh-1-hls-video-br-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/chunks.m3u8?dpssid=b287994231168852d53102c7&sid=ba5t1l1xb285538061468852d537f388&ndvc=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d4c02WLg/Logo-TV-Mas.png" group-title="LATINO",TV Mas HD
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C3jpH5pD/Logo-Oxi-TV.jpg" group-title="LATINO",Oxi TV HD
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mSdLDn3/Logo-Palmar-TV.png" group-title="LATINO",Palmar TV HD
@@ -449,9 +449,7 @@ https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M2wqPgQ/Logo-Plus-Cine.png" group-title="LATINO",Plus Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XzV37y1/Logo-Terror-TV.png" group-title="LATINO",Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rRRYY19B/Logo-Studio-67.png" group-title="LATINO",Studio 67
@@ -495,11 +493,11 @@ https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gm05H2T/Logo-Canal-100.jpg" group-title="LATINO",Canal 100 HD
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="LATINO",Retro Plus TV 3 HD
-https://live20.bozztv.com/giatv/giatv-Retroplustv03/Retroplustv03/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQjzypM/logo-Pituco-TV.png" group-title="LATINO",Pituco TV HD
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M56H0mXy/Logo-Xtremo-Channel.png" group-title="LATINO",Xtremo Channel HD
-https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ks4vTWc/Logo-Latina-Internacional-TV.png" group-title="LATINO",Latina Internacional TV HD
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKNjwCV/logo-Alcarrizos-TV.png" group-title="LATINO",Alcarrizos TV HD
