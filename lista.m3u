@@ -8,7 +8,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
 https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Night Time" tvg-id="NightTime" tvg-logo="https://i.ibb.co/BsKNkjB/logo-Night-Time.png" group-title="JOVENES Y ADULTOS",Night Time HD
+#EXTINF:-1 tvg-name="Night Time" tvg-id="NightTime" tvg-logo="https://i.ibb.co/dJLCDMdm/logo-night-time.jpg" group-title="JOVENES Y ADULTOS",Night Time HD
 https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/43mbHDQ/Logo-Teleanimemania-Espa-a-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
