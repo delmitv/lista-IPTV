@@ -186,12 +186,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
 https://micanal.ovh/livestreams/117.JADPAFEXC5UK.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV (Opcion 2) HD
 https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV (Opcion 3) HD
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJPQpDCv/Logo-CH-TV.jpg" group-title="Familiares",CH TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
 #EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/pj15CyYT/Logo-AVI-Kids.png" group-title="Familiares",AVI KIDS HD
