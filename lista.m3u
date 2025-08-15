@@ -788,6 +788,8 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/T8zjvQ7/Logo-Columbo.png" group-title="ITALIA",Columbo
 https://live20.bozztv.com/giatv/giatv-columbo/columbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y4wHwYWp/logo-Radio-Free-Aktivo.png" group-title="MUSICAS",RadioFreeAktivoTV HD
+https://live20.bozztv.com/giatv/giatv-radiofreeaktivo/radiofreeaktivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
 https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boombox Radio" tvg-logo="https://i.ibb.co/dc2Gn1K/Logo-Boombox-Radio.jpg" group-title="MUSICAS",Boombox Radio HD
@@ -892,7 +894,7 @@ https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVrw9Cx.png" group-title="RADIOS",La Invasiva Radio
 http://node-33.zeno.fm:80/24gu34zmg1duv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HoHhYmz.png" group-title="RADIOS",RadioFreeAktivo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y4wHwYWp/logo-Radio-Free-Aktivo.png" group-title="RADIOS",RadioFreeAktivo
 https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KqkH0Qg.jpg" group-title="RADIOS",Comdisco FM
 https://stream-155.zeno.fm/h0rq175rwchvv
