@@ -134,8 +134,8 @@ https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Japon
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax Asia HD
+http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYgYHXVD/Logo-BBC-Doctor-Who.png" group-title="JOVENES Y ADULTOS",BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="JOVENES Y ADULTOS",BBC Drama HD
@@ -607,13 +607,13 @@ https://acceso.radiosportstv.online:3908/live/teleredcrlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FhkTl6z.jpg" group-title="LATINO",Telesistema HD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png" group-title="LATINO",GenTV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="LATINO",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SiGxs6L.png" group-title="LATINO",Free TV HD
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=https://i.ibb.co/zTW1prNB/Logo-Free-TV-Accion.png" group-title="LATINO",Free TV Accion HD
+https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klBO9Zw.png" group-title="LATINO",Tu Cine HD
