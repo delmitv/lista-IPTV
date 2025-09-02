@@ -4,10 +4,6 @@
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
-https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name=" AVI Rewind" tvg-id="Rewind" tvg-logo="https://i.ibb.co/7dD2MQPQ/Logo-AVI-Rewind.png" group-title="JOVENES Y ADULTOS",AVI Rewind HD
-https://mitv.zplay.cl/Rewind/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Channel" tvg-id="NinjaChannel" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Channel HD
 https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/43mbHDQ/Logo-Teleanimemania-Espa-a-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
@@ -73,7 +69,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics (Opcion 2)
-https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/101d6da6-0835-4852-9e69-63a513c1f9b1/0.m3u8
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai" tvg-name="Canal Anime Onegai" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai HD
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
@@ -198,8 +194,6 @@ https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJPQpDCv/Logo-CH-TV.jpg" group-title="Familiares",CH TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
-#EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/pj15CyYT/Logo-AVI-Kids.png" group-title="Familiares",AVI KIDS HD
-https://mitv.zplay.cl/AKids/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids HD
 https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
