@@ -134,12 +134,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax Asia HD
 http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="JOVENES Y ADULTOS",BBC Drama HD
-https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/np8ynQr/Logo-BBC-Top-Gear.png" group-title="JOVENES Y ADULTOS",BBC Top Gear HD
-https://daiconnect.com/live/hls/tvup/tvfy-topgear/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV HD
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
@@ -370,6 +366,10 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="SPAIN",BBC Drama HD
+https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/np8ynQr/Logo-BBC-Top-Gear.png" group-title="SPAIN",BBC Top Gear HD
+https://daiconnect.com/live/hls/tvup/tvfy-topgear/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/37tDmgx/Logo-Comedia.jpg" group-title="SPAIN",Comedia HD
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQ5dxJt/Logo-Cine-Friki.jpg" group-title="SPAIN",Cine Friki HD
@@ -608,18 +608,16 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jPGJDv4T/Logo-Free-TV-Clasico.jpg" group-title="LATINO",FreeTV Clasico HD
+https://tinyurl.com/253rs2wr?.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTW1prNB/Logo-Free-TV-Accion.png" group-title="LATINO",FreeTV Accion HD
 https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",FreeTV Familia HD (geobloqueo)
-https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb573d167d6c648a9bd43d64d8ef46826a371fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244d865bfb10249902e4df98346c9c608b3d4805bcc448024ec419595f096d211d7d08c32ac06b5795859247bc0852a92cf05b48ac03c53ed702c555054f6b3aced5a3394427c49eaf3b9ff0f811bda9d35923a78f4178f58ca36986eaf1db1af4dafa0f4db475730a7c1483b50ca82a18ee87b26af6a89ce83b7756e9cf3006e09ca62d5785352fefccf07cad606a9a6318ca2681e21b2f72fffcc8badc1eafc20f624ced4ba912e7d42621070e537c3ca37a343b179acdd5d204c5d7ba39b58c1f4b13456445d83856ae24953d3b58a87cc403ada702458fd6edd57001eba5e187fea20b795307584361f963429b57e278547c88e769bcdbce40228fbdac9568d0c85d45a88bb68ce6c384a4cb7fb282d07263dd5ef3059642d9117b3d5cbb6715950eaf299aa94043b066111510f8fe6bf209fd4b0437417c54068637b00079776b503be50137444a30bc09319668c10202effd559373e3dafe69fdbf9bca345b16c9dc8f8373d3e2b12d75c20287ac1b3995cf33146777f53940056a4dc6d2e2a01024284e3e24ffcde0d8b2a65116dd1f919407b2a190139bae0a653c380e9708a94df48c4afac1f409735a0006af2b825ae728cf3a27c0e9cbe565b08ff24e54f125fa636ae4ebbd37cccb11f607658141c92de06b13711beeba8404feab4e85bde934661b58fd1ed56f6ade66b3e361b5c147e1d573e0bbdd4c16d0e7aa38f26ea49e7d1ffc828b5521248c48b0c5287a72252cc753657acaecf84bad9433efe2ea23b983b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77ebd72f085ec40fed0aefffd7605571502af96b9a9429b990e42f42a8b146348d2dbb1a53db58be8570a993789b20e60aa31694e89fc8962e61ff8b0777b9dc80330f87d31d3efec291adc56ce0d3b7ee3c292613ddbb961b6499c90b7420cbb0110e0484972ee1bde82ac627beeac196300bf5b1fed97e50e439084147e025082fc6e8d541c3e4b0b455f48b6/120/1280x720_3329040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klBO9Zw.png" group-title="LATINO",Tu Cine HD
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tTRHgfRq/Logo-Free-TV-Asia.png" group-title="LATINO",FreeTV Asia HD
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nsBG2GsX/Logo-Free-TV-Estelar.jpg" group-title="LATINO",FreeTV Estelar HD
+https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6JLzG4XD/Logo-Free-TV-Sureno.jpg" group-title="LATINO",FreeTV Sureno HD
 https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JbnWhDR.png" group-title="LATINO",Cine Real HD
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2ceJnWz.png" group-title="LATINO",Horrorfy HD
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
