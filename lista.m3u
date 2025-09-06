@@ -618,8 +618,10 @@ https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6JLzG4XD/Logo-Free-TV-Sureno.jpg" group-title="LATINO",FreeTV Sureno HD
 https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa
-https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa HD
+https://tvcosta.gleeze.com/981a9598-b521-4051-b32a-066941e23967.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dC9dyQx/Logo-Orbi-TV.png" group-title="LATINO",Orbi TV HD
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="LATINO",Panc TV HD
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
