@@ -44,7 +44,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation senal 2 HD
 https://stmv4.voxtvhd.com.br/tv114/tv114/playlist.m3u8
-#EXTINF:-1 tvg-name="LOCOMOTION" tvg-id="LOCOMOTION" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",LOCOMOTION HD
+#EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" group-title="JOVENES Y ADULTOS",LOCOMOTION 24/7 HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -58,13 +58,13 @@ http://85.239.54.197:81/live/loco.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Toonami TV" tvg-id="ToonamiTV" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami TV
+#EXTINF:-1 tvg-name="Toonami TV" tvg-id="ToonamiTV" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami TV HD
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoon Tv
+#EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoon Tv HD
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision
+#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision HD
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
-#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision (Opcion 2)
+#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision HD (Opcion 2)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
@@ -82,9 +82,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
 #EXTINF:-1 tvg-id="Canal Anime Onegai 6" tvg-name="Canal Anime Onegai 6" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 6 HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
+#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime HD
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
+#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",TALTALTV ANIME (peliculas) HD
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/playlist.m3u8
@@ -368,10 +368,18 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FLmD2tT5/Logo-Sony-One-Series-Comedia.png" group-title="SPAIN",Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PvmppwTV/Logo-Sony-One-Exitos.png" group-title="SPAIN",Sony One Exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d0DVMYNg/Logo-Sony-One-Series-Thriller.png" group-title="SPAIN",Sony One Series Thriller
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jm6Khvb/Logo-Sony-One-Hits-Comedia.png" group-title="SPAIN",Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WNbtwsnm/Logo-Sony-One-Hits-Accion.png" group-title="SPAIN",Sony One Hits Accion
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/39PCwVST/Logo-Sony-One-The-Blacklist.png" group-title="SPAIN",Sony One The Blacklist
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/606yLy4q/Logo-Sony-One-Shark-Tank.png" group-title="SPAIN",Sony One Shark Tank
+https://9a299be3e295481e9c17b8a0f8f11d05.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-835-ES-SONYONESHARKTANK-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="SPAIN",BBC Drama HD
 https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/np8ynQr/Logo-BBC-Top-Gear.png" group-title="SPAIN",BBC Top Gear HD
