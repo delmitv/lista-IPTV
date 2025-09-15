@@ -6,10 +6,10 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Ninja Channel" tvg-id="NinjaChannel" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="JOVENES Y ADULTOS",Ninja Channel HD
 https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/43mbHDQ/Logo-Teleanimemania-Espa-a-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Dr3Rq3/Logo-Teleanimemania-Latino-2.png" group-title="JOVENES Y ADULTOS",Teleanimemania Latino HD
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a2/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TM0V2Ynn/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nqYr3jMD/Logo-Teleanimemania-Latino.png" group-title="JOVENES Y ADULTOS",Teleanimemania Latino HD
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0pLBKSyP/Logo-Anime-Debuxos-TV.png" group-title="JOVENES Y ADULTOS",Anime Debuxo TV HD
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VpMxXM8J/Logo-Vision-Occidental.png" group-title="JOVENES Y ADULTOS",Vision Occidental HD
