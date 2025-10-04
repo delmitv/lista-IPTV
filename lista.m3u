@@ -70,8 +70,8 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics (Opcion 2)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="Canal Anime Onegai" tvg-name="Canal Anime Onegai" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai HD
-https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
+#EXTINF:-1 tvg-id="BigChannel24/7" tvg-name="Big Channel 24/7" tvg-logo="https://i.ibb.co/ymbQLg5k/logo-Big-Channel-2.png" group-title="JOVENES Y ADULTOS",Big Channel 24/7 HD
+https://live20.bozztv.com/giatvplayout7/giatv-210590/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 3 HD
