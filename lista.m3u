@@ -26,8 +26,6 @@ https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA HD
 http://177.234.230.206:8011/play/a0pt
-#EXTINF:-1 tvg-name="Senpai TV" tvg-id="SenpaiTV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="JOVENES Y ADULTOS",Senpai TV
-http://45.184.87.142:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
@@ -301,15 +299,17 @@ http://104.238.205.28:8989/278524_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network 2 HD
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
-http://38.45.44.34:8000/play/a03l
+http://104.238.205.28:8989/278551_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Spain HD
 http://185.189.225.150:85/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Latinoamerica HD
 http://190.60.48.85:9080/play/a1bi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png" group-title="Familiares",Bitme HD
 http://190.60.33.245:4002/play/a0kd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png" group-title="Familiares",Bitme HD (opcion 2)
+http://199.127.63.143:8989/278522_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel HD
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
+http://104.238.205.28:8989/278538_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="Familiares",Canal Juegos Retros
 https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (geobloqueo)
@@ -363,7 +363,7 @@ http://38.7.204.230:8011/play/a2mo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/23Hjszc/Logo-Cine-y-Series-TV.png" group-title="SPAIN",Cine y Series HD
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
-http://190.60.41.187:45000/play/a07g
+http://38.44.109.41:8003/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
