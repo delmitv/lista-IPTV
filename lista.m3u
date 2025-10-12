@@ -285,7 +285,7 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFWgmMk/Logo-Boing-Plus.png" group-title="Familiares",Boing Plus HD
 http://84.22.55.2:8000/play/s16
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hK4dVbQ/Logo-Rai-Gulp-HD.png" group-title="Familiares",Rai Gulp  HD
-http://45.59.149.54:8044/play/s1906
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kygbKSw/Logo-Rai-Yoyo-HD.png" group-title="Familiares",Rai Yoyo  HD
 http://45.59.149.54:8049/play/s1675
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCtKJYb/logo-SX3.png" group-title="Familiares",SX3 HD (geobloqueo)
