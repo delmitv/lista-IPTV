@@ -156,6 +156,8 @@ https://kali.vdopanel.com:3717/stream/play.m3u8
 https://xui-backend.energeek.cl/live/dEmoweBeneRGEek2025/TG66MDvVi9to/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2c5jsdq/Logo-Magic-Kids-OK.png" group-title="Familiares",Magic Kids OK (Opcion 2)
 https://cdn.energeek.cl/hls/magickids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N6kLK8LY/Logo-Epic-Toon.png" group-title="Familiares",Epic Toon HD
+https://sc1.wasidata.com/CartoonsPrime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GvBpYTcY/Logo-Cartooncito.jpg" group-title="Familiares",Cartooncito HD
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4Tyn69H/Logo-Cartoon-Clasico.png" group-title="Familiares",Cartoon Clasico LAT HD
