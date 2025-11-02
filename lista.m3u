@@ -36,22 +36,20 @@ https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD publico
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation senal 1 HD
-https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation senal 2 HD
-https://stmv4.voxtvhd.com.br/tv114/tv114/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/plalist.m3u8
 #EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" group-title="JOVENES Y ADULTOS",LOCOMOTION 24/7 HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion HD
-http://85.239.54.197:81/live/loco_hi/index.m3u8
+http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion SD
-http://85.239.54.197:81/live/loco_low/index.m3u8
+http://146.19.49.197:81/live/loco_low/index.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion (Adaptable)
-http://85.239.54.197:81/live/loco.m3u8
+http://146.19.49.197:81/live/loco.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
