@@ -68,16 +68,16 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="BigChannel24/7" tvg-name="Big Channel 24/7" tvg-logo="https://i.ibb.co/ymbQLg5k/logo-Big-Channel-2.png" group-title="JOVENES Y ADULTOS",Big Channel 24/7 HD
 https://live20.bozztv.com/giatvplayout7/giatv-210590/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Anime Onegai 6" tvg-name="Canal Anime Onegai 6" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 1 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 3 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 4 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 4 HDhttps://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 #EXTINF:-1 tvg-id="Canal Anime Onegai 5" tvg-name="Canal Anime Onegai 5" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 5 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
-#EXTINF:-1 tvg-id="Canal Anime Onegai 6" tvg-name="Canal Anime Onegai 6" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 6 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime HD
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
@@ -133,7 +133,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax Japan HD
-https://ca01.utako.moe/Animax/index.m3u8
+https://nl00.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV HD
@@ -296,10 +296,8 @@ https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mqP0fSd/Logo-En-Familia.jpg" group-title="Familiares",En Familia HD
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network HD
 http://104.238.205.28:8989/278524_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network 2 HD
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
 http://104.238.205.28:8989/278551_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Spain HD
@@ -307,9 +305,7 @@ http://185.189.225.150:85/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Latinoamerica HD
 http://190.60.48.85:9080/play/a1bi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png" group-title="Familiares",Bitme HD
-http://190.60.33.245:4002/play/a0kd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png" group-title="Familiares",Bitme HD (opcion 2)
-http://199.127.63.143:8989/278522_.m3u8
+http://38.49.128.38:8000/play/a0np
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel HD
 http://104.238.205.28:8989/278538_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="Familiares",Canal Juegos Retros
@@ -611,7 +607,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pUZbjEU.jpg" group-title="LATINO",RTV Canal 57 HD
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="LATINO",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="LATINO",Voice Over RTV
