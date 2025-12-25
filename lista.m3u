@@ -5,7 +5,7 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Night Time" tvg-id="NightTime" tvg-logo="https://i.ibb.co/BsKNkjB/logo-Night-Time.png" group-title="JOVENES Y ADULTOS",Night Time HD
-https://mitv.zplay.cl/fmp4/video.m3u8?token=D4lm1R0m-tFJES
+https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMDMK8zd/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nqYr3jMD/Logo-Teleanimemania-Latino.png" group-title="JOVENES Y ADULTOS",Teleanimemania Latino HD
