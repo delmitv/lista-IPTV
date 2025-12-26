@@ -4,7 +4,7 @@
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Night Time" tvg-id="NightTime" tvg-logo="https://i.ibb.co/BsKNkjB/logo-Night-Time.png" group-title="JOVENES Y ADULTOS",Night Time HD
+#EXTINF:-1 tvg-name="Laika TV" tvg-id="LaikaTV" tvg-logo="https://i.ibb.co/cc4qGJzp/Logo-Laika-TV.png" group-title="JOVENES Y ADULTOS",Laika TV HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMDMK8zd/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
@@ -54,6 +54,8 @@ http://146.19.49.197:81/live/loco.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV (Opcion 2)
 http://animezonetv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="AnimeXTV" tvg-id="" tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png" group-title="JOVENES Y ADULTOS",AnimeXTV
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-name="Toonami TV" tvg-id="ToonamiTV" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami TV HD
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoon Tv HD
