@@ -326,6 +326,8 @@ http://185.189.225.150:85/CuatroHD/playlist.m3u8
 http://185.189.225.150:85/TeleCincoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",rtve Navidad HD
+https://rtvelivestream.rtve.es/eventual/gofast/playm25_main_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star Tve HD (geobloqueo)
