@@ -502,8 +502,8 @@ https://cloud5.idealtv.net/hls/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12966
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kV3GzXqn/Logo-Sony-One-Cinema.png" group-title="LATINO",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/skYJpbp/Logo-Sony-One-Competencias.png" group-title="LATINO",Sony One Competencias
-https://a1494ccd676c49cc927e4ff0b6464092.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCompetencias/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="LATINO",Sony Cine HD
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINO",Sony Canal Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINO",Sony Canal Escape Perfecto
@@ -888,6 +888,8 @@ https://sistemastr.tropicalmoonmedia.com/vivalivepublic/BjseGwS28B/23.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P53HmcX/Logo-Cumbia-TV.png" group-title="MUSICAS",Cumbia TV HD
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1g2H4Rx/logo-Cumbia-Mix.png" group-title="MUSICAS",Cumbia Mix HD
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzSvRJ6X/Logo-Corazon-TV.png" group-title="MUSICAS",Corazon TV HD
 https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mdY8v0f/Logo-Celebrity-HITZ-TV.png" group-title="MUSICAS",Celebrity HITZ TV HD
