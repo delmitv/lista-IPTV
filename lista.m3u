@@ -316,10 +316,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (opcion 2)
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (opcion 3)
+http://185.157.184.13:6001/play/La1HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (geobloqueo)
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (opcion 2)
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (opcion 3)
+http://185.157.184.13:6001/play/La2HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",Cuatro HD
 http://185.189.225.150:85/CuatroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7X1cHt/Logo-Telecinco-HD.png" group-title="SPAIN",Telecinco HD
