@@ -30,9 +30,11 @@ https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation senal 1 HD
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
+https://live21.bozztv.com/akamaissh101/ssh101/aniplustv/playlist.m3u8
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation 1 HD
 https://live21.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation senal 2 HD
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation 2 HD
 https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/plalist.m3u8
 #EXTINF:-1 tvg-name="Locomotion Esp" tvg-id="LocomotionEsp" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion Esp
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
