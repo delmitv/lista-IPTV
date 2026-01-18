@@ -108,6 +108,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/683457e5f59cc6a13212fce4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=546f3bc0-f170-11f0-9fea-e12863dadf7a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=479e3cd7-4b9a-4e76-9bf4-607e7b327d93&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Pluto TV Spain" tvg-logo="https://i.ibb.co/NQpRBct/Logo-Dragon-Ball-en-Pluto-TV.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Dragon Ball Pluto TV Spain
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/685a996c7c4f2ad40cb4f276/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=546f3bc0-f170-11f0-9fea-e12863dadf7a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=479e3cd7-4b9a-4e76-9bf4-607e7b327d93&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Pluto TV Spain" tvg-logo="https://i.ibb.co/6R7Sdg2D/Logo-Dragon-Ball-Z-en-Pluto-TV.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Dragon Ball Z Pluto TV Spain
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68e8fd7c3ede4398bc69af93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=546f3bc0-f170-11f0-9fea-e12863dadf7a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=479e3cd7-4b9a-4e76-9bf4-607e7b327d93&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="Saint Seiya Los Caballeros del Zodiaco Pluto TV Spain" tvg-logo="https://i.ibb.co/tThtfcCV/Logo-Los-Caballeros-del-Zodiaco.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Saint Seiya Los Caballeros del Zodiaco Pluto TV Spain
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680ba8c3a48b3ead0db701cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=546f3bc0-f170-11f0-9fea-e12863dadf7a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=479e3cd7-4b9a-4e76-9bf4-607e7b327d93&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="Pokemon Pluto TV Latino" tvg-logo="https://i.ibb.co/7dcLX0hX/Logo-Pokemon.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Pokemon Pluto TV Latino
@@ -324,11 +326,11 @@ http://185.189.225.150:85/CuatroHD/playlist.m3u8
 http://185.189.225.150:85/TeleCincoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",rtve Navidad HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Cocina (RTVE) HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm25_main_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine (RTVE) HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star Tve HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star TVE HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="SPAIN",Cope TV HD
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
