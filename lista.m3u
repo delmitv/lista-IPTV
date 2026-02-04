@@ -172,8 +172,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Familiares",Retrotoons HD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMR0LFdr/Logo-Cachipum-TV.jpg" group-title="Familiares",Cachipum TV HD
-https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Comic Pop HD
+http://45.173.201.51:4000/play/a0er
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Heidi en Pluto TV" tvg-logo="https://i.ibb.co/yFpf5PYW/logo-Heidi.jpg" tvg-shift="0" group-title="Familiares",Heidi en Pluto TV
