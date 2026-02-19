@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg" group-title="JOVENES Y ADULTOS",Laika Channel HD
+#EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg" group-title="JOVENES Y ADULTOS",Laika Channel HD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/laikadragon/playlist.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/fYRHnLQB/Logo-Laika-Channel-Espa-a-1.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:-1 tvg-name="Laika Channel Galego" tvg-id="LaikaChannelGalego" tvg-logo="https://i.ibb.co/N2L5mLB3/Logo-Laika-Channel-Galego.png" group-title="JOVENES Y ADULTOS",Laika Channel Galego HD
+https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 #EXTINF:-1 tvg-name="Toonsmania TV" tvg-id="ToonsmaniaTV" tvg-logo="https://i.ibb.co/tMnWLrZ9/Logo-Toonsmania-TV.png" group-title="JOVENES Y ADULTOS",Toonsmania TV HD
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1 tvg-name="Anime Debuxos TV" tvg-id="AnimeDebuxosTV" tvg-logo="https://i.ibb.co/0pLBKSyP/Logo-Anime-Debuxos-TV.png" group-title="JOVENES Y ADULTOS",Anime Debuxos TV HD
-https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VpMxXM8J/Logo-Vision-Occidental.png" group-title="JOVENES Y ADULTOS",Vision Occidental HD
 https://live20.bozztv.com/akamaissh101/ssh101/votvsv214/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="JOVENES Y ADULTOS",DFTV Animacion HD
