@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg" group-title="JOVENES Y ADULTOS",Laika Channel HD (Opcion 2)
-https://live20.bozztv.com/akamaissh101/ssh101/laikadragon/playlist.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/fYRHnLQB/Logo-Laika-Channel-Espa-a-1.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Galego" tvg-id="LaikaChannelGalego" tvg-logo="https://i.ibb.co/N2L5mLB3/Logo-Laika-Channel-Galego.png" group-title="JOVENES Y ADULTOS",Laika Channel Galego HD
