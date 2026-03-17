@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannelLA" tvg-logo="https://i.ibb.co/mFgyK9PM/Logo-Laika-Channel-Latinoamerica.jpg" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Laika Channel Anime" tvg-id="LaikaChannelAnime" tvg-logo="https://i.ibb.co/xKPFBDV3/laika-channel-Anime.png" group-title="JOVENES Y ADULTOS",Laika Channel Anime HD
+#EXTINF:-1 tvg-name="Laika Anime" tvg-id="LaikaAnime" tvg-logo="https://i.ibb.co/xKPFBDV3/laika-channel-Anime.png" group-title="JOVENES Y ADULTOS",Laika Anime HD
 https://cdn.global.elektamedia.com/live/c7eds/Laika_Anime/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/QFHgn1Wg/Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
@@ -28,12 +28,8 @@ https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies SD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-name="Aniplus TV" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",Aniplus TV HD
-https://live21.bozztv.com/akamaissh101/ssh101/aniplustv/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation 1 HD
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation 2 HD
-https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion Esp" tvg-id="LocomotionEsp" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion Esp
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" group-title="JOVENES Y ADULTOS",LOCOMOTION 24/7 HD
@@ -268,8 +264,6 @@ http://38.41.8.1:8000/play/a0ym
 http://38.44.109.41:8003/play/a00f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel HD
 http://45.173.201.51:4000/play/a0ll
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="Familiares",Canal Juegos Retros
-https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (geobloqueo)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD (opcion 2)
@@ -327,11 +321,11 @@ http://38.44.109.41:8003/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
-https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j61KksB/logo-Etb-2.png" group-title="SPAIN",ETB 2 HD
-https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FLmD2tT5/Logo-Sony-One-Series-Comedia.png" group-title="SPAIN",Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d0DVMYNg/Logo-Sony-One-Series-Thriller.png" group-title="SPAIN",Sony One Series Thriller
@@ -670,8 +664,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KBCsTlk.png" group-title="DEPORTES",Esport3 HD (geobloqueo)
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kBfzS6f/Logo-TV-Azteca-Deportes.jpg" group-title="DEPORTES",TV Azceta Deportes HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="DEPORTES",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="DEPORTES",CRTV Chile
@@ -696,8 +688,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews HD
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiZWY1ZmE2MzktY2M3NS00NmVjLTg2ODYtMTZlYzdkNTVmMTdkIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGdkXq6H/Logo-RT-Espanol.png" group-title="NOTICIAS",RT Espanol HD
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R9PwGyE.png" group-title="NOTICIAS",Cgtn Espanol HD
