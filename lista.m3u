@@ -321,9 +321,9 @@ http://38.44.109.41:8003/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
-cdn1.etbon.eus/etb1/index.m3u8
+https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j61KksB/logo-Etb-2.png" group-title="SPAIN",ETB 2 HD
-cdn1.etbon.eus/etb2/index.m3u8
+https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FLmD2tT5/Logo-Sony-One-Series-Comedia.png" group-title="SPAIN",Sony One Series Comedia
