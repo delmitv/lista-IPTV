@@ -4,9 +4,9 @@
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Laika Anime" tvg-id="LaikaAnime" tvg-logo="https://i.ibb.co/xKPFBDV3/laika-channel-Anime.png" group-title="JOVENES Y ADULTOS",Laika Anime HD
 https://cdn.global.elektamedia.com/live/c7eds/Laika_Anime/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/QFHgn1Wg/Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
+#EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/twqNM8Z3/Logo-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-#EXTINF:-1 tvg-name="Laika Channel Galicia" tvg-id="LaikaChannelGalicia" tvg-logo="https://i.ibb.co/m5K9VVLX/Logo-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia HD
+#EXTINF:-1 tvg-name="Laika Channel Galicia" tvg-id="LaikaChannelGalicia" tvg-logo="https://i.ibb.co/WW4f1B19/Logo-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia HD
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 #EXTINF:-1 tvg-name="Toonsmania TV" tvg-id="ToonsmaniaTV" tvg-logo="https://i.ibb.co/tMnWLrZ9/Logo-Toonsmania-TV.png" group-title="JOVENES Y ADULTOS",Toonsmania TV HD
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
