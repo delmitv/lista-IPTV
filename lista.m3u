@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannelLA" tvg-logo="https://i.ibb.co/mFgyK9PM/Logo-Laika-Channel-Latinoamerica.jpg" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
+#EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannelLA" tvg-logo="https://i.ibb.co/S4NnYJPy/Logo-Laika-Channel-Latinoamerica.png" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-name="Laika Anime" tvg-id="LaikaAnime" tvg-logo="https://i.ibb.co/xKPFBDV3/laika-channel-Anime.png" group-title="JOVENES Y ADULTOS",Laika Anime HD
 https://cdn.global.elektamedia.com/live/c7eds/Laika_Anime/SA_LIVE_hls_enc/master.m3u8
