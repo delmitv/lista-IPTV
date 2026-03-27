@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-name="Laika Channel LA" tvg-id="LaikaChannelLA" tvg-logo="https://i.ibb.co/S4NnYJPy/Logo-Laika-Channel-Latinoamerica.png" group-title="JOVENES Y ADULTOS",Laika Channel  LA HD
 https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/xKPFBDV3/laika-channel-Anime.png" group-title="JOVENES Y ADULTOS",Primired HD
+#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Spain" tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/twqNM8Z3/Logo-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
