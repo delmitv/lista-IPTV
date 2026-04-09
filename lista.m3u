@@ -308,6 +308,8 @@ http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
 https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12687
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/21n6Rzmc/Logo-Diario-de-Vigo.png" group-title="SPAIN",Diario de vigo TV HD
+https://live20.bozztv.com/giatv/giatv-diariodevigotv/diariodevigotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WcCHV8g/Logo-Tele-Mino.png" group-title="SPAIN",TeleMino HD
 https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
