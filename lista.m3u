@@ -402,6 +402,8 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxmbq299/Logo-Richy-TV-Tucuman.jpg" group-title="LATINOAMERICA",Ricky TV Tucuman HD
+https://vs20.live.opencaster.com/ricky125_758be652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VHhX37K/Logo-Alegre-TV.png" group-title="LATINOAMERICA",Alegre TV HD
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tc6cwLP/Logo-PHTV.png" group-title="LATINOAMERICA",PHTV HD
