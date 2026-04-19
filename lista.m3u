@@ -104,8 +104,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-#EXTINF:-1 tvg-id="" group-title="Familiares",Bombi TV
-https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w777474598.m3u8
+#EXTINF:-1 tvg-id="CNCity" tvg-name="CN City" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN City HD
+https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV HD
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
@@ -276,26 +276,16 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD (opcion 3)
 http://185.157.184.13:6001/play/La2HD
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",Cuatro HD
-http://185.189.225.150:85/CuatroHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7X1cHt/Logo-Telecinco-HD.png" group-title="SPAIN",Telecinco HD
-http://185.189.225.150:85/TeleCincoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Cocina (RTVE) HD
-https://rtvelivestream.rtve.es/eventual/gofast/playm25_main_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine (RTVE) HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star Tve HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="SPAIN",Cope TV HD
-https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG HD
 http://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zRg2Czc/logo-Tvg2-HD.png" group-title="SPAIN",TVG 2 HD
 http://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",Corenta anos da TVG HD
-https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Mira Radio Galega HD
 http://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 1 HD
@@ -404,6 +394,8 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxmbq299/Logo-Richy-TV-Tucuman.jpg" group-title="LATINOAMERICA",Ricky TV Tucuman HD
 https://vs20.live.opencaster.com/ricky125_758be652/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VWKVjvRy/Logo-Neox-TV.png" group-title="LATINOAMERICA",Neox TV HD
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?t=1776449581682
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VHhX37K/Logo-Alegre-TV.png" group-title="LATINOAMERICA",Alegre TV HD
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tc6cwLP/Logo-PHTV.png" group-title="LATINOAMERICA",PHTV HD
