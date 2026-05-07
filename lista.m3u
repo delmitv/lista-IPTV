@@ -200,7 +200,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png" group-title="Familiares",Retro TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Retrox-TV.png" group-title="Familiares",Retrox TV HD
+https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2h7x7r/Logo-Retrox-Plus.png" group-title="Familiares",Retrox Plus HD
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
