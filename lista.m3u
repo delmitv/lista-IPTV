@@ -66,16 +66,6 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://live20.bozztv.com/akamaissh101/ssh101/canalbuzz2026/playlist.m3u8
 #EXTINF:-1 tvg-name="3Cat Anime" tvg-id="3CatAnime" tvg-logo="https://i.ibb.co/D0bqcJx/HG-q-YIva-EAAZs-OQ.jpg" group-title="JOVENES Y ADULTOS",3Cat Anime HD (geobloqueo)
 https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
-#EXTINF:-1 tvg-id="Canal Anime Onegai 1" tvg-name="Canal Anime Onegai 1" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 1 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 3 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 4 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-id="Canal Anime Onegai 5" tvg-name="Canal Anime Onegai 5" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 5 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime HD
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
@@ -137,7 +127,7 @@ https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Familiares",Retrotoons HD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
+https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV Live HD
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
