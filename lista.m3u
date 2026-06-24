@@ -121,7 +121,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV HD
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="Familiares",Canal Familia HD
-https://live20.bozztv.com/giatv/giatv-canalfamiliahdven/canalfamiliahdven/playlist.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS HD
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-name="Memorias TV Toons" tvg-id="Memorias Toons" tvg-logo="https://i.ibb.co/1YR1pCRZ/Logo-Memorias-Toons.png" group-title="Familiares",Memorias Toons HD
