@@ -437,7 +437,7 @@ https://cnn.hostlagarto.com/telesiglo/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",Classic Plus
 http://45.173.201.51:4000/play/a0lo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINOAMERICA",Tele Posadas HD
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",El Palomar TV
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/t7F5yRP/Logo-Mega-Cine-TV.png" group-title="LATINOAMERICA",Mega Cine TV HD
@@ -445,7 +445,7 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xtvWwt6C/Logo-BOREAL-TV-HD.png" group-title="LATINOAMERICA",BOREAL TV HD
 https://edge.essastream.com/borealtelevision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4GL6n4P/Logo-Mi-Canal-HD.png" group-title="LATINOAMERICA",Mi Canal HD
-https://live20.bozztv.com/akamaissh101/ssh101/micanalcolombia/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/micanalcolombia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINOAMERICA",TV del Este HD
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",Larivision HD
@@ -463,7 +463,7 @@ https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINOAMERICA",Imagen  Universal TV HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",Canal 3 KMK
-https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+https://lbgo.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtbrYhq/Logo-Simavision.png" group-title="LATINOAMERICA",Sima Vision TV HD
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",CR TV HD
@@ -549,7 +549,7 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/baZgkgk.png" group-title="LATINOAMERICA",Luna TV HD
 https://stream.lunatv.do/hls/prueba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/69DP02h.jpg" group-title="LATINOAMERICA", Imperio TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/imperiotvcanal6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eD5e7vs.jpg" group-title="LATINOAMERICA",Canal 57 HD
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pUZbjEU.jpg" group-title="LATINOAMERICA",RTV Canal 57 HD
