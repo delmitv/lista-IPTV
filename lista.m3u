@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="Laika Channel Latinoamerica" tvg-id="LaikaChannelLatinoamerica" tvg-logo="https://i.ibb.co/yBBd2bvG/Laika-Channel-Latinoamerica.png" group-title="JOVENES Y ADULTOS",Laika Channel Latinoamerica HD
+#EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station HD
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 #EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
@@ -64,7 +64,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics HD (Opcion 2)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/kYdb9nr/Logo-Buzz.png" group-title="JOVENES Y ADULTOS",Canal Buzz HD 
+#EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" group-title="JOVENES Y ADULTOS",Canal Buzz HD 
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 #EXTINF:-1 tvg-name="3Cat Anime" tvg-id="3CatAnime" tvg-logo="https://i.ibb.co/D0bqcJx/HG-q-YIva-EAAZs-OQ.jpg" group-title="JOVENES Y ADULTOS",3Cat Anime HD (geobloqueo)
 https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
