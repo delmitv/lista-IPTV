@@ -4,7 +4,7 @@
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 #EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
 https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
-#EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/nqkqsK8Y/Letras-de-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel HD
+#EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/KpQZrVtp/Laika-Channel-sin-fondo-2026-Esp.png" group-title="JOVENES Y ADULTOS",Laika Channel HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-name="Laika Channel Galicia" tvg-id="LaikaChannelGalicia" tvg-logo="https://i.ibb.co/8gBCpNNt/Letras-de-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia HD
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
