@@ -142,8 +142,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime",Goku TV HD
 https://lbgo.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
-https://tv.arkeo.cl:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qFm2LPB2/Nostalgia-TV.jpg" group-title="Familiares",Nostalgia TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="Familiares",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean Animado HD (geobloqueo)
@@ -242,8 +242,6 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 http://78.130.250.2:8023/play/a04d
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCtKJYb/logo-SX3.png" group-title="Familiares",SX3 HD (geobloqueo)
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rv44TqV/Logo-Rantaro-el-Ninja-Boy.jpg" group-title="Familiares",Rantaro el Ninja Boy en Rakuten TV HD
-https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mqP0fSd/Logo-En-Familia.jpg" group-title="Familiares",En Familia HD
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network HD
