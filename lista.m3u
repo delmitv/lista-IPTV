@@ -101,7 +101,7 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Time Travel NETWORK TV" tvg-logo="https://i.ibb.co/GqFdZwH/Logo-Time-Travel-Network-TV.png" group-title="Familiares",Time Travel NETWORK TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2c5jsdq/Logo-Magic-Kids-OK.png" group-title="Familiares",Magic Kids OK
 https://proyectomagic.b-cdn.net/live/stream_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
