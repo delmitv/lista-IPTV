@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station HD
-https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
-#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
-https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
 #EXTINF:-1 tvg-name="Delmi Channel" tvg-id="DelmiChannel" tvg-logo="https://i.ibb.co/gZCCQtMx/Delmi-Channel.png" group-title="JOVENES Y ADULTOS",Delmi Channel HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-name="Delmi Channel Galicia" tvg-id="DelmiChannelGalicia" tvg-logo="https://i.ibb.co/mCctc4tH/Delmi-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Channel Galicia HD
@@ -70,6 +66,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime HD
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station HD
+https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
+#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
+https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",TALTALTV ANIME (series) HD
