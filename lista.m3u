@@ -383,7 +383,7 @@ http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GPPj9Rt/Vitrola-TV.jpg" group-title="LATINOAMERICA",La Vitrola TV HD
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkSym0yL/Logo-Tele-Posadas.png" group-title="LATINOAMERICA",Tele Posadas TV HD
-https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",Next HD
 https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxmbq299/Logo-Richy-TV-Tucuman.jpg" group-title="LATINOAMERICA",Ricky TV Tucuman HD
