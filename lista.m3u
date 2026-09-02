@@ -56,12 +56,8 @@ https://lbgo.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 https://lbgo.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision HD
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
-#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision HD (Opcion 2)
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics HD
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
-#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics HD (Opcion 2)
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" group-title="JOVENES Y ADULTOS",Canal Buzz HD 
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 #EXTINF:-1 tvg-name="3Cat Anime" tvg-id="3CatAnime" tvg-logo="https://i.ibb.co/D0bqcJx/HG-q-YIva-EAAZs-OQ.jpg" group-title="JOVENES Y ADULTOS",3Cat Anime HD (geobloqueo)
@@ -92,6 +88,14 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8D2b197K/Japanmotion.png" group-title="Anime",Japanmotion HD
+https://tv.japanmotion.com/iptv/session/1/hls.m3u8
+#EXTINF:-1 tvg-id="" group-title="Anime",Goku TV HD
+https://lbgo.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Anime",Totoro HD
+https://lbgo.bozztv.com/ssh101/ssh101/totorohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Anime",One Piece HD (subtitulado)
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-id="CNCity" tvg-name="CN City" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN City HD
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
@@ -130,8 +134,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SXZG5Nfv/Logo-Docevisi-n.jpg" group-title="Familiares",Docevision HD
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Anime",Goku TV HD
-https://lbgo.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qFm2LPB2/Nostalgia-TV.jpg" group-title="Familiares",Nostalgia TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="Familiares",Mr Bean HD
@@ -900,16 +902,8 @@ https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 http://92.176.119.180:2095/play/a1fu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvZhr5pW/cla.jpg" group-title="Infantil",Clásicos Animados (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" group-title="Anime",Ranma 1/2 HD
-http://miotv.cc:8080/Lopez123/Lopez123/400775
 #EXTINF:-1 tvg-id="" group-title="LATINOAMERICA",Nortena TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nd6H8BJn/ab6775700000ee85b2b90610d223a3f58c218b11.jpg" group-title="LATINOAMERICA",TVP Argentina HD
-http://miotv.cc:8080/Lopez123/Lopez123/272059
-#EXTINF:-1 tvg-id="" group-title="Anime",Dragon Ball Z Saga Androides HD
-http://miotv.cc:8080/Lopez123/Lopez123/409821
-#EXTINF:-1 tvg-id="" group-title="Anime",Dragon Ball Z Saga Saiyajins HD
-http://miotv.cc:8080/Lopez123/Lopez123/409819
 
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb" tvg-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Spain",123GO!
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63eecb32ac23d1ee072087cb/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
