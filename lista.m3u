@@ -122,6 +122,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
 https://lbgo.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Familiares",Retrotoons HD (Opcion 2)
 https://lbgo.bozztv.com/ssh101/ssh101/retrotoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvWGSm01/DFTV-Animacion.jpg" group-title="Familiares",DFTV Animacion HD
+https://lbgo.bozztv.com/giatv/giatv-desiertofloridoatacamachile/desiertofloridoatacamachile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV Live HD
