@@ -118,7 +118,7 @@ https://kali.vdopanel.com:3909/stream/play.m3u8
 https://lbgo.bozztv.com/giatv/giatv-fooxkids/fooxkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4Tyn69H/Logo-Cartoon-Clasico.png" group-title="Familiares",Cartoon Clasico LAT HD
 https://lbgo.bozztv.com/ssh101/ssh101/cartoonclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/213nRFfy/Logo-Canal-Familia-HD.jpg" group-title="Familiares",Canal Familia HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/TMtTvBvY/Canal-Familia.jpg" group-title="Familiares",Canal Familia HD
 https://lbgo.bozztv.com/ssh101/ssh101/canalfamiliahdv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS HD
 https://lbgo.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
