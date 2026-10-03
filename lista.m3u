@@ -70,8 +70,10 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
 http://45.181.122.46:8090/play/a00t
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",TALTALTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",TALTALTV HD (Opcion 1)
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",TALTALTV HD (Opcion 2)
+https://live20.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" group-title="JOVENES Y ADULTOS",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
