@@ -208,8 +208,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/testvideo50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qFm2LPB2/Nostalgia-TV.jpg" group-title="Familiares",Nostalgia TV HD (Opcion 2)
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Familiares",TLN HD
-http://38.134.250.110:8000/play/a01q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="Familiares",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean Animado HD (geobloqueo)
@@ -832,6 +830,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W2kd8dJ/Logo-Alfa-TV.png" group-title="MUSICAS",Alfa TV HD
 https://v2.tustreaming.cl/alfatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSICAS",TLN HD
+http://38.134.250.110:8000/play/a01q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dwR2k9fw/Logo-FM-95-5-Radio-Rep-blica.png" group-title="MUSICAS",FM 95 5 Radio República HD
 https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkddPWwM/Logo-Radio-Estudio-100-3.jpg" group-title="MUSICAS",Radio Estudio 100 3 HD
