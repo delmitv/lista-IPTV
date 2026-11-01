@@ -70,6 +70,10 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 https://lbgo.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="JOVENES Y ADULTOS",Zyoon Tv HD (Opcion 2)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQxH4smD/Logo-WEPA-TV.png" group-title="JOVENES Y ADULTOS",Wepa TV
+https://lbgo.bozztv.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQxH4smD/Logo-WEPA-TV.png" group-title="JOVENES Y ADULTOS",Wepa TV (Opcion 2)
+https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
 #EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired HD
 https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV HD
@@ -160,6 +164,10 @@ https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime",Grupo Medios Mendoza (Anime) HD
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="Anime",Varied TV
+https://lbgo.bozztv.com/ssh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="Anime",Varied TV (Opcion 2)
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCity" tvg-name="CN City" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="Familiares",CN City HD
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
@@ -388,6 +396,10 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 http://200.229.147.142:8000/play/a05z
 #EXTINF:-1 tvg-id="" group-title="SPAIN",Cine Oro HD
 http://38.44.109.41:8003/play/a01k
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrmB60w6/television-canaria5550-logowik-com.webp" group-title="SPAIN",TV Canaria 1 (RTVC) 
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrmB60w6/television-canaria5550-logowik-com.webp" group-title="SPAIN",TV Canaria 2 (RTVC) 
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
