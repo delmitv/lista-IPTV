@@ -36,6 +36,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/wowdocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/B23R0Tq9/Jetix.jpg" group-title="JOVENES Y ADULTOS",Jetix HD
 https://app.viloud.tv/hls/channel/14f9517f36166600c79487cef1ab4d0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kVwjftxz/logojetix.png" group-title="JOVENES Y ADULTOS",My Jetix Retro HD
+https://lbgo.bozztv.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kVwjftxz/logojetix.png" group-title="JOVENES Y ADULTOS",My Jetix Retro HD
+https://live20.bozztv.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gLsvbNM5/Fox-Kids.png" group-title="JOVENES Y ADULTOS",Fox Kids HD Brasil
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD
@@ -344,7 +348,7 @@ https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://92.176.119.180:2095/play/a1fb
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIPtRj4ER85JtsSm32xJNynn0-wcf3fMbm9F0QYgP2Qw&s=10" group-title="SPAIN",RTVE 70 años HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCYNtq6P/RTVE-70-a-os.png" group-title="SPAIN",RTVE 70 años HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm28_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",Somos Cine (RTVE) HD
 https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_1080.m3u8
