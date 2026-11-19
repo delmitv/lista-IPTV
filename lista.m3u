@@ -432,8 +432,8 @@ http://168.228.44.241:9997/play/AZTECA7
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINOAMERICA",Tele Estrella
 https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINOAMERICA",Tele Estrella HD Bolivia
-https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w1192131343.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINOAMERICA",Tele Estrella HD de Bolivia
+https://edge.enhdtv.com/teleestrella/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINOAMERICA",Las Estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tvw3Z8G/Logo-TVTICA.png" group-title="LATINOAMERICA",Teletica 7 HD
